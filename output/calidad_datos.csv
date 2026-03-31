@@ -1,0 +1,19 @@
+issue,count,pct_total_rows,severity,stage,description,column,null_count,pct_null
+rows_excluded_missing_external_order_in_pi,2958.0,1.0157,high,filtered,Filas PI excluidas del modelo principal por no tener pedido externo.,,,
+rows_after_movement_filter,66336.0,22.7773,info,filtered,Filas conservadas tras filtrar Tipo movimiento = PI.,,,
+rows_after_model_filters,63378.0,21.7617,info,model,Filas válidas para el modelo principal.,,,
+missing_article,64214.0,22.0487,high,raw,Filas sin artículo.,,,
+missing_completion_date,8257.0,2.8351,high,raw,Filas sin fecha finalización interpretable.,,,
+missing_external_order,129744.0,44.5493,high,raw,Filas sin pedido externo.,,,
+missing_owner,64214.0,22.0487,high,raw,Filas sin propietario.,,,
+missing_location,124561.0,42.7696,medium,raw,Filas sin ubicación.,,,
+non_positive_quantity,70353.0,24.1566,medium,raw,Filas con cantidad nula o no positiva.,,,
+potential_duplicate_rows,12732.0,4.3717,medium,raw,Filas duplicadas sobre la clave operativa mínima.,,,
+null_summary,,,,,,movement_type,8257.0,0.028351
+null_summary,,,,,,completion_date,8257.0,0.028351
+null_summary,,,,,,article,64214.0,0.220487
+null_summary,,,,,,article_description,64214.0,0.220487
+null_summary,,,,,,quantity,64242.0,0.220583
+null_summary,,,,,,owner,64214.0,0.220487
+null_summary,,,,,,location,124561.0,0.427696
+null_summary,,,,,,external_order,129744.0,0.445493

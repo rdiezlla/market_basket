@@ -1,0 +1,38 @@
+2026-03-31 16:21:30 | INFO | market_basket | Cargando archivo Excel de entrada
+2026-03-31 16:21:56 | INFO | market_basket | Ejecutando limpieza y validaciones
+2026-03-31 16:22:06 | INFO | market_basket | Construyendo transacciones compuestas Pedido externo + Propietario
+2026-03-31 16:22:11 | INFO | market_basket | Generando EDA
+2026-03-31 16:22:11 | INFO | market_basket | Calculando afinidad SKU-SKU
+2026-03-31 16:22:16 | INFO | market_basket | Calculando estabilidad temporal
+2026-03-31 16:22:33 | INFO | market_basket | Aplicando score final de layout
+2026-03-31 16:22:33 | INFO | market_basket | Detectando clusters y hubs
+2026-03-31 16:22:35 | INFO | market_basket | Escribiendo salidas
+2026-03-31 16:22:36 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-03-31 16:22:36 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-03-31 16:24:10 | INFO | market_basket | Cargando archivo Excel de entrada
+2026-03-31 16:24:36 | INFO | market_basket | Ejecutando limpieza y validaciones
+2026-03-31 16:24:47 | INFO | market_basket | Construyendo transacciones compuestas Pedido externo + Propietario
+2026-03-31 16:24:52 | INFO | market_basket | Generando EDA
+2026-03-31 16:24:52 | INFO | market_basket | Calculando afinidad SKU-SKU
+2026-03-31 16:24:56 | INFO | market_basket | Calculando estabilidad temporal
+2026-03-31 16:25:14 | INFO | market_basket | Aplicando score final de layout
+2026-03-31 16:25:14 | INFO | market_basket | Detectando clusters y hubs
+2026-03-31 16:25:14 | INFO | market_basket | Escribiendo salidas
+2026-03-31 16:25:48 | INFO | market_basket | Cargando archivo Excel de entrada
+2026-03-31 16:26:19 | INFO | market_basket | Ejecutando limpieza y validaciones
+2026-03-31 16:26:29 | INFO | market_basket | Construyendo transacciones compuestas Pedido externo + Propietario
+2026-03-31 16:26:35 | INFO | market_basket | Generando EDA
+2026-03-31 16:26:35 | INFO | market_basket | Calculando afinidad SKU-SKU
+2026-03-31 16:26:40 | INFO | market_basket | Calculando estabilidad temporal
+2026-03-31 16:27:00 | INFO | market_basket | Aplicando score final de layout
+2026-03-31 16:27:00 | INFO | market_basket | Detectando clusters y hubs
+2026-03-31 16:27:00 | INFO | market_basket | Escribiendo salidas
+2026-03-31 16:27:16 | INFO | market_basket | Cargando archivo Excel de entrada
+2026-03-31 16:27:46 | INFO | market_basket | Ejecutando limpieza y validaciones
+2026-03-31 16:27:55 | INFO | market_basket | Construyendo transacciones compuestas Pedido externo + Propietario
+2026-03-31 16:28:01 | INFO | market_basket | Generando EDA
+2026-03-31 16:28:01 | INFO | market_basket | Calculando afinidad SKU-SKU
+2026-03-31 16:28:05 | INFO | market_basket | Calculando estabilidad temporal
+2026-03-31 16:28:22 | INFO | market_basket | Aplicando score final de layout
+2026-03-31 16:28:22 | INFO | market_basket | Detectando clusters y hubs
+2026-03-31 16:28:22 | INFO | market_basket | Escribiendo salidas

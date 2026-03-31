@@ -1,0 +1,49 @@
+paths:
+  input_excel: "movimientos.xlsx"
+  output_dir: "output"
+  logs_dir: "output/logs"
+  plots_dir: "output/plots"
+
+columns:
+  movement_type: "Tipo movimiento"
+  completion_date: "Fecha finalización"
+  article: "Artículo"
+  article_description: "Denominación artículo"
+  quantity: "Cantidad"
+  owner: "Propietario"
+  location: "Ubicacion"
+  external_order: "Pedido externo"
+
+temporal:
+  rolling_windows_days: [365, 180, 90]
+  include_yearly: true
+  include_quarterly: true
+
+model:
+  valid_movement_type: "PI"
+  top_n_articles: 30
+  min_pair_transactions:
+  min_support:
+  min_confidence: 0.05
+  min_lift: 1.05
+  max_rules_output: 20000
+  cluster_min_size: 2
+  cluster_similarity_threshold: 0.18
+  max_edges_for_clustering: 4000
+  score_weights:
+    joint_frequency: 0.30
+    lift: 0.12
+    balanced_confidence: 0.14
+    similarity: 0.12
+    temporal_stability: 0.20
+    weighted_volume: 0.12
+  popularity_penalty_alpha: 2.0
+  recurrence_penalty_floor: 0.25
+  key_relationships_to_plot: 5
+
+outputs:
+  write_csv: true
+  write_parquet: true
+  write_excel: false
+
+log_level: "INFO"
