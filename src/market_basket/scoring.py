@@ -15,6 +15,42 @@ class ScoringResult:
     score_metadata: dict[str, object]
 
 
+def _build_layout_hints(scored: pd.DataFrame, bins: list[float]) -> pd.DataFrame:
+    high_bin = bins[-1]
+    medium_bin = bins[-2] if len(bins) >= 2 else bins[-1]
+
+    scored["candidate_same_slot_area"] = (
+        (scored["final_layout_score"] >= high_bin)
+        & (scored["shared_transactions"] >= scored["shared_transactions"].median())
+        & (scored["temporal_stability_score"] >= 0.55)
+    )
+    scored["candidate_same_zone"] = (
+        (scored["final_layout_score"] >= medium_bin)
+        & ~scored["candidate_same_slot_area"]
+    )
+    scored["candidate_manual_review"] = (
+        (scored["lift_component"] >= 0.70) & (scored["joint_frequency_component"] < 0.35)
+    ) | (
+        (scored["final_layout_score"] >= medium_bin) & (scored["presence_ratio"] < 0.40)
+    )
+
+    action_hints = np.select(
+        [
+            scored["candidate_same_slot_area"],
+            scored["candidate_same_zone"],
+            scored["candidate_manual_review"],
+        ],
+        [
+            "Priorizar cercania fisica fuerte dentro de la misma area o frente de picking.",
+            "Mantener dentro de la misma zona operativa y revisar secuencia de recorrido.",
+            "Revisar manualmente: relacion prometedora pero menos consolidada o potencialmente espuria.",
+        ],
+        default="Sin accion inmediata; monitorizar o mantener separado salvo criterio operativo adicional.",
+    )
+    scored["layout_action_hint"] = pd.Series(action_hints, index=scored.index, dtype="string")
+    return scored
+
+
 def compute_layout_scores(pair_metrics: pd.DataFrame, stability_metrics: pd.DataFrame, config: AppConfig) -> ScoringResult:
     if pair_metrics.empty:
         return ScoringResult(scored_pairs=pair_metrics.copy(), score_metadata={})
@@ -33,12 +69,13 @@ def compute_layout_scores(pair_metrics: pd.DataFrame, stability_metrics: pd.Data
         scored["jaccard_similarity"].fillna(0)
         + scored["cosine_similarity"].fillna(0)
         + scored["weighted_cosine_similarity"].fillna(0).clip(upper=1)
-    ) / 3
+        + scored["npmi"].fillna(0).clip(lower=0, upper=1)
+    ) / 4
     scored["weighted_volume_component"] = log_scale(scored["weighted_shared_quantity"])
     scored["temporal_stability_component"] = scored["temporal_stability_score"].clip(lower=0, upper=1)
 
     weights = config.model.score_weights
-    weighted_sum = (
+    scored["weighted_score_pre_penalty"] = (
         weights["joint_frequency"] * scored["joint_frequency_component"]
         + weights["lift"] * scored["lift_component"]
         + weights["balanced_confidence"] * scored["balanced_confidence_component"]
@@ -58,17 +95,21 @@ def compute_layout_scores(pair_metrics: pd.DataFrame, stability_metrics: pd.Data
     )
     stability_gate = 0.4 + 0.6 * scored["presence_ratio"].clip(lower=0, upper=1)
     scored["operational_relevance_factor"] = recurrence_penalty * stability_gate
-
     scored["final_layout_score"] = (
-        weighted_sum
+        scored["weighted_score_pre_penalty"]
         * scored["operational_relevance_factor"]
         * scored["popularity_penalty_factor"].clip(lower=0.1, upper=1.0)
     ).clip(lower=0, upper=1)
+
+    bins = list(config.thresholds.scoring.proximity_bins)
+    labels = list(config.thresholds.scoring.proximity_labels)
     scored["proximity_recommendation"] = pd.cut(
         scored["final_layout_score"],
-        bins=[-0.01, 0.25, 0.45, 0.65, 1.0],
-        labels=["low", "medium", "high", "very_high"],
+        bins=[-0.001, *bins, 1.0],
+        labels=labels,
+        include_lowest=True,
     ).astype("string")
+    scored = _build_layout_hints(scored, bins)
 
     scored = scored.sort_values(
         ["final_layout_score", "shared_transactions", "temporal_stability_score"],
@@ -77,11 +118,23 @@ def compute_layout_scores(pair_metrics: pd.DataFrame, stability_metrics: pd.Data
 
     metadata = {
         "formula": (
-            "score = (w_freq*freq_norm + w_lift*lift_norm + w_conf*balanced_conf_norm + "
-            "w_similarity*similarity + w_stability*stability + w_volume*volume_norm) * "
-            "operational_relevance_factor * popularity_penalty"
+            "score = weighted_score_pre_penalty * operational_relevance_factor * popularity_penalty"
         ),
+        "components": {
+            "joint_frequency_component": "Frecuencia conjunta normalizada con escala logaritmica.",
+            "lift_component": "Lift suavizado con log1p para reducir el impacto de extremos raros.",
+            "balanced_confidence_component": "Confianza bidireccional equilibrada.",
+            "similarity_component": "Promedio de Jaccard, cosine, weighted cosine y npmi positivo.",
+            "weighted_volume_component": "Volumen compartido ponderado por cantidad.",
+            "temporal_stability_component": "Persistencia y estabilidad temporal de la relacion.",
+            "operational_relevance_factor": "Penaliza baja recurrencia y baja presencia temporal.",
+            "popularity_penalty_factor": "Reduce el peso de relaciones triviales dominadas por SKUs muy frecuentes.",
+        },
         "weights": weights,
+        "recommendation_bins": {
+            "bins": bins,
+            "labels": labels,
+        },
         "operational_relevance_floor_transactions": operational_floor,
     }
 

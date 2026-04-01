@@ -14,14 +14,27 @@ class EDAResult:
     time_series: pd.DataFrame
 
 
+def _empty_eda_result() -> EDAResult:
+    empty = pd.DataFrame()
+    return EDAResult(
+        kpi_summary=empty,
+        article_summary=empty,
+        transaction_summary=empty,
+        owner_article_summary=empty,
+        time_series=empty,
+    )
+
+
 def build_eda_outputs(
     clean_df: pd.DataFrame,
     transactions_df: pd.DataFrame,
     tx_item_df: pd.DataFrame,
     sku_attributes: pd.DataFrame,
 ) -> EDAResult:
-    basket_distribution = transactions_df["basket_size"].value_counts().sort_index()
+    if clean_df.empty or transactions_df.empty or tx_item_df.empty:
+        return _empty_eda_result()
 
+    basket_distribution = transactions_df["basket_size"].value_counts().sort_index()
     kpi_summary = pd.DataFrame(
         [
             {
@@ -62,45 +75,56 @@ def build_eda_outputs(
         .agg(transaction_frequency=("transaction_id", "nunique"), total_quantity=("quantity_sum", "sum"))
         .reset_index()
         .sort_values(["owner", "transaction_frequency", "total_quantity"], ascending=[True, False, False])
+        .reset_index(drop=True)
     )
 
     yearly = (
         transactions_df.groupby("year", dropna=False)
         .agg(transactions=("transaction_id", "nunique"), avg_basket_size=("basket_size", "mean"))
         .reset_index()
-        .assign(granularity="year", period=lambda x: x["year"].astype("string"))
     )
+    yearly["granularity"] = "year"
+    yearly["period"] = yearly["year"].astype("string")
+    yearly["period_start"] = pd.to_datetime(yearly["year"].astype("Int64").astype("string") + "-01-01", errors="coerce")
+
     quarterly = (
         transactions_df.groupby("quarter", dropna=False)
         .agg(transactions=("transaction_id", "nunique"), avg_basket_size=("basket_size", "mean"))
         .reset_index()
-        .assign(granularity="quarter", period=lambda x: x["quarter"].astype("string"))
     )
+    quarterly["granularity"] = "quarter"
+    quarterly["period"] = quarterly["quarter"].astype("string")
+    quarterly["period_start"] = quarterly["quarter"].dropna().astype("period[Q]").dt.start_time
+
     monthly = (
         transactions_df.groupby("month", dropna=False)
         .agg(transactions=("transaction_id", "nunique"), avg_basket_size=("basket_size", "mean"))
         .reset_index()
-        .assign(granularity="month", period=lambda x: x["month"].astype("string"))
     )
+    monthly["granularity"] = "month"
+    monthly["period"] = monthly["month"].astype("string")
+    monthly["period_start"] = monthly["month"].dropna().astype("period[M]").dt.start_time
+
     basket_dist_df = basket_distribution.rename("transactions").reset_index()
     basket_dist_df.columns = ["period", "transactions"]
     basket_dist_df["granularity"] = "basket_size_distribution"
     basket_dist_df["avg_basket_size"] = float("nan")
+    basket_dist_df["period_start"] = pd.NaT
 
     time_series = pd.concat(
         [
-            yearly[["granularity", "period", "transactions", "avg_basket_size"]],
-            quarterly[["granularity", "period", "transactions", "avg_basket_size"]],
-            monthly[["granularity", "period", "transactions", "avg_basket_size"]],
-            basket_dist_df[["granularity", "period", "transactions", "avg_basket_size"]],
+            yearly[["granularity", "period", "period_start", "transactions", "avg_basket_size"]],
+            quarterly[["granularity", "period", "period_start", "transactions", "avg_basket_size"]],
+            monthly[["granularity", "period", "period_start", "transactions", "avg_basket_size"]],
+            basket_dist_df[["granularity", "period", "period_start", "transactions", "avg_basket_size"]],
         ],
         ignore_index=True,
-    )
+    ).sort_values(["granularity", "period_start", "period"], ascending=[True, True, True], na_position="last")
 
     return EDAResult(
         kpi_summary=kpi_summary,
         article_summary=article_summary,
         transaction_summary=transactions_df.sort_values("transaction_date").reset_index(drop=True),
         owner_article_summary=owner_article_summary,
-        time_series=time_series,
+        time_series=time_series.reset_index(drop=True),
     )

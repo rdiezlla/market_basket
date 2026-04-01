@@ -1,35 +1,74 @@
 paths:
-  input_excel: "movimientos.xlsx"
+  input_data: "movimientos.xlsx"
+  sheet_name: "Sheet1"
   output_dir: "output"
   logs_dir: "output/logs"
   plots_dir: "output/plots"
 
 columns:
   movement_type: "Tipo movimiento"
-  completion_date: "Fecha finalización"
-  article: "Artículo"
-  article_description: "Denominación artículo"
+  completion_date: "Fecha finalizacion"
+  article: "Articulo"
+  article_description: "Denominacion articulo"
   quantity: "Cantidad"
   owner: "Propietario"
   location: "Ubicacion"
   external_order: "Pedido externo"
+
+data_quality:
+  exclude_non_positive_quantity: true
+  drop_exact_duplicates: false
+  duplicate_subset:
+    - "movement_type"
+    - "completion_date"
+    - "article"
+    - "quantity"
+    - "owner"
+    - "location"
+    - "external_order"
+
+transaction:
+  id_separator: "|"
+  date_strategy: "max_completion_date"
 
 temporal:
   rolling_windows_days: [365, 180, 90]
   include_yearly: true
   include_quarterly: true
 
+thresholds:
+  pairs:
+    min_pair_transactions:
+    min_support:
+    adaptive_support_floor: 0.0002
+    adaptive_pair_count_quantile: 0.95
+    adaptive_min_count: 3
+    adaptive_max_count: 5
+    raw_temporal_min_shared_transactions: 1
+  rules:
+    min_confidence: 0.05
+    min_lift: 1.05
+    max_rules_output: 20000
+    exclude_frequent_articles_above_support:
+  clustering:
+    min_cluster_size: 2
+    similarity_threshold: 0.18
+    min_edge_shared_transactions:
+  scoring:
+    proximity_bins: [0.25, 0.45, 0.65]
+    proximity_labels: ["low", "medium", "high", "very_high"]
+
+performance:
+  max_edges_for_clustering: 4000
+  graph_plot_max_edges: 100
+  heatmap_top_n: 20
+  raw_temporal_min_period_transactions: 2
+  use_sparse_pair_engine: false
+  clustering_method: "greedy_modularity"
+
 model:
   valid_movement_type: "PI"
   top_n_articles: 30
-  min_pair_transactions:
-  min_support:
-  min_confidence: 0.05
-  min_lift: 1.05
-  max_rules_output: 20000
-  cluster_min_size: 2
-  cluster_similarity_threshold: 0.18
-  max_edges_for_clustering: 4000
   score_weights:
     joint_frequency: 0.30
     lift: 0.12
@@ -40,6 +79,8 @@ model:
   popularity_penalty_alpha: 2.0
   recurrence_penalty_floor: 0.25
   key_relationships_to_plot: 5
+  heatmap_metric: "final_layout_score"
+  score_weight_policy: "normalize"
 
 outputs:
   write_csv: true

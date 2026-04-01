@@ -11,6 +11,9 @@ __pycache__/
 .venv/
 venv/
 
+# Generated outputs
+output/
+
 # OS/editor files
 .DS_Store
 Thumbs.db

@@ -5,12 +5,13 @@ from datetime import datetime
 
 import pandas as pd
 
+from . import __version__
 from .associations import AssociationResult, compute_associations
 from .cleaning import CleanResult, clean_movements
 from .clustering import ClusterResult, build_clusters
 from .config import AppConfig
 from .eda import EDAResult, build_eda_outputs
-from .io import project_columns, read_input_excel, validate_required_columns
+from .io import RawLoadResult, project_columns, read_input_dataset, validate_required_columns
 from .outputs import (
     create_visualizations,
     prepare_output_paths,
@@ -27,6 +28,7 @@ from .utils import dataframe_to_records, get_logger
 
 @dataclass
 class PipelineArtifacts:
+    raw: RawLoadResult
     cleaning: CleanResult
     transactions: TransactionBuildResult
     eda: EDAResult
@@ -37,103 +39,139 @@ class PipelineArtifacts:
     metadata: dict
 
 
-def run_pipeline(config: AppConfig) -> PipelineArtifacts:
-    logger = get_logger()
-    logger.info("Cargando archivo Excel de entrada")
-    raw_result = read_input_excel(config)
-    validate_required_columns(raw_result.dataframe, config)
-    projected = project_columns(raw_result.dataframe, config)
-
-    logger.info("Ejecutando limpieza y validaciones")
-    cleaning = clean_movements(projected, config)
-
-    logger.info("Construyendo transacciones compuestas Pedido externo + Propietario")
-    transactions = build_transactions(cleaning.clean_df)
-
-    logger.info("Generando EDA")
-    eda = build_eda_outputs(cleaning.clean_df, transactions.transactions_df, transactions.tx_item_df, cleaning.sku_attributes)
-
-    logger.info("Calculando afinidad SKU-SKU")
-    associations = compute_associations(transactions.tx_item_df, config)
-
-    logger.info("Calculando estabilidad temporal")
-    temporal = compute_temporal_stability(transactions.tx_item_df, config)
-
-    logger.info("Aplicando score final de layout")
-    scoring = compute_layout_scores(associations.pair_metrics, temporal.stability_metrics, config)
-
-    logger.info("Detectando clusters y hubs")
-    if config.model.min_pair_transactions is None:
-        config.model.min_pair_transactions = int(associations.thresholds["min_pair_transactions"])
-    clusters = build_clusters(scoring.scored_pairs, eda.article_summary, config)
-    if not clusters.hub_summary.empty:
-        eda.article_summary = eda.article_summary.merge(clusters.hub_summary, on="article", how="left")
-
-    output_paths = prepare_output_paths(config)
-    logger.info("Escribiendo salidas")
-
-    quality_export = pd.concat([cleaning.quality_summary, cleaning.null_summary.assign(issue="null_summary")], ignore_index=True, sort=False)
+def _build_series_temporales(eda: EDAResult, temporal: TemporalResult) -> pd.DataFrame:
     aggregate_time_series = eda.time_series.copy()
-    aggregate_time_series["series_type"] = "aggregate_transactions"
+    if not aggregate_time_series.empty:
+        aggregate_time_series["series_type"] = "aggregate_transactions"
+
     pair_time_series = temporal.temporal_pairs.copy()
     if not pair_time_series.empty:
         pair_time_series["series_type"] = "pair_affinity"
+
     series_temporales = pd.concat([aggregate_time_series, pair_time_series], ignore_index=True, sort=False)
-    for column in ["granularity", "period", "series_type", "article_a", "article_b", "period_label"]:
+    for column in [
+        "granularity",
+        "period",
+        "series_type",
+        "article_a",
+        "article_b",
+        "period_label",
+        "period_granularity",
+        "support_trend",
+        "lift_trend",
+        "trend_classification",
+    ]:
         if column in series_temporales.columns:
             series_temporales[column] = series_temporales[column].astype("string")
+    return series_temporales
+
+
+def run_pipeline(config: AppConfig) -> PipelineArtifacts:
+    logger = get_logger()
+    logger.info("Stage 1/8 | Reading input dataset")
+    raw = read_input_dataset(config)
+    validate_required_columns(raw.dataframe, config)
+    projected = project_columns(raw.dataframe, config)
+    if projected.empty:
+        raise ValueError("No rows were loaded from the input dataset after projection.")
+
+    logger.info("Stage 2/8 | Cleaning and data-quality rules")
+    cleaning = clean_movements(projected, config)
+    if cleaning.clean_df.empty:
+        raise ValueError("The main model dataset is empty after cleaning and business filters.")
+
+    logger.info("Stage 3/8 | Building transactions")
+    transactions = build_transactions(cleaning.clean_df, config)
+    if transactions.transactions_df.empty or transactions.tx_item_df.empty:
+        raise ValueError("Transaction generation returned empty outputs.")
+
+    logger.info("Stage 4/8 | Building EDA outputs")
+    eda = build_eda_outputs(cleaning.clean_df, transactions.transactions_df, transactions.tx_item_df, cleaning.sku_attributes)
+
+    logger.info("Stage 5/8 | Computing associations and rules")
+    associations = compute_associations(transactions.tx_item_df, config)
+
+    logger.info("Stage 6/8 | Computing raw temporal pairs and stability")
+    temporal = compute_temporal_stability(transactions.tx_item_df, config)
+
+    logger.info("Stage 7/8 | Computing layout scores and SKU graph")
+    scoring = compute_layout_scores(associations.pair_metrics, temporal.stability_metrics, config)
+    min_edge_shared_transactions = int(associations.thresholds.get("clustering", {}).get("min_edge_shared_transactions", 1))
+    clusters = build_clusters(scoring.scored_pairs, eda.article_summary, config, min_edge_shared_transactions)
+    if not clusters.hub_summary.empty and not eda.article_summary.empty:
+        eda.article_summary = eda.article_summary.merge(clusters.hub_summary, on="article", how="left")
+
+    logger.info("Stage 8/8 | Writing outputs, metadata and plots")
+    output_paths = prepare_output_paths(config)
+    quality_export = pd.concat(
+        [
+            cleaning.quality_summary,
+            cleaning.null_summary.assign(issue="null_summary", severity="info", stage="raw", rule=pd.NA, description="Null profile by column."),
+        ],
+        ignore_index=True,
+        sort=False,
+    )
+    series_temporales = _build_series_temporales(eda, temporal)
 
     save_dataframe("kpi_resumen", eda.kpi_summary, output_paths, config)
     save_dataframe("calidad_datos", quality_export, output_paths, config)
     save_dataframe("transacciones_resumen", eda.transaction_summary, output_paths, config)
     save_dataframe("articulos_resumen", eda.article_summary, output_paths, config)
     save_dataframe("articulos_por_propietario", eda.owner_article_summary, output_paths, config)
+    save_dataframe("sku_location_profile", cleaning.sku_location_profile, output_paths, config)
+    save_dataframe("item_metrics", associations.item_metrics, output_paths, config)
     save_dataframe("afinidad_pares", scoring.scored_pairs, output_paths, config)
     save_dataframe("afinidad_reglas", associations.rule_metrics, output_paths, config)
     save_dataframe("clusters_sku", clusters.cluster_summary, output_paths, config)
     save_dataframe("hubs_sku", clusters.hub_summary, output_paths, config)
+    save_dataframe("raw_temporal_pairs", temporal.raw_temporal_pairs, output_paths, config)
+    save_dataframe("temporal_stability_metrics", temporal.stability_metrics, output_paths, config)
     save_dataframe("series_temporales", series_temporales, output_paths, config)
     save_quality_logs(cleaning.excluded_missing_order, cleaning.null_summary, output_paths)
 
     plots = create_visualizations(
-        transactions.transactions_df,
-        eda.article_summary,
-        scoring.scored_pairs,
-        temporal.temporal_pairs,
-        clusters.graph_edges,
-        output_paths,
-        config,
+        transactions_df=transactions.transactions_df,
+        article_summary=eda.article_summary,
+        scored_pairs=scoring.scored_pairs,
+        raw_temporal_pairs=temporal.raw_temporal_pairs,
+        graph_edges=clusters.graph_edges,
+        paths=output_paths,
+        config=config,
     )
     render_executive_summary(
-        output_paths.base_dir / "resumen_ejecutivo.md",
-        cleaning.quality_summary,
-        eda.kpi_summary,
-        scoring.scored_pairs,
-        clusters.cluster_summary,
-        clusters.hub_summary,
+        summary_path=output_paths.base_dir / "resumen_ejecutivo.md",
+        quality_summary=cleaning.quality_summary,
+        kpi_summary=eda.kpi_summary,
+        scored_pairs=scoring.scored_pairs,
+        clusters_df=clusters.cluster_summary,
+        hubs_df=clusters.hub_summary,
+        stability_metrics=temporal.stability_metrics,
     )
 
     metadata = {
+        "model_version": __version__,
         "execution_timestamp": datetime.now().isoformat(),
-        "input_file": str(raw_result.input_path),
+        "input_file": str(raw.input_path),
+        "input_format": raw.input_format,
+        "sheet_name": config.paths.sheet_name,
+        "column_mapping": raw.column_mapping,
         "filters_applied": {
             "movement_type": config.model.valid_movement_type,
-            "transaction_definition": "Pedido externo + Propietario",
-            "excluded_missing_external_order_from_main_model": True,
+            "transaction_definition": f"external_order{config.transaction.id_separator}owner",
+            "transaction_date_strategy": config.transaction.date_strategy,
         },
         "analyzed_date_range": {"min": cleaning.profile.get("min_date"), "max": cleaning.profile.get("max_date")},
         "dataset_profile": cleaning.profile,
+        "exclusions_applied": cleaning.exclusions_applied,
+        "active_cleaning_rules": {
+            "data_quality": config.data_quality.__dict__,
+        },
         "transactions": int(transactions.transactions_df["transaction_id"].nunique()),
         "skus": int(transactions.tx_item_df["article"].nunique()),
         "owners": int(transactions.transactions_df["owner"].nunique()),
-        "model_parameters": {
-            **associations.thresholds,
-            "score_weights": config.model.score_weights,
-            "cluster_similarity_threshold": config.model.cluster_similarity_threshold,
-            "cluster_min_size": config.model.cluster_min_size,
-            "temporal_windows_days": config.temporal.rolling_windows_days,
-        },
-        "score_formula": scoring.score_metadata,
+        "thresholds_used": associations.thresholds,
+        "score_metadata": scoring.score_metadata,
+        "performance": config.performance.__dict__,
         "generated_plots": plots,
         "samples": {
             "top_pairs": dataframe_to_records(scoring.scored_pairs, limit=10),
@@ -143,6 +181,7 @@ def run_pipeline(config: AppConfig) -> PipelineArtifacts:
     save_metadata(metadata, output_paths)
 
     return PipelineArtifacts(
+        raw=raw,
         cleaning=cleaning,
         transactions=transactions,
         eda=eda,
