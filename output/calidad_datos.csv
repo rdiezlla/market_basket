@@ -1,0 +1,20 @@
+issue,count,pct_total_rows,severity,stage,rule,description,column,null_count,pct_null
+rows_excluded_missing_external_order_in_pi,3300.0,1.7751,high,filtered,,PI rows excluded from the main model due to missing external order.,,,
+rows_excluded_non_positive_quantity_in_pi,0.0,0.0,high,filtered,data_quality.exclude_non_positive_quantity=true,PI rows excluded from the main model due to quantity <= 0.,,,
+rows_after_movement_filter,67332.0,36.2189,info,filtered,PI,Rows kept after filtering movement_type = PI.,,,
+rows_after_model_filters,64032.0,34.4438,info,model,,Rows available for the main basket model after cleaning and business filters.,,,
+missing_article,0.0,0.0,high,raw,,Rows without article.,,,
+missing_completion_date,0.0,0.0,high,raw,,Rows without a parseable completion date.,,,
+missing_external_order,63958.0,34.404,high,raw,,Rows without external order.,,,
+missing_owner,0.0,0.0,high,raw,,Rows without owner.,,,
+missing_location,17350.0,9.3328,medium,raw,,Rows without location.,,,
+non_positive_quantity_raw,1.0,0.0005,medium,raw,,"Rows with null, zero or negative quantity.",,,
+potential_duplicate_rows,3318.0,1.7848,medium,raw,"movement_type,completion_date,article,quantity,owner,location,external_order",Potential duplicates detected over the configured subset.,,,
+null_summary,,,info,raw,,Null profile by column.,movement_type,0.0,0.0
+null_summary,,,info,raw,,Null profile by column.,completion_date,0.0,0.0
+null_summary,,,info,raw,,Null profile by column.,article,0.0,0.0
+null_summary,,,info,raw,,Null profile by column.,article_description,0.0,0.0
+null_summary,,,info,raw,,Null profile by column.,quantity,0.0,0.0
+null_summary,,,info,raw,,Null profile by column.,owner,0.0,0.0
+null_summary,,,info,raw,,Null profile by column.,location,17350.0,0.093328
+null_summary,,,info,raw,,Null profile by column.,external_order,63958.0,0.34404

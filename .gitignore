@@ -11,9 +11,10 @@ __pycache__/
 .venv/
 venv/
 
-# Generated outputs
-output/
-
 # OS/editor files
 .DS_Store
 Thumbs.db
+
+# Output files to exclude
+output/raw_temporal_pairs.csv
+output/series_temporales.csv

@@ -1,0 +1,68 @@
+2026-03-31 16:21:30 | INFO | market_basket | Cargando archivo Excel de entrada
+2026-03-31 16:21:56 | INFO | market_basket | Ejecutando limpieza y validaciones
+2026-03-31 16:22:06 | INFO | market_basket | Construyendo transacciones compuestas Pedido externo + Propietario
+2026-03-31 16:22:11 | INFO | market_basket | Generando EDA
+2026-03-31 16:22:11 | INFO | market_basket | Calculando afinidad SKU-SKU
+2026-03-31 16:22:16 | INFO | market_basket | Calculando estabilidad temporal
+2026-03-31 16:22:33 | INFO | market_basket | Aplicando score final de layout
+2026-03-31 16:22:33 | INFO | market_basket | Detectando clusters y hubs
+2026-03-31 16:22:35 | INFO | market_basket | Escribiendo salidas
+2026-03-31 16:22:36 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-03-31 16:22:36 | INFO | matplotlib.category | Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2026-03-31 16:24:10 | INFO | market_basket | Cargando archivo Excel de entrada
+2026-03-31 16:24:36 | INFO | market_basket | Ejecutando limpieza y validaciones
+2026-03-31 16:24:47 | INFO | market_basket | Construyendo transacciones compuestas Pedido externo + Propietario
+2026-03-31 16:24:52 | INFO | market_basket | Generando EDA
+2026-03-31 16:24:52 | INFO | market_basket | Calculando afinidad SKU-SKU
+2026-03-31 16:24:56 | INFO | market_basket | Calculando estabilidad temporal
+2026-03-31 16:25:14 | INFO | market_basket | Aplicando score final de layout
+2026-03-31 16:25:14 | INFO | market_basket | Detectando clusters y hubs
+2026-03-31 16:25:14 | INFO | market_basket | Escribiendo salidas
+2026-03-31 16:25:48 | INFO | market_basket | Cargando archivo Excel de entrada
+2026-03-31 16:26:19 | INFO | market_basket | Ejecutando limpieza y validaciones
+2026-03-31 16:26:29 | INFO | market_basket | Construyendo transacciones compuestas Pedido externo + Propietario
+2026-03-31 16:26:35 | INFO | market_basket | Generando EDA
+2026-03-31 16:26:35 | INFO | market_basket | Calculando afinidad SKU-SKU
+2026-03-31 16:26:40 | INFO | market_basket | Calculando estabilidad temporal
+2026-03-31 16:27:00 | INFO | market_basket | Aplicando score final de layout
+2026-03-31 16:27:00 | INFO | market_basket | Detectando clusters y hubs
+2026-03-31 16:27:00 | INFO | market_basket | Escribiendo salidas
+2026-03-31 16:27:16 | INFO | market_basket | Cargando archivo Excel de entrada
+2026-03-31 16:27:46 | INFO | market_basket | Ejecutando limpieza y validaciones
+2026-03-31 16:27:55 | INFO | market_basket | Construyendo transacciones compuestas Pedido externo + Propietario
+2026-03-31 16:28:01 | INFO | market_basket | Generando EDA
+2026-03-31 16:28:01 | INFO | market_basket | Calculando afinidad SKU-SKU
+2026-03-31 16:28:05 | INFO | market_basket | Calculando estabilidad temporal
+2026-03-31 16:28:22 | INFO | market_basket | Aplicando score final de layout
+2026-03-31 16:28:22 | INFO | market_basket | Detectando clusters y hubs
+2026-03-31 16:28:22 | INFO | market_basket | Escribiendo salidas
+2026-04-01 11:09:20 | INFO | market_basket | Stage 1/8 | Reading input dataset
+2026-04-01 11:10:09 | INFO | market_basket | Lectura completada | formato=excel | filas=291237 | columnas=21
+2026-04-01 11:10:09 | INFO | market_basket | Mapping columnas originales-normalizadas: {'tipo movimiento': ['Tipo movimiento'], 'fecha inicio': ['Fecha inicio'], 'fecha finalizacion': ['Fecha finalización'], 'articulo': ['Artículo'], 'denominacion articulo': ['Denominación artículo'], 'pas. ori.': ['Pas. Ori.'], 'col. ori.': ['Col. Ori.'], 'alt. ori.': ['Alt. Ori.'], 'pas. des.': ['Pas. Des.'], 'col. des.': ['Col. Des.'], 'alt. des.': ['Alt. Des.'], 'paleta': ['Paleta'], 'cantidad': ['Cantidad'], 'propietario': ['Propietario'], 'operario': ['Operario'], 'denominacion operario': ['Denominación operario'], 'ubicacion': ['Ubicacion'], 'pedido': ['Pedido'], 'pedido externo': ['Pedido externo'], 'cliente': ['Cliente'], 'cliente externo': ['Cliente externo']}
+2026-04-01 11:10:12 | INFO | market_basket | Stage 2/8 | Cleaning and data-quality rules
+2026-04-01 11:10:21 | INFO | market_basket | Stage 3/8 | Building transactions
+2026-04-01 11:10:46 | INFO | market_basket | Stage 4/8 | Building EDA outputs
+2026-04-01 11:10:46 | INFO | market_basket | Stage 5/8 | Computing associations and rules
+2026-04-01 11:10:53 | INFO | market_basket | Stage 6/8 | Computing raw temporal pairs and stability
+2026-04-01 11:15:39 | INFO | market_basket | Stage 7/8 | Computing layout scores and SKU graph
+2026-04-01 11:15:39 | INFO | market_basket | Stage 8/8 | Writing outputs, metadata and plots
+2026-04-01 11:16:32 | INFO | market_basket | Stage 1/8 | Reading input dataset
+2026-04-01 11:17:07 | INFO | market_basket | Lectura completada | formato=excel | filas=291237 | columnas=21
+2026-04-01 11:17:07 | INFO | market_basket | Mapping columnas originales-normalizadas: {'tipo movimiento': ['Tipo movimiento'], 'fecha inicio': ['Fecha inicio'], 'fecha finalizacion': ['Fecha finalización'], 'articulo': ['Artículo'], 'denominacion articulo': ['Denominación artículo'], 'pas. ori.': ['Pas. Ori.'], 'col. ori.': ['Col. Ori.'], 'alt. ori.': ['Alt. Ori.'], 'pas. des.': ['Pas. Des.'], 'col. des.': ['Col. Des.'], 'alt. des.': ['Alt. Des.'], 'paleta': ['Paleta'], 'cantidad': ['Cantidad'], 'propietario': ['Propietario'], 'operario': ['Operario'], 'denominacion operario': ['Denominación operario'], 'ubicacion': ['Ubicacion'], 'pedido': ['Pedido'], 'pedido externo': ['Pedido externo'], 'cliente': ['Cliente'], 'cliente externo': ['Cliente externo']}
+2026-04-01 11:17:09 | INFO | market_basket | Stage 2/8 | Cleaning and data-quality rules
+2026-04-01 11:17:16 | INFO | market_basket | Stage 3/8 | Building transactions
+2026-04-01 11:17:40 | INFO | market_basket | Stage 4/8 | Building EDA outputs
+2026-04-01 11:17:40 | INFO | market_basket | Stage 5/8 | Computing associations and rules
+2026-04-01 11:17:45 | INFO | market_basket | Stage 6/8 | Computing raw temporal pairs and stability
+2026-04-01 11:20:32 | INFO | market_basket | Stage 7/8 | Computing layout scores and SKU graph
+2026-04-01 11:20:32 | INFO | market_basket | Stage 8/8 | Writing outputs, metadata and plots
+2026-04-17 10:42:49 | INFO | market_basket | Stage 1/8 | Reading input dataset
+2026-04-17 10:43:29 | INFO | market_basket | Lectura completada | formato=excel | filas=185903 | columnas=21
+2026-04-17 10:43:29 | INFO | market_basket | Mapping columnas originales-normalizadas: {'tipo movimiento': ['Tipo movimiento'], 'fecha inicio': ['Fecha inicio'], 'fecha finalizacion': ['Fecha finalización'], 'articulo': ['Artículo'], 'denominacion articulo': ['Denominación artículo'], 'pas. ori.': ['Pas. Ori.'], 'col. ori.': ['Col. Ori.'], 'alt. ori.': ['Alt. Ori.'], 'pas. des.': ['Pas. Des.'], 'col. des.': ['Col. Des.'], 'alt. des.': ['Alt. Des.'], 'paleta': ['Paleta'], 'cantidad': ['Cantidad'], 'propietario': ['Propietario'], 'operario': ['Operario'], 'denominacion operario': ['Denominación operario'], 'ubicacion': ['Ubicacion'], 'pedido': ['Pedido'], 'pedido externo': ['Pedido externo'], 'cliente': ['Cliente'], 'cliente externo': ['Cliente externo']}
+2026-04-17 10:43:31 | INFO | market_basket | Stage 2/8 | Cleaning and data-quality rules
+2026-04-17 10:43:39 | INFO | market_basket | Stage 3/8 | Building transactions
+2026-04-17 10:44:03 | INFO | market_basket | Stage 4/8 | Building EDA outputs
+2026-04-17 10:44:03 | INFO | market_basket | Stage 5/8 | Computing associations and rules
+2026-04-17 10:44:11 | INFO | market_basket | Stage 6/8 | Computing raw temporal pairs and stability
+2026-04-17 10:50:39 | INFO | market_basket | Stage 7/8 | Computing layout scores and SKU graph
+2026-04-17 10:50:39 | INFO | market_basket | Stage 8/8 | Writing outputs, metadata and plots
