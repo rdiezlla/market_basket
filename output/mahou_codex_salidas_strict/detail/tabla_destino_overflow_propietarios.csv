@@ -1,0 +1,38 @@
+propietario,owner_name,ranking_operativo,floor_positions_required_90,floor_positions_required_fit,floor_positions_required_layout,layout_support_status,floor_positions_assigned,floor_positions_overflow
+23,MAHOU-MARKETING OCIO,1,96,88,88,base_soportada,88,0
+24,MCC MADRID,2,126,114,114,base_soportada,114,0
+3,ALHAMBRA,3,282,256,256,base_soportada,256,0
+4,SOLAN,4,93,84,84,base_soportada,84,0
+29,MAHOU FUTBOL,5,54,49,49,base_soportada,49,0
+82,BRUTUS DESARROLLO COMERCIAL,6,45,41,41,base_soportada,41,0
+5,SAN MIGUEL,7,84,76,76,base_soportada,76,0
+14,FUNDACION MAHOU SAN MIGUEL,8,40,36,36,base_soportada,36,0
+30,EVENTOS COMERCIALES,9,22,20,20,base_soportada,20,0
+33,IPA,10,38,34,34,base_soportada,34,0
+7,CERVECISTAS,11,6,5,5,base_soportada,5,0
+32,MCC CENTRO - OESTE,12,18,16,16,base_soportada,16,0
+61,MAHOU CORPORATIVO,13,32,32,32,base_soportada,32,0
+6,CRAFT,14,13,12,12,base_soportada,12,0
+62,MAHOU JOVEN,15,21,19,19,base_soportada,19,0
+64,CORONA,16,38,35,35,base_soportada,35,0
+49,MAHOU - SANDRINE GIRAUD,17,4,4,4,base_soportada,4,0
+89,BRAND MANAGEMENT MERCADO,18,13,12,12,base_soportada,12,0
+34,CUENTAS NACIONALES,19,50,46,46,base_soportada,46,0
+96,VENUES,20,82,74,74,base_soportada,74,0
+71,BUDWEISER,21,10,10,10,base_soportada,10,0
+77,ASUNTOS CORPORATIVOS Y SOSTENIBILIDAD,22,42,38,38,base_soportada,38,0
+95,INNOVACION,23,38,34,34,base_soportada,34,0
+90,HUB CONTENIDO & ACTIVACION,24,5,4,4,base_soportada,4,0
+76,UNIDAD INTERNACIONAL MARKETING,25,19,17,17,base_soportada,17,0
+80,ABI HORECA,26,7,6,6,base_soportada,6,0
+72,LA SALVE,27,5,5,5,base_soportada,5,0
+98,MAHOU CANAL,28,19,18,18,base_soportada,18,0
+74,EXPERIENCIA Y CRECIMIENTO DE CLIENTES,29,10,10,10,base_soportada,10,0
+86,GOLF,30,7,7,7,base_soportada,7,0
+60,MARCOS CELEIRO,31,0,0,47,condicionado_externo_inferido,47,0
+79,SAN MIGUEL CORPORATIVO,32,4,3,3,base_soportada,3,0
+51,MCC BILBAO,33,2,2,2,base_soportada,2,0
+12,ESPACIOS CERVECERAS,34,9,8,8,base_soportada,8,0
+21,MIXTA,35,2,2,2,base_soportada,2,0
+46,REFEEL,36,1,1,1,base_soportada,1,0
+37,ALHAMBRA CORPORATIVO,37,7,7,7,base_soportada,7,0

@@ -1,0 +1,238 @@
+pasillo_destino,posicion_desde,posicion_hasta,tipologia,propietario,owner_name,tipo_bloque,padding_modulo_3eu,lado_destino,tramo_fisico
+1,1,13,suelo_300,23,MAHOU-MARKETING OCIO,especial,0,impar,impar:001-025
+1,14,20,suelo_300,24,MCC MADRID,especial,0,impar,impar:027-039
+1,21,36,suelo_300,23,MAHOU-MARKETING OCIO,especial,0,impar,impar:041-071
+1,37,39,suelo_300,24,MCC MADRID,especial,0,impar,impar:073-077
+1,40,69,suelo_250,23,MAHOU-MARKETING OCIO,especial,0,impar | par,impar:079-107 | par:002-030
+1,70,79,suelo_250,24,MCC MADRID,especial,0,par,par:032-050
+1,80,93,suelo_250,23,MAHOU-MARKETING OCIO,especial,0,par,par:052-078
+1,94,108,suelo_126,23,MAHOU-MARKETING OCIO,especial,0,par,par:080-108
+2,1,14,suelo_300,3,ALHAMBRA,especial,0,impar,impar:001-027
+2,15,33,suelo_300,24,MCC MADRID,especial,0,impar,impar:029-065
+2,34,35,suelo_250,24,MCC MADRID,especial,0,impar,impar:067-069
+2,36,66,suelo_250,24,MCC MADRID,especial,0,impar | par,impar:071-107 | par:002-024
+2,67,72,suelo_126,24,MCC MADRID,especial,0,par,par:026-036
+2,73,93,suelo_126,24,MCC MADRID,especial,0,par,par:038-078
+2,94,96,balda_9h,24,MCC MADRID,especial,0,par,par:080-084
+2,97,108,normal,24,MCC MADRID,normal,0,par,par:086-108
+3,1,16,suelo_300,3,ALHAMBRA,especial,0,impar,impar:001-031
+3,17,36,suelo_300,3,ALHAMBRA,especial,0,impar,impar:033-071
+3,37,80,suelo_250,3,ALHAMBRA,especial,0,impar | par,impar:073-107 | par:002-052
+3,81,90,suelo_250,3,ALHAMBRA,especial,0,par,par:054-072
+3,91,105,suelo_126,3,ALHAMBRA,especial,0,par,par:074-102
+3,106,108,suelo_126,3,ALHAMBRA,especial,0,par,par:104-108
+4,1,21,suelo_300,3,ALHAMBRA,especial,0,impar,impar:001-041
+4,22,54,suelo_250,3,ALHAMBRA,especial,0,impar,impar:043-107
+4,55,84,suelo_126,3,ALHAMBRA,especial,0,par,par:002-060
+4,85,87,balda_9h,3,ALHAMBRA,especial,0,par,par:062-066
+4,88,108,normal,3,ALHAMBRA,normal,0,par,par:068-108
+5,1,6,suelo_300,4,SOLAN,especial,0,impar,impar:001-011
+5,7,11,suelo_300,3,ALHAMBRA,especial,0,impar,impar:013-021
+5,12,24,suelo_300,4,SOLAN,especial,0,impar,impar:023-047
+5,25,39,suelo_250,4,SOLAN,especial,0,impar,impar:049-077
+5,40,48,suelo_250,3,ALHAMBRA,especial,0,impar,impar:079-095
+5,49,66,suelo_250,4,SOLAN,especial,0,impar | par,impar:097-107 | par:002-024
+5,67,76,suelo_126,4,SOLAN,especial,0,par,par:026-044
+5,77,84,suelo_126,3,ALHAMBRA,especial,0,par,par:046-060
+5,85,96,suelo_126,4,SOLAN,especial,0,par,par:062-084
+5,97,98,balda_9h,4,SOLAN,especial,0,par,par:086-088
+5,99,99,balda_9h,4,SOLAN,especial,0,par,par:090
+5,100,103,normal,3,ALHAMBRA,normal,0,par,par:092-098
+5,104,108,normal,4,SOLAN,normal,0,par,par:100-108
+6,1,9,suelo_300,29,MAHOU FUTBOL,especial,0,impar,impar:001-017
+6,10,20,suelo_300,5,SAN MIGUEL,especial,0,impar,impar:019-039
+6,21,21,suelo_300,4,SOLAN,especial,0,impar,impar:041
+6,22,28,suelo_300,29,MAHOU FUTBOL,especial,0,impar,impar:043-055
+6,29,35,suelo_300,82,BRUTUS DESARROLLO COMERCIAL,especial,0,impar,impar:057-069
+6,36,36,suelo_300,5,SAN MIGUEL,especial,0,impar,impar:071
+6,37,40,suelo_250,29,MAHOU FUTBOL,especial,0,impar,impar:073-079
+6,41,56,suelo_250,82,BRUTUS DESARROLLO COMERCIAL,especial,0,impar | par,impar:081-107 | par:002-004
+6,57,60,suelo_250,5,SAN MIGUEL,especial,0,par,par:006-012
+6,61,73,suelo_250,29,MAHOU FUTBOL,especial,0,par,par:014-038
+6,74,81,suelo_250,82,BRUTUS DESARROLLO COMERCIAL,especial,0,par,par:040-054
+6,82,87,suelo_126,29,MAHOU FUTBOL,especial,0,par,par:056-066
+6,88,88,suelo_126,82,BRUTUS DESARROLLO COMERCIAL,especial,0,par,par:068
+6,89,89,suelo_126,4,SOLAN,especial,0,par,par:070
+6,90,94,suelo_126,29,MAHOU FUTBOL,especial,0,par,par:072-080
+6,95,99,suelo_126,82,BRUTUS DESARROLLO COMERCIAL,especial,0,par,par:082-090
+6,100,100,balda_9h,29,MAHOU FUTBOL,especial,0,par,par:092
+6,101,101,balda_9h,29,MAHOU FUTBOL,especial,0,par,par:094
+6,102,102,balda_9h,82,BRUTUS DESARROLLO COMERCIAL,especial,0,par,par:096
+6,103,105,normal,29,MAHOU FUTBOL,normal,0,par,par:098-102
+6,106,108,normal,82,BRUTUS DESARROLLO COMERCIAL,normal,0,par,par:104-108
+7,1,2,suelo_300,14,FUNDACION MAHOU SAN MIGUEL,especial,0,impar,impar:001-003
+7,3,13,suelo_300,5,SAN MIGUEL,especial,0,impar,impar:005-025
+7,14,19,suelo_300,14,FUNDACION MAHOU SAN MIGUEL,especial,0,impar,impar:027-037
+7,20,21,suelo_300,30,EVENTOS COMERCIALES,especial,0,impar,impar:039-041
+7,22,42,suelo_250,5,SAN MIGUEL,especial,0,impar,impar:043-083
+7,43,45,suelo_250,14,FUNDACION MAHOU SAN MIGUEL,especial,0,impar,impar:085-089
+7,46,50,suelo_250,30,EVENTOS COMERCIALES,especial,0,impar,impar:091-099
+7,51,61,suelo_250,5,SAN MIGUEL,especial,0,impar | par,impar:101-107 | par:002-014
+7,62,70,suelo_250,14,FUNDACION MAHOU SAN MIGUEL,especial,0,par,par:016-032
+7,71,72,suelo_250,30,EVENTOS COMERCIALES,especial,0,par,par:034-036
+7,73,78,suelo_126,5,SAN MIGUEL,especial,0,par,par:038-048
+7,79,79,suelo_126,14,FUNDACION MAHOU SAN MIGUEL,especial,0,par,par:050
+7,80,82,suelo_126,30,EVENTOS COMERCIALES,especial,0,par,par:052-056
+7,83,88,suelo_126,5,SAN MIGUEL,especial,0,par,par:058-068
+7,89,96,suelo_126,14,FUNDACION MAHOU SAN MIGUEL,especial,0,par,par:070-084
+7,97,100,balda_9h,5,SAN MIGUEL,especial,0,par,par:086-092
+7,101,107,balda_9h,14,FUNDACION MAHOU SAN MIGUEL,especial,0,par,par:094-106
+7,108,108,balda_9h,5,SAN MIGUEL,especial,0,par,par:108
+8,1,3,suelo_300,32,MCC CENTRO - OESTE,especial,0,impar,impar:001-005
+8,4,4,suelo_300,61,MAHOU CORPORATIVO,especial,0,impar,impar:007
+8,5,6,suelo_300,30,EVENTOS COMERCIALES,especial,0,impar,impar:009-011
+8,7,13,suelo_300,33,IPA,especial,0,impar,impar:013-025
+8,14,14,suelo_300,7,CERVECISTAS,especial,0,impar,impar:027
+8,15,16,suelo_300,32,MCC CENTRO - OESTE,especial,0,impar,impar:029-031
+8,17,22,suelo_300,61,MAHOU CORPORATIVO,especial,0,impar,impar:033-043
+8,23,24,suelo_300,6,CRAFT,especial,0,impar,impar:045-047
+8,25,27,suelo_250,32,MCC CENTRO - OESTE,especial,0,impar,impar:049-053
+8,28,28,suelo_250,62,MAHOU JOVEN,especial,0,impar,impar:055
+8,29,31,suelo_250,30,EVENTOS COMERCIALES,especial,0,impar,impar:057-061
+8,32,42,suelo_250,33,IPA,especial,0,impar,impar:063-083
+8,43,43,suelo_250,7,CERVECISTAS,especial,0,impar,impar:085
+8,44,46,suelo_250,32,MCC CENTRO - OESTE,especial,0,impar,impar:087-091
+8,47,56,suelo_250,61,MAHOU CORPORATIVO,especial,0,impar | par,impar:093-107 | par:002-004
+8,57,60,suelo_250,6,CRAFT,especial,0,par,par:006-012
+8,61,61,suelo_126,32,MCC CENTRO - OESTE,especial,0,par,par:014
+8,62,62,suelo_126,6,CRAFT,especial,0,par,par:016
+8,63,64,suelo_126,30,EVENTOS COMERCIALES,especial,0,par,par:018-020
+8,65,73,suelo_126,33,IPA,especial,0,par,par:022-038
+8,74,75,suelo_126,7,CERVECISTAS,especial,0,par,par:040-042
+8,76,77,suelo_126,32,MCC CENTRO - OESTE,especial,0,par,par:044-046
+8,78,85,suelo_126,61,MAHOU CORPORATIVO,especial,0,par,par:048-062
+8,86,87,suelo_126,6,CRAFT,especial,0,par,par:064-066
+8,88,88,balda_9h,32,MCC CENTRO - OESTE,especial,0,par,par:068
+8,89,89,balda_9h,61,MAHOU CORPORATIVO,especial,0,par,par:070
+8,90,90,balda_9h,6,CRAFT,especial,0,par,par:072
+8,91,91,balda_9h,33,IPA,especial,0,par,par:074
+8,92,92,balda_9h,61,MAHOU CORPORATIVO,especial,0,par,par:076
+8,93,93,balda_9h,6,CRAFT,especial,0,par,par:078
+8,94,94,normal,30,EVENTOS COMERCIALES,normal,0,par,par:080
+8,95,100,normal,33,IPA,normal,0,par,par:082-092
+8,101,101,normal,7,CERVECISTAS,normal,0,par,par:094
+8,102,102,normal,32,MCC CENTRO - OESTE,normal,0,par,par:096
+8,103,107,normal,61,MAHOU CORPORATIVO,normal,0,par,par:098-106
+8,108,108,normal,6,CRAFT,normal,0,par,par:108
+9,1,9,suelo_300,64,CORONA,especial,0,impar,impar:001-017
+9,10,10,suelo_300,89,BRAND MANAGEMENT MERCADO,especial,0,impar,impar:019
+9,11,13,suelo_300,34,CUENTAS NACIONALES,especial,0,impar,impar:021-025
+9,14,17,suelo_300,62,MAHOU JOVEN,especial,0,impar,impar:027-033
+9,18,22,suelo_300,64,CORONA,especial,0,impar,impar:035-043
+9,23,23,suelo_300,49,MAHOU - SANDRINE GIRAUD,especial,0,impar,impar:045
+9,24,25,suelo_300,89,BRAND MANAGEMENT MERCADO,especial,0,impar,impar:047-049
+9,26,33,suelo_300,34,CUENTAS NACIONALES,especial,0,impar,impar:051-065
+9,34,38,suelo_250,62,MAHOU JOVEN,especial,0,impar,impar:067-075
+9,39,43,suelo_250,64,CORONA,especial,0,impar,impar:077-085
+9,44,49,suelo_250,89,BRAND MANAGEMENT MERCADO,especial,0,impar,impar:087-097
+9,50,73,suelo_250,34,CUENTAS NACIONALES,especial,0,impar | par,impar:099-107 | par:002-038
+9,74,77,suelo_250,62,MAHOU JOVEN,especial,0,par,par:040-046
+9,78,83,suelo_250,64,CORONA,especial,0,par,par:048-058
+9,84,84,suelo_250,49,MAHOU - SANDRINE GIRAUD,especial,0,par,par:060
+9,85,85,suelo_250,89,BRAND MANAGEMENT MERCADO,especial,0,par,par:062
+9,86,87,suelo_250,34,CUENTAS NACIONALES,especial,0,par,par:064-066
+9,88,89,suelo_126,62,MAHOU JOVEN,especial,0,par,par:068-070
+9,90,90,suelo_126,64,CORONA,especial,0,par,par:072
+9,91,92,suelo_126,89,BRAND MANAGEMENT MERCADO,especial,0,par,par:074-076
+9,93,94,suelo_126,34,CUENTAS NACIONALES,especial,0,par,par:078-080
+9,95,96,suelo_126,62,MAHOU JOVEN,especial,0,par,par:082-084
+9,97,103,suelo_126,64,CORONA,especial,0,par,par:086-098
+9,104,105,suelo_126,49,MAHOU - SANDRINE GIRAUD,especial,0,par,par:100-102
+9,106,106,balda_9h,62,MAHOU JOVEN,especial,0,par,par:104
+9,107,108,balda_9h,64,CORONA,especial,0,par,par:106-108
+10,1,4,suelo_300,96,VENUES,especial,0,impar,impar:001-007
+10,5,6,suelo_300,71,BUDWEISER,especial,0,impar,impar:009-011
+10,7,7,suelo_300,34,CUENTAS NACIONALES,especial,0,impar,impar:013
+10,8,20,suelo_300,96,VENUES,especial,0,impar,impar:015-039
+10,21,21,suelo_300,71,BUDWEISER,especial,0,impar,impar:041
+10,22,24,suelo_300,77,ASUNTOS CORPORATIVOS Y SOSTENIBILIDAD,especial,0,impar,impar:043-047
+10,25,36,suelo_250,96,VENUES,especial,0,impar,impar:049-071
+10,37,40,suelo_250,71,BUDWEISER,especial,0,impar,impar:073-079
+10,41,43,suelo_250,77,ASUNTOS CORPORATIVOS Y SOSTENIBILIDAD,especial,0,impar,impar:081-085
+10,44,46,suelo_250,34,CUENTAS NACIONALES,especial,0,impar,impar:087-091
+10,47,64,suelo_250,96,VENUES,especial,0,impar | par,impar:093-107 | par:002-020
+10,65,65,suelo_250,71,BUDWEISER,especial,0,par,par:022
+10,66,69,suelo_250,77,ASUNTOS CORPORATIVOS Y SOSTENIBILIDAD,especial,0,par,par:024-030
+10,70,76,suelo_126,96,VENUES,especial,0,par,par:032-044
+10,77,78,suelo_126,71,BUDWEISER,especial,0,par,par:046-048
+10,79,80,suelo_126,34,CUENTAS NACIONALES,especial,0,par,par:050-052
+10,81,90,suelo_126,96,VENUES,especial,0,par,par:054-072
+10,91,93,suelo_126,77,ASUNTOS CORPORATIVOS Y SOSTENIBILIDAD,especial,0,par,par:074-078
+10,94,97,balda_9h,96,VENUES,especial,0,par,par:080-086
+10,98,99,balda_9h,77,ASUNTOS CORPORATIVOS Y SOSTENIBILIDAD,especial,0,par,par:088-090
+10,100,100,normal,34,CUENTAS NACIONALES,normal,0,par,par:092
+10,101,106,normal,96,VENUES,normal,0,par,par:094-104
+10,107,108,normal,77,ASUNTOS CORPORATIVOS Y SOSTENIBILIDAD,normal,0,par,par:106-108
+11,1,6,suelo_300,95,INNOVACION,especial,0,impar,impar:001-011
+11,7,7,suelo_300,90,HUB CONTENIDO & ACTIVACION,especial,0,impar,impar:013
+11,8,14,suelo_300,76,UNIDAD INTERNACIONAL MARKETING,especial,0,impar,impar:015-027
+11,15,16,suelo_300,98,MAHOU CANAL,especial,0,impar,impar:029-031
+11,17,17,suelo_300,74,EXPERIENCIA Y CRECIMIENTO DE CLIENTES,especial,0,impar,impar:033
+11,18,21,suelo_300,77,ASUNTOS CORPORATIVOS Y SOSTENIBILIDAD,especial,0,impar,impar:035-041
+11,22,26,suelo_300,95,INNOVACION,especial,0,impar,impar:043-051
+11,27,28,suelo_300,76,UNIDAD INTERNACIONAL MARKETING,especial,0,impar,impar:053-055
+11,29,29,suelo_300,80,ABI HORECA,especial,0,impar,impar:057
+11,30,30,suelo_300,72,LA SALVE,especial,0,impar,impar:059
+11,31,33,suelo_300,98,MAHOU CANAL,especial,0,impar,impar:061-065
+11,34,34,suelo_250,95,INNOVACION,especial,0,impar,impar:067
+11,35,35,suelo_250,90,HUB CONTENIDO & ACTIVACION,especial,0,impar,impar:069
+11,36,43,suelo_250,76,UNIDAD INTERNACIONAL MARKETING,especial,0,impar,impar:071-085
+11,44,44,suelo_250,80,ABI HORECA,especial,0,impar,impar:087
+11,45,47,suelo_250,98,MAHOU CANAL,especial,0,impar,impar:089-093
+11,48,49,suelo_250,74,EXPERIENCIA Y CRECIMIENTO DE CLIENTES,especial,0,impar,impar:095-097
+11,50,56,suelo_250,77,ASUNTOS CORPORATIVOS Y SOSTENIBILIDAD,especial,0,impar | par,impar:099-107 | par:002-004
+11,57,65,suelo_250,95,INNOVACION,especial,0,par,par:006-022
+11,66,66,suelo_250,90,HUB CONTENIDO & ACTIVACION,especial,0,par,par:024
+11,67,67,suelo_250,80,ABI HORECA,especial,0,par,par:026
+11,68,68,suelo_250,72,LA SALVE,especial,0,par,par:028
+11,69,72,suelo_250,98,MAHOU CANAL,especial,0,par,par:030-036
+11,73,74,suelo_126,80,ABI HORECA,especial,0,par,par:038-040
+11,75,76,suelo_126,98,MAHOU CANAL,especial,0,par,par:042-044
+11,77,81,suelo_126,77,ASUNTOS CORPORATIVOS Y SOSTENIBILIDAD,especial,0,par,par:046-054
+11,82,88,suelo_126,95,INNOVACION,especial,0,par,par:056-068
+11,89,89,suelo_126,90,HUB CONTENIDO & ACTIVACION,especial,0,par,par:070
+11,90,91,suelo_126,72,LA SALVE,especial,0,par,par:072-074
+11,92,93,suelo_126,98,MAHOU CANAL,especial,0,par,par:076-078
+11,94,94,balda_9h,95,INNOVACION,especial,0,par,par:080
+11,95,96,balda_9h,77,ASUNTOS CORPORATIVOS Y SOSTENIBILIDAD,especial,0,par,par:082-084
+11,97,98,balda_9h,95,INNOVACION,especial,0,par,par:086-088
+11,99,99,balda_9h,98,MAHOU CANAL,especial,0,par,par:090
+11,100,102,normal,77,ASUNTOS CORPORATIVOS Y SOSTENIBILIDAD,normal,0,par,par:092-096
+11,103,105,normal,95,INNOVACION,normal,0,par,par:098-102
+11,106,106,normal,80,ABI HORECA,normal,0,par,par:104
+11,107,107,normal,72,LA SALVE,normal,0,par,par:106
+11,108,108,normal,98,MAHOU CANAL,normal,0,par,par:108
+12,1,1,suelo_300,86,GOLF,especial,0,impar,impar:001
+12,2,2,suelo_300,51,MCC BILBAO,especial,0,impar,impar:003
+12,3,3,suelo_300,74,EXPERIENCIA Y CRECIMIENTO DE CLIENTES,especial,0,impar,impar:005
+12,4,4,suelo_300,86,GOLF,especial,0,impar,impar:007
+12,5,13,suelo_300,60,MARCOS CELEIRO,especial,0,impar,impar:009-025
+12,14,14,suelo_300,79,SAN MIGUEL CORPORATIVO,especial,0,impar,impar:027
+12,15,16,suelo_300,12,ESPACIOS CERVECERAS,especial,0,impar,impar:029-031
+12,17,17,suelo_300,21,MIXTA,especial,0,impar,impar:033
+12,18,18,suelo_300,37,ALHAMBRA CORPORATIVO,especial,0,impar,impar:035
+12,19,21,suelo_250,74,EXPERIENCIA Y CRECIMIENTO DE CLIENTES,especial,0,impar,impar:037-041
+12,22,23,suelo_250,12,ESPACIOS CERVECERAS,especial,0,impar,impar:043-045
+12,24,27,suelo_250,37,ALHAMBRA CORPORATIVO,especial,0,impar,impar:047-053
+12,28,28,suelo_250,74,EXPERIENCIA Y CRECIMIENTO DE CLIENTES,especial,0,impar,impar:055
+12,29,30,suelo_250,86,GOLF,especial,0,impar,impar:057-059
+12,31,44,suelo_250,60,MARCOS CELEIRO,especial,0,impar,impar:061-087
+12,45,45,suelo_250,79,SAN MIGUEL CORPORATIVO,especial,0,impar,impar:089
+12,46,47,suelo_250,12,ESPACIOS CERVECERAS,especial,0,impar,impar:091-093
+12,48,48,suelo_250,37,ALHAMBRA CORPORATIVO,especial,0,impar,impar:095
+12,49,49,suelo_126,86,GOLF,especial,0,impar,impar:097
+12,50,50,suelo_126,74,EXPERIENCIA Y CRECIMIENTO DE CLIENTES,especial,0,impar,impar:099
+12,51,51,suelo_126,86,GOLF,especial,0,impar,impar:101
+12,52,65,suelo_126,60,MARCOS CELEIRO,especial,0,impar | par,impar:103-107 | par:002-022
+12,66,66,suelo_126,79,SAN MIGUEL CORPORATIVO,especial,0,par,par:024
+12,67,67,suelo_126,51,MCC BILBAO,especial,0,par,par:026
+12,68,68,suelo_126,12,ESPACIOS CERVECERAS,especial,0,par,par:028
+12,69,69,suelo_126,21,MIXTA,especial,0,par,par:030
+12,70,70,balda_9h,74,EXPERIENCIA Y CRECIMIENTO DE CLIENTES,especial,0,par,par:032
+12,71,71,balda_9h,86,GOLF,especial,0,par,par:034
+12,72,75,balda_9h,60,MARCOS CELEIRO,especial,0,par,par:036-042
+12,76,81,normal,60,MARCOS CELEIRO,normal,0,par,par:044-054
+12,82,82,normal,12,ESPACIOS CERVECERAS,normal,0,par,par:056
+12,83,83,normal,46,REFEEL,normal,0,par,par:058
+12,84,84,normal,37,ALHAMBRA CORPORATIVO,normal,0,par,par:060
+12,85,108,buffer,,BUFFER,buffer,0,par,par:062-108

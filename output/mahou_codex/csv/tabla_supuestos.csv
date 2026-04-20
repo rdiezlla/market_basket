@@ -1,0 +1,6 @@
+supuesto,motivo,impacto,sensibilidad,estado
+El doc descargado se trata como estudio_previo y el doc del workspace como investigación_avanzada,son los dos estudios disponibles con narrativa y tablas de dimensionamiento,afecta la conciliación entre estudios,media,explicito
+S y 00 se convierten a 1 EU-equivalente cuando no hay ancho observado adicional,son posiciones de suelo sin conversión de ancho explícita,afecta penalización 10 y demanda EU-equivalente,alta,explicito
+1 módulo de balda 9h equivale a 27 subhuecos,cada módulo 3EU aporta 3 anchos EU y cada ancho se divide en 9,corrige de forma material los 180/557 módulos de los informes,alta,explicito
+lineas_solicitudes_con_pedidos actúa como sanity check operativo y no como fuente principal de capacidad,el usuario lo pidió como apoyo secundario,"afecta solo el ranking combinado, no la capacidad base",baja,explicito
+"el stock externo se considera incremental, pero se deja validación de solape por artículo-propietario",no existe clave física común entre ambos sistemas,riesgo de doble conteo si el externo no es realmente externo,alta,condicionado

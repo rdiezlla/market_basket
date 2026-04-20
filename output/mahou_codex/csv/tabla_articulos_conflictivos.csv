@@ -1,0 +1,170 @@
+articulo,propietario,motivo_conflicto,evidencia,accion_recomendada
+"22009, 91227",3,multireferencia_mismo_slot,006-128-20 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"184250, 202042, 203075",34,multireferencia_mismo_slot,006-129-10 con 6 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"22014, 31004",24,multireferencia_mismo_slot,006-132-20 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"202010, 96036, 96037",34,multireferencia_mismo_slot,007-008-00 con 3 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"152033, 154929, 189032",4,multireferencia_mismo_slot,009-130-10 con 4 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"206107, 206108, 51220",23,multireferencia_mismo_slot,009-130-20 con 4 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"103216, 106355, 106356",98,multireferencia_mismo_slot,010-061-10 con 13 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"142122, 142123",76,multireferencia_mismo_slot,010-061-20 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"109322, 129097, 129098",6,multireferencia_mismo_slot,010-061-30 con 15 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"142046, 143071",30,multireferencia_mismo_slot,010-061-40 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"124296, 129070, 129133",5 / 23,ubicacion_compartida_multiowner,010-062-10 con 2 propietarios,romper mezcla en layout destino
+"122049, 122187, 123025",6,multireferencia_mismo_slot,010-062-20 con 14 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"103197, 107092, 109195",23,multireferencia_mismo_slot,010-062-30 con 27 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"113084, 124285, 133089",5,multireferencia_mismo_slot,010-062-40 con 15 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"132068, 133240, 153008",32,multireferencia_mismo_slot,010-063-10 con 4 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"112048, 124134, 124135",6,multireferencia_mismo_slot,010-063-20 con 12 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"127073, 172164, 183134",30,multireferencia_mismo_slot,010-063-30 con 5 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"109198, 122063, 124200",3,multireferencia_mismo_slot,010-063-40 con 22 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102626, 107130, 107131",29,multireferencia_mismo_slot,010-064-10 con 7 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"103160, 122067, 141143",3,multireferencia_mismo_slot,010-064-20 con 37 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"103562, 109041, 125144",5,multireferencia_mismo_slot,010-064-30 con 12 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102701, 106326, 121022",5,multireferencia_mismo_slot,010-064-40 con 20 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"113081, 123107, 129047",3,multireferencia_mismo_slot,010-065-10 con 12 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102730, 102731, 103593",95,multireferencia_mismo_slot,010-065-20 con 21 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"131142, 131143, 21217",82,multireferencia_mismo_slot,010-065-30 con 3 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"72123, 72126",95,multireferencia_mismo_slot,010-065-40 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102255, 102256, 103344",3,multireferencia_mismo_slot,010-066-10 con 26 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"128251, 128252, 128253",95,multireferencia_mismo_slot,010-066-20 con 6 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102257, 102258, 102259",62,multireferencia_mismo_slot,010-066-30 con 40 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"132047, 147043, 172123",4,multireferencia_mismo_slot,010-066-40 con 9 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"105032, 105045, 105048",34,multireferencia_mismo_slot,010-067-10 con 16 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"129100, 131018, 143045",3,multireferencia_mismo_slot,010-067-20 con 8 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102228, 102733, 103184",96,multireferencia_mismo_slot,010-067-30 con 19 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"109043, 114000, 123010",4,multireferencia_mismo_slot,010-067-40 con 13 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"159013, 192056, 192057",76,multireferencia_mismo_slot,010-068-10 con 3 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"133180, 141178, 141179",74,multireferencia_mismo_slot,010-068-20 con 16 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"107084, 109317, 145018",3,multireferencia_mismo_slot,010-068-30 con 13 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"109308, 113075, 127028",4,multireferencia_mismo_slot,010-068-40 con 13 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102212, 103136, 103137",4,multireferencia_mismo_slot,010-069-10 con 20 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102579, 103185, 143075",71,multireferencia_mismo_slot,010-069-20 con 5 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"128243, 128244, 86131",95,multireferencia_mismo_slot,010-069-30 con 3 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"182011, 49007, 49008",5,multireferencia_mismo_slot,010-069-40 con 3 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"127034, 142122, 143144",3 / 76,ubicacion_compartida_multiowner,010-070-10 con 2 propietarios,romper mezcla en layout destino
+"102229, 102727, 103207",3,multireferencia_mismo_slot,010-070-20 con 20 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"123090, 125145, 146103",4,multireferencia_mismo_slot,010-070-30 con 8 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102248, 102249, 143121",4,multireferencia_mismo_slot,010-070-40 con 8 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102654, 102655, 103272",29,multireferencia_mismo_slot,010-071-10 con 13 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102195, 31037",95,multireferencia_mismo_slot,010-071-20 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"106319, 112052, 119002",96,multireferencia_mismo_slot,010-071-30 con 17 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"124254, 152024, 192047",5,multireferencia_mismo_slot,010-071-40 con 9 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"109046, 114024, 114025",4,multireferencia_mismo_slot,010-072-10 con 9 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102736, 102737, 103596",5,multireferencia_mismo_slot,010-072-20 con 17 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102172, 103050, 108022",5,multireferencia_mismo_slot,010-072-30 con 17 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"122189, 149043, 152074",3,multireferencia_mismo_slot,010-072-40 con 13 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102226, 102227, 103203",89,multireferencia_mismo_slot,010-073-10 con 20 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"121001, 131192, 131206",61,multireferencia_mismo_slot,010-073-20 con 4 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"121056, 126059, 129001",77,multireferencia_mismo_slot,010-073-30 con 9 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102021, 103017, 103018",14,multireferencia_mismo_slot,010-073-40 con 15 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"142024, 152191, 161194",3,multireferencia_mismo_slot,010-074-10 con 6 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"132084, 152114, 42057",64,multireferencia_mismo_slot,010-074-20 con 10 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"101632, 122060, 124288",3,multireferencia_mismo_slot,010-074-30 con 19 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"109081, 113019, 123106",4,multireferencia_mismo_slot,010-074-40 con 15 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102578, 106311, 108034",71,multireferencia_mismo_slot,010-075-10 con 4 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"121070, 121071, 121072",96,multireferencia_mismo_slot,010-075-20 con 7 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"133117, 133118, 142125",5,multireferencia_mismo_slot,010-075-30 con 8 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"143010, 143015",5,multireferencia_mismo_slot,010-075-40 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"181220, 181221",96,multireferencia_mismo_slot,010-076-10 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"109098, 112023, 112049",3,multireferencia_mismo_slot,010-076-20 con 12 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"141039, 141061, 189033",77,multireferencia_mismo_slot,010-076-30 con 3 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"108001, 108002, 108003",4,multireferencia_mismo_slot,010-076-40 con 5 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"126110, 126111, 129061",80,multireferencia_mismo_slot,010-077-10 con 10 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102641, 103214, 106310",23,multireferencia_mismo_slot,010-077-20 con 16 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"124144, 133112, 133114",5,multireferencia_mismo_slot,010-077-30 con 6 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"107107, 108041, 108042",5,multireferencia_mismo_slot,010-077-40 con 14 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"121068, 127011, 134006",24,multireferencia_mismo_slot,010-078-10 con 12 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102738, 102739, 102740",95,multireferencia_mismo_slot,010-078-20 con 15 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"106333, 132008",14,multireferencia_mismo_slot,010-078-30 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102164, 102165, 102715",4,multireferencia_mismo_slot,010-078-40 con 22 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"106038, 39000, 39001",12,multireferencia_mismo_slot,010-079-10 con 5 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"65004, 71135, 84017",77,multireferencia_mismo_slot,010-079-20 con 6 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"122160, 122161, 122162",3,multireferencia_mismo_slot,010-079-30 con 27 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"121007, 122056, 123048",3,multireferencia_mismo_slot,010-079-40 con 26 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"123096, 132087, 132088",34,multireferencia_mismo_slot,010-080-10 con 11 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"18060, 18062, 18067",4,multireferencia_mismo_slot,010-080-20 con 5 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102750, 103352, 103353",5,multireferencia_mismo_slot,010-080-30 con 5 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"131168, 86177",95,multireferencia_mismo_slot,010-080-40 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"113086, 121006, 127029",3,multireferencia_mismo_slot,010-081-10 con 19 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"105021, 109100, 127060",23,multireferencia_mismo_slot,010-081-20 con 16 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"107157, 107158, 127012",4,multireferencia_mismo_slot,010-081-30 con 17 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102578, 102718, 102719",23,multireferencia_mismo_slot,010-081-40 con 20 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102685, 102686, 103563",5,multireferencia_mismo_slot,010-082-10 con 20 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"123115, 151021, 18421",4,multireferencia_mismo_slot,010-082-20 con 8 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102250, 102251, 103335",12,multireferencia_mismo_slot,010-082-30 con 4 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"123075, 123076, 124004",95,multireferencia_mismo_slot,010-082-40 con 13 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"149054, 149055, 149056",3,multireferencia_mismo_slot,010-083-10 con 6 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"174153, 205249, 53027",3,multireferencia_mismo_slot,010-083-20 con 3 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"106036, 131014, 131193",29,multireferencia_mismo_slot,010-083-30 con 3 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"124101, 124102, 124245",4,multireferencia_mismo_slot,010-083-40 con 12 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102744, 102745, 103600",76,multireferencia_mismo_slot,010-084-20 con 4 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102166, 102167, 102168",5 / 51,ubicacion_compartida_multiowner,010-084-30 con 2 propietarios,romper mezcla en layout destino
+"152184, 161008, 22200",74,multireferencia_mismo_slot,010-084-40 con 4 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"103113, 113087, 121007",3,multireferencia_mismo_slot,010-085-10 con 23 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102746, 102751, 102752",61,multireferencia_mismo_slot,010-085-20 con 42 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"106350, 106351, 106352",61,multireferencia_mismo_slot,010-085-30 con 10 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102763, 102764, 102765",61,multireferencia_mismo_slot,010-085-40 con 31 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"103247, 103985, 112045",5 / 34,ubicacion_compartida_multiowner,010-086-10 con 2 propietarios,romper mezcla en layout destino
+"124103, 131053, 172208",34,multireferencia_mismo_slot,010-086-20 con 11 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102601, 102602, 103210",49,multireferencia_mismo_slot,010-086-30 con 12 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"184246, 33067, 33068",76,multireferencia_mismo_slot,010-086-40 con 5 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102628, 103238, 103242",82,multireferencia_mismo_slot,010-087-20 con 3 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"143042, 32010, 32013",14,multireferencia_mismo_slot,010-087-30 con 4 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"161184, 184245, 21218",76,multireferencia_mismo_slot,010-087-40 con 9 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"108043, 121505, 122164",89,multireferencia_mismo_slot,010-088-10 con 28 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"125120, 125121, 125122",49,multireferencia_mismo_slot,010-088-20 con 32 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"152026, 32099",95,multireferencia_mismo_slot,010-088-30 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"142018, 142032, 173003",14,multireferencia_mismo_slot,010-088-40 con 3 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"107190, 107191, 107192",61,multireferencia_mismo_slot,010-089-10 con 16 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"109023, 109025, 109026",14,multireferencia_mismo_slot,010-089-20 con 26 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102717, 102718, 102721",23,multireferencia_mismo_slot,010-089-30 con 20 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"161016, 22033, 22216",14,multireferencia_mismo_slot,010-089-40 con 9 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"126075, 127034, 127048",79,multireferencia_mismo_slot,010-090-10 con 4 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102544, 102545, 102546",95,multireferencia_mismo_slot,010-090-20 con 13 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102260, 103331, 103387",23,multireferencia_mismo_slot,010-090-30 con 16 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102246, 102247, 103333",98,multireferencia_mismo_slot,010-090-40 con 11 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102775, 102776, 103606",5,multireferencia_mismo_slot,010-091-10 con 15 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"174062, 174063",3,multireferencia_mismo_slot,010-091-20 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"161178, 161179, 179021",74,multireferencia_mismo_slot,010-092-10 con 4 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"103237, 103241",82,multireferencia_mismo_slot,010-092-20 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102630, 103240, 103244",82,multireferencia_mismo_slot,010-092-30 con 3 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"123014, 133009, 141196",23,multireferencia_mismo_slot,010-092-40 con 10 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"154016, 154017, 154033",64,multireferencia_mismo_slot,010-093-10 con 15 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"174059, 174061, 174064",3,multireferencia_mismo_slot,010-093-20 con 3 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"107089, 109011, 109090",14,multireferencia_mismo_slot,010-094-10 con 15 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102629, 103239, 103243",82,multireferencia_mismo_slot,010-094-20 con 3 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"113039, 113040, 113041",34,multireferencia_mismo_slot,010-094-30 con 30 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102537, 102540, 105032",34,multireferencia_mismo_slot,010-094-40 con 18 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"103186, 105064, 105065",64,multireferencia_mismo_slot,010-095-10 con 8 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102623, 102624, 103201",62,multireferencia_mismo_slot,010-096-10 con 7 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"102536, 102538, 102540",34,multireferencia_mismo_slot,010-098-10 con 12 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"159017, 159021, 159022",5,multireferencia_mismo_slot,010-101-10 con 6 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"146030, 146031, 146032",23,multireferencia_mismo_slot,010-122-00 con 3 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"12039, 12086, 18089",32,multireferencia_mismo_slot,010-125-10 con 3 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"11109, 11131, 11132",34,multireferencia_mismo_slot,010-125-20 con 9 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"11131, 12070",32,multireferencia_mismo_slot,010-125-30 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"174158, 174159, 51416",5,multireferencia_mismo_slot,010-126-00 con 3 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"23087, 23089",23,multireferencia_mismo_slot,010-126-10 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"23010, 23088",23,multireferencia_mismo_slot,010-126-20 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"141135, 181113, 181234",4 / 14,ubicacion_compartida_multiowner,010-128-00 con 2 propietarios,romper mezcla en layout destino
+"141148, 203085, 23081",3,multireferencia_mismo_slot,011-061-10 con 7 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"155000, 192058, 21007",5,multireferencia_mismo_slot,011-061-20 con 4 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"127034, 152149, 169025",5,multireferencia_mismo_slot,011-061-30 con 8 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"143019, 22009, 22171",29 / 96,ubicacion_compartida_multiowner,011-063-10 con 2 propietarios,romper mezcla en layout destino
+"22009, 31138, 33051",23 / 72,ubicacion_compartida_multiowner,011-065-10 con 2 propietarios,romper mezcla en layout destino
+"161108, 22171, 32040",96,multireferencia_mismo_slot,011-065-20 con 3 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"176015, 21041, 84017",4,multireferencia_mismo_slot,011-065-30 con 4 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"184205, 184206",5,multireferencia_mismo_slot,011-066-09 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"22053, 51085",24,multireferencia_mismo_slot,011-067-10 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"141007, 172213, 174128",4,multireferencia_mismo_slot,011-067-40 con 3 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"209047, 22211",5 / 82,ubicacion_compartida_multiowner,011-069-10 con 2 propietarios,romper mezcla en layout destino
+"22031, 51086",23,multireferencia_mismo_slot,011-069-20 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"51086, 51189",23,multireferencia_mismo_slot,011-069-30 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"22009, 31006",23,multireferencia_mismo_slot,011-071-20 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"192022, 192023",62,multireferencia_mismo_slot,011-071-30 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"51350, 51389",5,multireferencia_mismo_slot,011-086-09 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"51236, 51308",4,multireferencia_mismo_slot,011-088-09 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"51405, 51406",5,multireferencia_mismo_slot,011-092-09 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"152200, 51318",23,multireferencia_mismo_slot,011-128-00 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"181116, 181117, 183161",71,multireferencia_mismo_slot,012-128-00 con 3 artículos,normalizar a una referencia por unidad física cuando sea crítico
+"181185, 181195",89,multireferencia_mismo_slot,012-130-00 con 2 artículos,normalizar a una referencia por unidad física cuando sea crítico

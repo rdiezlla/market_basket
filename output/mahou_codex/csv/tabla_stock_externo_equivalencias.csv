@@ -1,0 +1,1489 @@
+ART,RESERVA,owner_base,UDS,ADR,QCNT,capa_conversion,factor_conversion_usado,tipologia_estimacion,unidad_resultante,posiciones_estimadas,soporte
+102234,29,29,70,AK04006,70,C,12.0,balda_9h,subhueco_balda,5.833333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+186146,29,29,1,AK14206,1,C,1.0,suelo_250,posicion_suelo,1.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+146018,33,33,17,AP04004,1,C,2.0,suelo_126,posicion_suelo,8.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+103996,71,71,106,AZ11603,106,C,12.0,balda_9h,subhueco_balda,8.833333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+12036,77,77,24,AV11909,1,A,24.0,balda_9h,subhueco_balda,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+166010,32,32,182,AV10906,182,C,12.0,balda_9h,subhueco_balda,15.166666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+147037,64,64,1,AV08309,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+61039,33,33,22,BB13701,22,C,12.0,balda_9h,subhueco_balda,1.8333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+21045,29,29,5,AM09804,1,C,2.0,suelo_126,posicion_suelo,2.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+102646,33,33,3,BA04603,3,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+115099,32,32,15,AK01803,15,C,2.0,suelo_126,posicion_suelo,7.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AT07504,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+*MULTI*,,sin_asignacion_segura,1,BB13701,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98886,64,64,35,AZ01902,35,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+132072,71,71,8,BB09205,8,C,12.0,balda_9h,subhueco_balda,0.6666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+184198,64,64,1,AZ11801,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+22054,32,32,3,BB13602,1,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+121034,33,33,14,BA04603,14,C,12.0,balda_9h,subhueco_balda,1.1666666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+186019,33,33,100,BA04603,100,C,12.0,balda_9h,subhueco_balda,8.333333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+124249,33,33,252,BC09604,1,C,2.0,suelo_126,posicion_suelo,126.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+186055,61,61,50,AJ02201,50,C,12.0,balda_9h,subhueco_balda,4.166666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98565,61,61,8,AR09401,8,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+51104,32,32,1,AI10803,1,B,1.0,balda_9h,subhueco_balda,1.0,match_articulo; owner=prefijo_RESERVA
+51299,71,71,1,BA11900,1,C,2.0,TR,posicion_rack,0.5,dimensión larga compatible con TR; owner=prefijo_RESERVA
+124256,61,61,240,BA14401,1,C,12.0,balda_9h,subhueco_balda,20.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+44024,32,32,5,BE08500,1,A,3.0,EU,posicion_rack,1.6666666666666667,match_articulo_propietario; owner=prefijo_RESERVA
+1593V,29,29,2,AP03105,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+74036,60,60,426,BB01403,1,C,12.0,balda_9h,subhueco_balda,35.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98598,61,61,5,AZ02300,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+16010V,77,77,4,BD14903,4,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+11003,61,61,408,AV03008,1,C,12.0,balda_9h,subhueco_balda,34.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+18028,77,77,12,TJ02103,1,C,12.0,balda_9h,subhueco_balda,1.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+186078,61,61,50,AJ02201,50,C,12.0,balda_9h,subhueco_balda,4.166666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+186079,61,61,50,AJ02201,50,C,12.0,balda_9h,subhueco_balda,4.166666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+151031,64,64,1,AI05701,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+98605,61,61,5,AO13604,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AQ08403,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+42050,64,64,7,TJ02000,1,A,2.0,EU,posicion_rack,3.5,match_articulo_propietario; owner=prefijo_RESERVA
+34042,29,29,2,BD12701,1,A,1.5,suelo_250,posicion_suelo,1.3333333333333333,match_articulo_propietario; owner=prefijo_RESERVA
+91198,64,64,1,AZ01704,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+61017,61,61,11,AK01105,11,C,12.0,balda_9h,subhueco_balda,0.9166666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+103309,29,29,53,BF07103,53,C,12.0,balda_9h,subhueco_balda,4.416666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BA04603,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+11026,77,77,192,TJ06801,1,A,24.0,balda_9h,subhueco_balda,8.0,match_articulo_propietario; owner=prefijo_RESERVA
+102714,29,29,5,AV13702,5,C,12.0,balda_9h,subhueco_balda,0.4166666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+16045,77,77,5,AK02501,1,B,4.0,suelo_126,posicion_suelo,1.25,match_articulo; owner=prefijo_RESERVA
+18023,77,77,36,AV08906,1,B,376.0,EU,posicion_rack,0.09574468085106383,match_articulo; owner=prefijo_RESERVA
+98751,64,64,1,BA03104,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+103039,7,7,2,BB14402,2,B,141.0,EU,posicion_rack,0.014184397163120567,match_articulo; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BA09405,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+14014,29,29,48,BB00804,48,A,276.0,EU,posicion_rack,0.17391304347826086,match_articulo_propietario; owner=prefijo_RESERVA
+15176,61,61,648,AU09601,1,C,2.0,suelo_126,posicion_suelo,324.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+121028,33,33,14,BA04603,14,C,12.0,balda_9h,subhueco_balda,1.1666666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+43065,33,33,7,AN07201,1,C,2.0,suelo_126,posicion_suelo,3.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+102156,14 VOLUNTARIA,14,22,BA02801,22,A,65.0,balda_9h,subhueco_balda,0.3384615384615385,match_articulo_propietario; owner=prefijo_RESERVA
+98280,23,23,1,90,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AT10303,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+*MULTI*,,sin_asignacion_segura,1,AZ06805,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+146043,3  PICO,3,3517,98,1,B,416.0,EU,posicion_rack,8.454326923076923,match_articulo; owner=prefijo_RESERVA
+51295,29,29,2,AU14904,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+34075,29,29,2,BB00303,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+102569,29,29,1,AV13002,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98349,29,29,20,AV11403,20,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+44024,32,32,6,BE06402,1,A,3.0,EU,posicion_rack,2.0,match_articulo_propietario; owner=prefijo_RESERVA
+11109,77,77,65,AV07110,65,B,93.0,EU,posicion_rack,0.6989247311827957,match_articulo; owner=prefijo_RESERVA
+11013,61,61,1080,AZ10903,1,A,48.0,balda_9h,subhueco_balda,22.5,match_articulo_propietario; owner=prefijo_RESERVA
+11114,29,29,48,AV12302,2,B,768.0,EU,posicion_rack,0.0625,match_articulo; owner=prefijo_RESERVA
+23031,32,32,4,AP12305,1,C,2.0,suelo_126,posicion_suelo,2.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+75012,77,77,1800,AV05104,1,C,12.0,balda_9h,subhueco_balda,150.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AV08309,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+11127,77,77,144,TJ09202,1,A,120.0,balda_9h,subhueco_balda,1.2,match_articulo_propietario; owner=prefijo_RESERVA
+102156,14 VOLUNTARIA,14,4,BA02801,4,A,65.0,balda_9h,subhueco_balda,0.06153846153846154,match_articulo_propietario; owner=prefijo_RESERVA
+124260,33,33,72,AP03705,1,C,12.0,balda_9h,subhueco_balda,6.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+21034,61,61,2,AJ02201,2,B,2.0,EU,posicion_rack,1.0,match_articulo; owner=prefijo_RESERVA
+133099,29,29,5029,BB11801,1,C,2.0,suelo_126,posicion_suelo,2514.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+122010,32,32,32,AK01803,32,C,2.0,suelo_126,posicion_suelo,16.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+98010,14 VOLUNTARIA,14,1,BA02801,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+184200,64,64,1,AX13404,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+98555,61,61,19,AZ09501,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+106297,32,32,137,AK01803,137,C,12.0,balda_9h,subhueco_balda,11.416666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+23063,64,64,3,BB00703,3,A,3.0,EU,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+98760,64,64,17,BB11404,17,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+204000,77,77,10,AQ03403,10,B,16.0,suelo_126,posicion_suelo,0.625,match_articulo; owner=prefijo_RESERVA
+122030,32,32,90,AI10804,90,C,12.0,balda_9h,subhueco_balda,7.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98585,61,61,4,AO07002,4,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+12019,29,29,984,BB03202,1,B,228.0,EU,posicion_rack,4.315789473684211,match_articulo; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AY00300,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+43011,32,32,1,AK03505,1,C,2.0,TR,posicion_rack,0.5,dimensión larga compatible con TR; owner=prefijo_RESERVA
+54129,7,7,1,AR07204,1,B,2.0,balda_9h,subhueco_balda,0.5,match_articulo; owner=prefijo_RESERVA
+98758,64,64,9,AZ09503,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+103200,32,32,2,AV10906,2,C,12.0,balda_9h,subhueco_balda,0.16666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+124260,33,33,23,AU09404,1,C,12.0,balda_9h,subhueco_balda,1.9166666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+61050,61,61,52,AV11206,1,C,12.0,balda_9h,subhueco_balda,4.333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+8414,29,29,12,TJ10702,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+74006,32,32,7,AK01803,7,C,12.0,balda_9h,subhueco_balda,0.5833333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+43065,33,33,6,BC01405,1,C,2.0,suelo_126,posicion_suelo,3.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AR09601,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+62016,5,5,108,B03,1,A,589.0,EU,posicion_rack,0.1833616298811545,match_articulo_propietario; owner=prefijo_RESERVA
+98508,61,61,168,AV10204,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+103189,29,29,1,AV13002,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+206050,29,29,23,AI14402,1,A,19.5,AM,posicion_rack,1.1794871794871795,match_articulo_propietario; owner=prefijo_RESERVA
+126117,61 CAMION123,61,5,AK01105,5,C,12.0,balda_9h,subhueco_balda,0.4166666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+171013,32,32,1,AV11402,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+83025,32,32,198,AK01803,198,C,12.0,balda_9h,subhueco_balda,16.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+65034,71,71,12,BB09205,12,A,132.0,EU,posicion_rack,0.09090909090909091,match_articulo_propietario; owner=prefijo_RESERVA
+11127,77,77,24,AV12007,1,A,120.0,balda_9h,subhueco_balda,0.2,match_articulo_propietario; owner=prefijo_RESERVA
+103235,29,29,18,TJ04103,18,C,12.0,balda_9h,subhueco_balda,1.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+154015,64,64,2,AJ09507,2,C,1.0,suelo_250,posicion_suelo,2.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+23008,32,32,2,AN09604,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+95013,32,32,2,AU14803,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+98595,61,61,2,AO12803,2,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+95013,32,32,2,AK14601,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AV01809,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+171000,7,7,3200,BB13802,1,C,12.0,balda_9h,subhueco_balda,266.6666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+126119,61,61,1000,AK01105,1000,C,12.0,balda_9h,subhueco_balda,83.33333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+86010,33,33,3,BB13701,3,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98564,61,61,6,AR09401,6,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AO03604,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+124236,33,33,104,AP06505,1,C,12.0,balda_9h,subhueco_balda,8.666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+11116,33,33,144,AK06006,1,B,1.0,EU,posicion_rack,144.0,match_articulo; owner=prefijo_RESERVA
+98007,14 VOLUNTARIA,14,26,BA02801,26,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+148068,37 2BULTOS,37,2,AL104,1,C,1.0,suelo_250,posicion_suelo,2.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+98264,61,61,12,AV01809,12,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BA08705,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+54062,64,64,2,AT10303,2,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+14014,29,29,22,AJ13207,1,A,276.0,EU,posicion_rack,0.07971014492753623,match_articulo_propietario; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AZ08905,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+174054,32,32,1,AZ08501,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+205017,3,3,2,AL105,1,A,1.0,suelo_250,posicion_suelo,2.0,match_articulo_propietario; owner=prefijo_RESERVA
+41086,3,3,6,99,1,C,16.0,AM,posicion_rack,0.375,dimensión compatible con AM; owner=prefijo_RESERVA
+51208,7,7,1,AR07204,1,C,1.0,suelo_250,posicion_suelo,1.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AN07001,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+128010,32,32,1,AY05501,1,B,1.0,suelo_250,posicion_suelo,1.0,match_articulo; owner=prefijo_RESERVA
+174055,32,32,1,BA08503,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+107006,33,33,3,BB13701,3,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+63013,77 CAMION121,77,204,AK05105,1,C,12.0,balda_9h,subhueco_balda,17.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+172057,7,7,72,BB10802,1,B,43.0,EU,posicion_rack,1.6744186046511629,match_articulo; owner=prefijo_RESERVA
+98624,61,61,3,AO14003,3,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98640,61,61,3,AZ02300,3,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+154018,64,64,1,BC08302,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+98725,61,61,3,AZ02300,3,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+103038,7,7,82,BB14402,82,B,173.0,EU,posicion_rack,0.47398843930635837,match_articulo; owner=prefijo_RESERVA
+86146,33,33,1,BB13701,1,B,3.0,EU,posicion_rack,0.3333333333333333,match_articulo; owner=prefijo_RESERVA
+106333,61,61,90,AO01803,1,B,116.0,EU,posicion_rack,0.7758620689655172,match_articulo; owner=prefijo_RESERVA
+61016,32,32,660,AO08104,1,B,252.0,EU,posicion_rack,2.619047619047619,match_articulo; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AV13708,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+121026,33,33,12,BA04603,12,C,12.0,balda_9h,subhueco_balda,1.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AR04804,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+16008,77,77,1,AJ10203,1,B,9.0,EU,posicion_rack,0.1111111111111111,match_articulo; owner=prefijo_RESERVA
+121060,4,4,6,AL102,6,C,12.0,balda_9h,subhueco_balda,0.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98751,64,64,2,BB01803,2,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+91102,71,71,1,AP10804,1,C,1.0,suelo_250,posicion_suelo,1.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+98718,61,61,160,BD09602,160,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+121059,4,4,8,AL102,8,C,12.0,balda_9h,subhueco_balda,0.6666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+179026,3,3,5,B03,1,A,7.0,balda_9h,subhueco_balda,0.7142857142857143,match_articulo_propietario; owner=prefijo_RESERVA
+103175,29,29,2,AV13002,2,C,12.0,balda_9h,subhueco_balda,0.16666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+16008,29,29,2,AZ00905,1,B,9.0,EU,posicion_rack,0.2222222222222222,match_articulo; owner=prefijo_RESERVA
+109017,32,32,15,AV10906,15,C,12.0,balda_9h,subhueco_balda,1.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+139004,64,64,29,BA03402,1,A,28.0,EU,posicion_rack,1.0357142857142858,match_articulo_propietario; owner=prefijo_RESERVA
+41044,71,71,1,AW02103,1,C,2.0,suelo_300,posicion_suelo,0.5,dimensión >= 250 cm; owner=prefijo_RESERVA
+192051,32,32,1,AK01803,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+14015,29,29,360,AQ14703,1,A,24.0,balda_9h,subhueco_balda,15.0,match_articulo_propietario; owner=prefijo_RESERVA
+102614,29 CAMION120,29,8,B03,4,C,12.0,balda_9h,subhueco_balda,0.6666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+83027,29,29,61,AK14206,61,C,12.0,balda_9h,subhueco_balda,5.083333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+95013,32,32,2,AT12704,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+115108,33,33,116,BA04603,116,C,2.0,suelo_126,posicion_suelo,58.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+181212,64,64,1,AQ06904,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+51086,29,29,1,BE14301,1,A,2.0,suelo_126,posicion_suelo,0.5,match_articulo_propietario; owner=prefijo_RESERVA
+23031,32,32,2,AT14203,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+139004,64,64,22,BA07304,1,A,28.0,EU,posicion_rack,0.7857142857142857,match_articulo_propietario; owner=prefijo_RESERVA
+146098,71 CAMION122,71,4,AZ08502,1,C,2.0,suelo_126,posicion_suelo,2.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+11030,61,61,24,AJ08001,1,B,48.0,balda_9h,subhueco_balda,0.5,match_articulo; owner=prefijo_RESERVA
+14010,77,77,36,AV13708,36,A,288.0,EU,posicion_rack,0.125,match_articulo_propietario; owner=prefijo_RESERVA
+98747,64,64,5,AV01507,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+18071,77,77,48,TJ10502,2,B,240.0,EU,posicion_rack,0.2,match_articulo; owner=prefijo_RESERVA
+163001,4,4,1,AL102,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+106315,64,64,194,TJ12601,1,C,12.0,balda_9h,subhueco_balda,16.166666666666668,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+185017,77,77,18,BA09405,18,C,12.0,balda_9h,subhueco_balda,1.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+18000,71,71,504,AO03802,14,C,12.0,balda_9h,subhueco_balda,42.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+74019,34,34,150,BE14001,1,A,270.0,EU,posicion_rack,0.5555555555555556,match_articulo_propietario; owner=prefijo_RESERVA
+102614,29 CAMION120,29,1,B03,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+42070,64,64,1,AJ09507,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+148047,71,71,1,C12,1,C,2.0,suelo_300,posicion_suelo,0.5,dimensión >= 250 cm; owner=prefijo_RESERVA
+126007,33,33,150,BB09403,150,B,127.0,EU,posicion_rack,1.1811023622047243,match_articulo; owner=prefijo_RESERVA
+74036,60,60,480,BB05103,1,C,12.0,balda_9h,subhueco_balda,40.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+148003,3,3,3,AL103,1,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98754,64,64,15,BB01505,15,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+125020,33,33,393,BB13701,393,C,12.0,balda_9h,subhueco_balda,32.75,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+185016,77,77,77,BA09405,77,C,12.0,balda_9h,subhueco_balda,6.416666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98550,61,61,15,AZ09501,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+148005,37,37,9,AL107,1,C,12.0,balda_9h,subhueco_balda,0.75,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98607,61,61,10,AO13804,10,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+61029,61,61,6,AK01105,6,C,12.0,balda_9h,subhueco_balda,0.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+42113,29,29,10,B03,10,C,12.0,balda_9h,subhueco_balda,0.8333333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+143083,71,71,31,BB09205,31,C,2.0,suelo_126,posicion_suelo,15.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+148077,3,3,2,AL103,1,C,12.0,balda_9h,subhueco_balda,0.16666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+15017,61,61,2376,AL02101,1,A,48.0,balda_9h,subhueco_balda,49.5,match_articulo_propietario; owner=prefijo_RESERVA
+98622,61,61,3,AO14003,3,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+126117,61 CAMION123,61,24,AK01105,24,C,12.0,balda_9h,subhueco_balda,2.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+111014,33,33,59,BA04603,59,C,12.0,balda_9h,subhueco_balda,4.916666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+131169,33,33,405,AQ09504,1,C,12.0,balda_9h,subhueco_balda,33.75,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+54083,7,7,1,TJ10302,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+36019,64,64,1,AZ11801,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+91249,77 CAMION121,77,1,AT08204,1,A,1.0,EU,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+22054,32,32,3,BB13504,1,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+125055,33,33,400,BB13701,400,C,12.0,balda_9h,subhueco_balda,33.333333333333336,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+124137,29,29,90,BC06400,1,C,12.0,balda_9h,subhueco_balda,7.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+74019,34,34,270,AZ09103,1,A,270.0,EU,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+61012,32,32,462,AM00702,1,B,78.0,EU,posicion_rack,5.923076923076923,match_articulo; owner=prefijo_RESERVA
+115107,33,33,1,BA04603,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+98638,61,61,3,AZ02300,3,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+167009,64,64,1,BA00103,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+98011,14 VOLUNTARIA,14,17,BA02801,17,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+32041,32,32,24,BB12504,1,C,2.0,suelo_126,posicion_suelo,12.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+73002,32,32,104,AI10804,104,C,12.0,balda_9h,subhueco_balda,8.666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+209014,29,29,20,TJ08101,1,C,1.0,suelo_250,posicion_suelo,20.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+63013,77,77,90,AV13407,1,C,12.0,balda_9h,subhueco_balda,7.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AV03804,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+184223,71,71,1,BB09205,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+54090,64,64,1,BA11402,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+184192,71,71,4,BB09205,4,C,1.0,suelo_250,posicion_suelo,4.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+888888,29,29,1,AO11705,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AV09402,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+991036,37,37,3,AL103,1,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+167009,64,64,1,BB02504,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+86006,7,7,218,BB12604,1,C,12.0,balda_9h,subhueco_balda,18.166666666666668,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+84103,33,33,2,AH13801,2,B,1.0,EU,posicion_rack,2.0,match_articulo; owner=prefijo_RESERVA
+22098,7 BLOQUEADO SM,7,5,BB11403,1,C,2.0,suelo_126,posicion_suelo,2.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+102614,29,29,6,AV13702,6,C,12.0,balda_9h,subhueco_balda,0.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98496,4,4,12,AL107,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+32081,7,7,4,BB06304,1,C,2.0,suelo_126,posicion_suelo,2.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BB01803,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+129122,90,90,11,AL102,11,C,12.0,balda_9h,subhueco_balda,0.9166666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+61002,61,61,36,AK01105,36,B,690.0,EU,posicion_rack,0.05217391304347826,match_articulo; owner=prefijo_RESERVA
+102625,29,29,12,TJ04103,12,C,12.0,balda_9h,subhueco_balda,1.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+14014,77 CANADAS,77,195,AO03604,195,B,360.0,EU,posicion_rack,0.5416666666666666,match_articulo; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AJ09507,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+34060,32,32,1,AV10906,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AN09501,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+16024,77,77,5,AJ10203,5,B,8.0,EU,posicion_rack,0.625,match_articulo; owner=prefijo_RESERVA
+98644,61,61,8,AV10306,8,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+161099,71,71,1,BA10701,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+11014,61,61,48,AR09601,48,B,48.0,EU,posicion_rack,1.0,match_articulo; owner=prefijo_RESERVA
+11105,29,29,48,AV13504,1,B,72.0,EU,posicion_rack,0.6666666666666666,match_articulo; owner=prefijo_RESERVA
+103035,14 VOLUNTARIA,14,22,BA02801,22,A,61.0,balda_9h,subhueco_balda,0.36065573770491804,match_articulo_propietario; owner=prefijo_RESERVA
+98894,64,64,1,AZ01902,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+209026,64,64,2,AV12800,1,C,2.0,suelo_300,posicion_suelo,1.0,dimensión >= 250 cm; owner=prefijo_RESERVA
+146043,3,3,24624,98,1,B,416.0,EU,posicion_rack,59.19230769230769,match_articulo; owner=prefijo_RESERVA
+126039,7,7,1693,TJ11101,1,C,12.0,balda_9h,subhueco_balda,141.08333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+148015,37,37,1,AL107,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+148084,4,4,2,AL104,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+22054,32,32,3,BB14501,1,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+192046,33,33,3779,AP08902,1,C,12.0,balda_9h,subhueco_balda,314.9166666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98885,64,64,24,AZ01902,24,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+33000,32,32,9,AU07004,1,C,2.0,suelo_126,posicion_suelo,4.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+109307,29,29,5,TJ04103,5,C,12.0,balda_9h,subhueco_balda,0.4166666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+186024,61,61,39,AJ02201,39,C,12.0,balda_9h,subhueco_balda,3.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+22051,7,7,2,BF09904,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+98557,61,61,29,AZ09501,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+133176,64,64,50,AZ01902,50,C,12.0,balda_9h,subhueco_balda,4.166666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+103035,14 VOLUNTARIA,14,23,BA02801,23,A,61.0,balda_9h,subhueco_balda,0.3770491803278688,match_articulo_propietario; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BB06705,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+148009,37,37,1,AL104,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AQ06904,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+16015V,61,61,2,AZ09605,2,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+127070,29,29,1,BF07103,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98618,61,61,5,AO14002,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+32054,71,71,2,AV11702,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+98763,64,64,4,BB11404,4,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+43065,33,33,1,AJ12407,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+148016,37,37,1,AL105,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98752,64,64,6,BB01803,6,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+11024,61,61,216,AK13206,1,B,599.0,EU,posicion_rack,0.3606010016694491,match_articulo; owner=prefijo_RESERVA
+991006,32,32,1,TM05203,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+98580,61,61,1,AT14704,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AO07002,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+51231,71 CAMION120,71,1,AI05701,1,C,1.0,suelo_250,posicion_suelo,1.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+103281,32,32,1,AV10906,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AZ02300,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+84053,64,64,8,AZ11801,4,A,5.0,EU,posicion_rack,1.6,match_articulo_propietario; owner=prefijo_RESERVA
+111013,33,33,66,BA04603,66,C,12.0,balda_9h,subhueco_balda,5.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+155007,32,32,3,BB07904,1,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+181156,32,32,1,AV10906,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+172057,7,7,72,BB11103,1,B,43.0,EU,posicion_rack,1.6744186046511629,match_articulo; owner=prefijo_RESERVA
+98181,61,61,18,TJ13000,18,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+OBRA20,37,37,1,AL102,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+18105,77,77,900,AX09504,1,C,2.0,suelo_126,posicion_suelo,450.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+102675,29,29,1,BF07103,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AZ11603,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98767,64,64,2,BB06403,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98727,61,61,5,AZ02300,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98576,61,61,2,AR04804,2,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+102233,29,29,126,AK04006,126,C,12.0,balda_9h,subhueco_balda,10.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AR09401,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+1593V,29,29,2,AI09506,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+42069,64,64,4,AJ09507,4,C,12.0,balda_9h,subhueco_balda,0.3333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+145062,64,64,1,AT06303,1,A,1.0,AM,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+127069,33,33,1,BB07302,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AK01105,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+123069,29,29,592,AL09605,1,A,254.0,EU,posicion_rack,2.3307086614173227,match_articulo_propietario; owner=prefijo_RESERVA
+44050,5,5,2,97,1,C,16.0,AM,posicion_rack,0.125,dimensión compatible con AM; owner=prefijo_RESERVA
+126118,61 CAMION123,61,20,AK01105,20,C,12.0,balda_9h,subhueco_balda,1.6666666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+14014,33,33,216,AT09406,1,B,360.0,EU,posicion_rack,0.6,match_articulo; owner=prefijo_RESERVA
+174054,32,32,1,AL02404,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+102234,29,29,1,AK04006,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+124267,29,29,116,AT06803,1,C,12.0,balda_9h,subhueco_balda,9.666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+14014,29,29,144,AV07104,1,A,276.0,EU,posicion_rack,0.5217391304347826,match_articulo_propietario; owner=prefijo_RESERVA
+103176,29,29,2,AV13002,2,C,12.0,balda_9h,subhueco_balda,0.16666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+111010,32,32,800,AI10804,800,C,12.0,balda_9h,subhueco_balda,66.66666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AI04403,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+143039,33,33,33,BA04603,33,C,12.0,balda_9h,subhueco_balda,2.75,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+132017,29,29,6,TJ03200,1,C,2.0,suelo_300,posicion_suelo,3.0,dimensión >= 250 cm; owner=prefijo_RESERVA
+98576,61,61,3,AZ02300,3,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+169027,62,62,1,AL102,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+991003,32,32,1,AV11402,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+98610,61,61,10,AO13804,10,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+91012,33,33,1,BB06904,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+148062,37,37,3,AL103,1,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+102615,29,29,15,B03,15,C,12.0,balda_9h,subhueco_balda,1.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+145077,64,64,1,AT10303,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+51094,32,32,3,AM12502,1,A,1.0,suelo_126,posicion_suelo,3.0,match_articulo_propietario; owner=prefijo_RESERVA
+166032,29,29,133,TJ00803,1,C,12.0,balda_9h,subhueco_balda,11.083333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+54050,32,32,1,AN09003,1,B,1.0,EU,posicion_rack,1.0,match_articulo; owner=prefijo_RESERVA
+184096,61,61,2,AJ02201,2,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+11014,61,61,72,AV06301,1,B,48.0,EU,posicion_rack,1.5,match_articulo; owner=prefijo_RESERVA
+11124,29,29,14,TJ11603,1,C,2.0,suelo_126,posicion_suelo,7.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+13064,29,29,24,TJ10702,1,C,12.0,balda_9h,subhueco_balda,2.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+12018,77,77,384,AJ06304,1,B,816.0,EU,posicion_rack,0.47058823529411764,match_articulo; owner=prefijo_RESERVA
+152100,64,64,1,BC08302,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+102615,29,29,4,B03,4,C,12.0,balda_9h,subhueco_balda,0.3333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+14001,77,77,7,TJ06802,1,B,192.0,EU,posicion_rack,0.036458333333333336,match_articulo; owner=prefijo_RESERVA
+206050,64,64,17,AV13007,1,B,19.5,AM,posicion_rack,0.8717948717948718,match_articulo; owner=prefijo_RESERVA
+98604,61,61,5,AO13604,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+11127,77 CANADAS,77,48,AO03604,2,A,120.0,balda_9h,subhueco_balda,0.4,match_articulo_propietario; owner=prefijo_RESERVA
+71090,61,61,5,AV01809,5,B,228.0,EU,posicion_rack,0.021929824561403508,match_articulo; owner=prefijo_RESERVA
+98572,61,61,4,AR04504,4,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+12012,29,29,48,AJ06807,1,B,72.0,EU,posicion_rack,0.6666666666666666,match_articulo; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AW09301,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98395,29,29,2,AI14802,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+14012,77,77,48,AV13803,1,A,96.0,balda_9h,subhueco_balda,0.5,match_articulo_propietario; owner=prefijo_RESERVA
+102157,14 VOLUNTARIA,14,23,BA02801,23,C,2.0,suelo_126,posicion_suelo,11.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+22054,32,32,3,BB13401,1,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+32120,32,32,2,AQ08603,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+87022,64,64,3,BE01902,1,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+122061,32,32,22,AI10804,22,B,6.0,EU,posicion_rack,3.6666666666666665,match_articulo; owner=prefijo_RESERVA
+21045,29,29,1,AV04206,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+16010,61,61,1,AJ06207,1,B,12.0,EU,posicion_rack,0.08333333333333333,match_articulo; owner=prefijo_RESERVA
+181157,32,32,3,AV10906,3,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+141013,33,33,248,BA04603,248,C,12.0,balda_9h,subhueco_balda,20.666666666666668,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AV01108,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+133193,29,29,323,AV13702,323,C,12.0,balda_9h,subhueco_balda,26.916666666666668,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+148035,4,4,1,AL102,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+186024,61,61,304,AJ02201,304,C,12.0,balda_9h,subhueco_balda,25.333333333333332,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+133034,32,32,110,AK01803,110,C,12.0,balda_9h,subhueco_balda,9.166666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+33000,32,32,16,BB06703,1,C,2.0,suelo_126,posicion_suelo,8.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+98643,61,61,8,AV10306,8,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+23076,23,23,2,B03,1,C,1.0,suelo_250,posicion_suelo,2.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+23008,32,32,2,AQ06202,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+11115,29,29,120,BB00804,120,B,48.0,EU,posicion_rack,2.5,match_articulo; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AW02004,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+*MULTI*,,sin_asignacion_segura,1,BD09602,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98637,61,61,8,AV10306,8,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+109201,29,29,13,BF07103,13,C,16.0,AM,posicion_rack,0.8125,dimensión compatible con AM; owner=prefijo_RESERVA
+34033,64,64,11,AJ08602,1,C,2.0,suelo_126,posicion_suelo,5.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+124137,29,29,78,BA06800,1,C,12.0,balda_9h,subhueco_balda,6.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+72051,71,71,3200,AU05002,1,C,12.0,balda_9h,subhueco_balda,266.6666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+107007,33,33,1,BB13701,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+143082,71,71,4,BB09205,4,C,2.0,suelo_126,posicion_suelo,2.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+34074,29,29,1,AT09004,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+12064,77,77,672,AV06506,1,C,12.0,balda_9h,subhueco_balda,56.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+109309,29,29,7,BF07103,7,C,16.0,AM,posicion_rack,0.4375,dimensión compatible con AM; owner=prefijo_RESERVA
+84055,71,71,18,AN13903,18,C,12.0,balda_9h,subhueco_balda,1.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+42063,64,64,2,BA08705,1,A,1.0,EU,posicion_rack,2.0,match_articulo_propietario; owner=prefijo_RESERVA
+49013,64,64,1,AO03002,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+98726,61,61,2,AZ02300,2,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+206050,64,64,2,AV08508,1,B,19.5,AM,posicion_rack,0.10256410256410256,match_articulo; owner=prefijo_RESERVA
+43065,33,33,6,AM13703,1,C,2.0,suelo_126,posicion_suelo,3.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AR04504,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98606,61,61,5,AO13604,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+181223,29,29,8,TJ00400,1,A,20.0,EU,posicion_rack,0.4,match_articulo_propietario; owner=prefijo_RESERVA
+146098,71 CAMION122,71,4,AZ03101,1,C,2.0,suelo_126,posicion_suelo,2.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+98767,64,64,2,AW11702,2,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+49015,29,29,12,AK14206,12,B,92.0,EU,posicion_rack,0.13043478260869565,match_articulo; owner=prefijo_RESERVA
+133176,64,64,931,BC08302,931,C,12.0,balda_9h,subhueco_balda,77.58333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+105059,29,29,40,AV13002,40,C,12.0,balda_9h,subhueco_balda,3.3333333333333335,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+179023,33,33,1,AV06509,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+202072,77,77,10,AQ03403,10,C,2.0,suelo_300,posicion_suelo,5.0,dimensión >= 250 cm; owner=prefijo_RESERVA
+98345,61,61,6,AV01809,6,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AJ07407,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+124137,29,29,90,BD14502,1,C,12.0,balda_9h,subhueco_balda,7.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+12012,29,29,528,AQ08302,1,B,72.0,EU,posicion_rack,7.333333333333333,match_articulo; owner=prefijo_RESERVA
+98274,4   JUNTO98257,4,1,90,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+991006,32,32,1,AV11402,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+991061,33,33,5640,AW11706,1,C,12.0,balda_9h,subhueco_balda,470.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+161161,71,71,2,AY06301,1,C,1.0,suelo_250,posicion_suelo,2.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+109017,32,32,1,AK01803,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BA11900,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+201123,3,3,1,99,1,C,2.0,suelo_300,posicion_suelo,0.5,dimensión >= 250 cm; owner=prefijo_RESERVA
+146018,33,33,18,AM11302,1,C,2.0,suelo_126,posicion_suelo,9.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+61014,61,61,14,AJ07006,14,B,84.0,balda_9h,subhueco_balda,0.16666666666666666,match_articulo; owner=prefijo_RESERVA
+18072,77,77,72,TJ10502,3,A,120.0,EU,posicion_rack,0.6,match_articulo_propietario; owner=prefijo_RESERVA
+61010,32,32,360,AT11703,1,B,469.0,EU,posicion_rack,0.767590618336887,match_articulo; owner=prefijo_RESERVA
+121029,32,32,13,AZ08905,13,C,12.0,balda_9h,subhueco_balda,1.0833333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+52016,64,64,3,AZ11801,3,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AV12302,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+148006,3,3,1,C08,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+132002,29,29,1,AJ09706,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98567,61,61,8,AR04304,8,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+146057,3,3,15288,98,1,C,12.0,balda_9h,subhueco_balda,1274.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+192052,32,32,2,AK01803,2,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+98578,61,61,5,AR04804,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+84053,64,64,5,AZ11801,5,A,5.0,EU,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+105090,29,29,8,AU14604,8,C,12.0,balda_9h,subhueco_balda,0.6666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98709,29,29,16,AW11305,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+16010,77,77,6,TJ01102,1,B,12.0,EU,posicion_rack,0.5,match_articulo; owner=prefijo_RESERVA
+115108,32,32,45,AZ08905,45,C,2.0,suelo_126,posicion_suelo,22.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+12019,29,29,888,AN09502,1,B,228.0,EU,posicion_rack,3.8947368421052633,match_articulo; owner=prefijo_RESERVA
+98009,14 VOLUNTARIA,14,23,BA02801,23,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+14014,61,61,888,BC14501,1,B,360.0,EU,posicion_rack,2.466666666666667,match_articulo; owner=prefijo_RESERVA
+62001,77 CAMION121,77,492,AI07005,1,B,30.0,balda_9h,subhueco_balda,16.4,match_articulo; owner=prefijo_RESERVA
+72009,24,24,7000,B03,1,C,12.0,balda_9h,subhueco_balda,583.3333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+105092,29,29,40,BF07103,40,C,12.0,balda_9h,subhueco_balda,3.3333333333333335,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+203093,29,29,6,AV07702,1,A,15.0,TR,posicion_rack,0.4,match_articulo_propietario; owner=prefijo_RESERVA
+23008,32,32,1,AV08608,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+42060,64,64,2,BA08705,2,A,7.0,EU,posicion_rack,0.2857142857142857,match_articulo_propietario; owner=prefijo_RESERVA
+51082,7,7,1,AV10900,1,C,6.0,EU,posicion_rack,0.16666666666666666,dimensión compatible con EU; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AY05501,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+63011,77,77,456,AT14902,1,C,12.0,balda_9h,subhueco_balda,38.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+205220,64,64,2,AZ06401,1,C,16.0,AM,posicion_rack,0.125,dimensión compatible con AM; owner=prefijo_RESERVA
+205024,37,37,1,AL105,1,C,1.0,suelo_250,posicion_suelo,1.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+98892,64,64,15,AZ01902,15,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+102616,29,29,8,B03,8,C,12.0,balda_9h,subhueco_balda,0.6666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AZ09501,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+51338,7,7,1,AR07204,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+124249,33,33,444,BA06400,1,C,2.0,suelo_126,posicion_suelo,222.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+98766,64,64,2,BA03104,2,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+181223,29,29,9,AW13103,1,A,20.0,EU,posicion_rack,0.45,match_articulo_propietario; owner=prefijo_RESERVA
+51154,64,64,1,AI05701,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+31091,24,24,18,AN11902,1,A,18.0,AM,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+98015,14 VOLUNTARIA,14,14,BA02801,14,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+143082,71,71,19,BB09205,19,C,2.0,suelo_126,posicion_suelo,9.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+165013,3,3,1,AL102,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+33000,32,32,10,AZ13503,1,C,2.0,suelo_126,posicion_suelo,5.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+205027,32,32,4,AK01605,1,C,2.0,suelo_126,posicion_suelo,2.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+54088,64,64,2,BA11402,2,C,12.0,balda_9h,subhueco_balda,0.16666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+43065,33,33,7,AN07501,1,C,2.0,suelo_126,posicion_suelo,3.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,TJ04103,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98617,61,61,5,AO14002,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+14014,33,33,720,AP08305,1,B,360.0,EU,posicion_rack,2.0,match_articulo; owner=prefijo_RESERVA
+32077,64,64,12,AK08505,1,C,2.0,suelo_126,posicion_suelo,6.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+114020,32,32,744,BF01805,1,C,12.0,balda_9h,subhueco_balda,62.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+61007,77,77,84,17,1,B,782.0,EU,posicion_rack,0.10741687979539642,match_articulo; owner=prefijo_RESERVA
+181162,32,32,1,AV10906,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+148048,37,37,5,AL105,1,C,12.0,balda_9h,subhueco_balda,0.4166666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+32052,71,71,8,AT11303,1,C,2.0,suelo_126,posicion_suelo,4.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+155006,32,32,3,BC10905,1,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+74019,34,34,270,BA06905,1,A,270.0,EU,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+23108,29,29,2,TJ12100,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+11013,61,61,1080,BA03303,1,A,48.0,balda_9h,subhueco_balda,22.5,match_articulo_propietario; owner=prefijo_RESERVA
+143053,32,32,10,AJ04207,1,C,2.0,suelo_126,posicion_suelo,5.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+148018,37,37,2,AL105,1,C,12.0,balda_9h,subhueco_balda,0.16666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+146065,71,71,1,AJ07805,1,A,1.0,EU,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+98566,61,61,8,AR09401,8,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+65048,29,29,48,TJ00903,1,C,12.0,balda_9h,subhueco_balda,4.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+143046,77,77,9,AQ14003,1,B,24.0,EU,posicion_rack,0.375,match_articulo; owner=prefijo_RESERVA
+122190,29,29,10,AV13702,10,C,2.0,suelo_126,posicion_suelo,5.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+98047,74,74,348,B03,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98016,14 VOLUNTARIA,14,25,BA02801,25,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+148043,37,37,1,AL103,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+91202,29,29,1,BA05204,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+98642,61,61,7,AV10306,7,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+172078,64,64,5,AP14604,1,C,12.0,balda_9h,subhueco_balda,0.4166666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+123029,33,33,150,BB13701,150,C,2.0,suelo_126,posicion_suelo,75.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+102573,29,29,2,B03,2,C,12.0,balda_9h,subhueco_balda,0.16666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AV11402,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+83113,61,61,1,AJ02201,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+41079,3,3,1,97,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+161161,71,71,1,AZ11201,1,C,1.0,suelo_250,posicion_suelo,1.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+65059,71 CAMION120,71,306,AL03905,1,C,12.0,balda_9h,subhueco_balda,25.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+42065,64,64,5,AW10703,5,B,1.0,EU,posicion_rack,5.0,match_articulo; owner=prefijo_RESERVA
+32088,3,3,7,99,1,A,13.5,EU,posicion_rack,0.5185185185185185,match_articulo_propietario; owner=prefijo_RESERVA
+61016,77,77,120,AO04804,1,B,252.0,EU,posicion_rack,0.47619047619047616,match_articulo; owner=prefijo_RESERVA
+111008,32,32,89,AI10804,89,C,12.0,balda_9h,subhueco_balda,7.416666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98571,61,61,5,AR04504,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98884,64,64,25,AZ01902,25,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+154020,64,64,1,BC08302,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+98596,61,61,4,AO12803,4,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+174123,29,29,1,AO11100,1,C,2.0,TR,posicion_rack,0.5,dimensión larga compatible con TR; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AK01803,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+*MULTI*,,sin_asignacion_segura,1,AQ03403,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+33057,64,64,1,TJ06900,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+124138,29,29,120,BA13602,60,C,2.0,suelo_126,posicion_suelo,60.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+121027,33,33,7,BA04603,7,C,12.0,balda_9h,subhueco_balda,0.5833333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+183160,71,71,1,BB09205,1,C,2.0,suelo_300,posicion_suelo,0.5,dimensión >= 250 cm; owner=prefijo_RESERVA
+139004,64,64,31,AP03201,1,A,28.0,EU,posicion_rack,1.1071428571428572,match_articulo_propietario; owner=prefijo_RESERVA
+109313,29,29,10,BF07103,10,C,2.0,suelo_126,posicion_suelo,5.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+103178,29,29,13,AV13002,13,C,12.0,balda_9h,subhueco_balda,1.0833333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98776,71,71,2,AW02004,2,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+18076,77,77,60,AV11008,1,C,12.0,balda_9h,subhueco_balda,5.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+143049,29,29,11,AQ04804,1,B,47.0,EU,posicion_rack,0.23404255319148937,match_articulo; owner=prefijo_RESERVA
+103284,29,29,36,AK04006,36,C,12.0,balda_9h,subhueco_balda,3.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BA03104,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+206050,29,29,5,AR09301,1,A,19.5,AM,posicion_rack,0.2564102564102564,match_articulo_propietario; owner=prefijo_RESERVA
+154023,64,64,1,AI05701,1,C,1.0,suelo_250,posicion_suelo,1.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+183159,71,71,1,BB09205,1,C,2.0,suelo_300,posicion_suelo,0.5,dimensión >= 250 cm; owner=prefijo_RESERVA
+149047,64,64,14,AW08300,1,C,2.0,suelo_126,posicion_suelo,7.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+98008,14 VOLUNTARIA,14,14,BA02801,14,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+109203,29,29,14,B03,14,C,12.0,balda_9h,subhueco_balda,1.1666666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+146105,71,71,2,AQ02803,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+172092,71,71,1,AZ11603,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+42072,64,64,5,BA08705,5,A,5.0,EU,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+149024,29,29,3,AK14206,3,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+127037,71,71,78,BB09205,78,C,2.0,suelo_126,posicion_suelo,39.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+91031,33,33,1,AO08403,1,C,6.0,EU,posicion_rack,0.16666666666666666,dimensión compatible con EU; owner=prefijo_RESERVA
+172091,71,71,1,AZ11603,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+74036,60,60,480,BB01705,1,C,12.0,balda_9h,subhueco_balda,40.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+11109,29,29,456,AV04702,1,B,93.0,EU,posicion_rack,4.903225806451613,match_articulo; owner=prefijo_RESERVA
+74019,34,34,396,AZ13404,1,A,270.0,EU,posicion_rack,1.4666666666666666,match_articulo_propietario; owner=prefijo_RESERVA
+109206,29,29,35,AU14604,35,C,12.0,balda_9h,subhueco_balda,2.9166666666666665,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+16024,29,29,15,AV06309,1,A,8.5,suelo_126,posicion_suelo,1.7647058823529411,match_articulo_propietario; owner=prefijo_RESERVA
+204092,64,64,5,B03,1,C,1.0,suelo_250,posicion_suelo,5.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+152154,64,64,2,TJ05101,1,C,16.0,AM,posicion_rack,0.125,dimensión compatible con AM; owner=prefijo_RESERVA
+71039,32,32,114,AV08106,1,B,60.0,balda_9h,subhueco_balda,1.9,match_articulo; owner=prefijo_RESERVA
+14012,29,29,144,AO09401,1,A,120.0,EU,posicion_rack,1.2,match_articulo_propietario; owner=prefijo_RESERVA
+121029,33,33,3,BA04603,3,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AR04304,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+167020,77,77,1,AQ07602,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+111036,32,32,333,AI10804,333,C,12.0,balda_9h,subhueco_balda,27.75,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+74019,34,34,324,BA02704,1,A,270.0,EU,posicion_rack,1.2,match_articulo_propietario; owner=prefijo_RESERVA
+132073,71,71,3,BB09205,3,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+121024,33,33,20,BA04603,10,C,12.0,balda_9h,subhueco_balda,1.6666666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+174121,33,33,3,BD02300,1,C,1.0,suelo_250,posicion_suelo,3.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+148000,3,3,3,AL103,1,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98637,61,61,3,AZ02300,3,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98765,64,64,3,BA03104,3,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+22043,29,29,15,00,1,B,5.0,AM,posicion_rack,3.0,match_articulo; owner=prefijo_RESERVA
+143049,61,61,3,AJ02201,3,B,47.0,EU,posicion_rack,0.06382978723404255,match_articulo; owner=prefijo_RESERVA
+166044,71,71,5,AQ15003,1,C,2.0,suelo_126,posicion_suelo,2.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+31105,24,24,14,BD14302,1,A,26.0,AM,posicion_rack,0.5384615384615384,match_articulo_propietario; owner=prefijo_RESERVA
+11004,61,61,600,AZ08405,1,B,96.0,EU,posicion_rack,6.25,match_articulo; owner=prefijo_RESERVA
+86146,33,33,22,BB13701,22,B,3.0,EU,posicion_rack,7.333333333333333,match_articulo; owner=prefijo_RESERVA
+148038,37 19BULTOS,37,19,AL102,1,C,16.0,AM,posicion_rack,1.1875,dimensión compatible con AM; owner=prefijo_RESERVA
+84098,77 CAMION121,77,96,AL10701,1,A,4.0,EU,posicion_rack,24.0,match_articulo_propietario; owner=prefijo_RESERVA
+154083,64,64,4,TJ07701,4,C,12.0,balda_9h,subhueco_balda,0.3333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+143084,71,71,17,BB09205,17,C,2.0,suelo_126,posicion_suelo,8.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+124249,33,33,252,BC02003,1,C,2.0,suelo_126,posicion_suelo,126.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+107076,33,33,3,BB07302,3,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,TJ10502,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+61009,61,61,18,AK01105,18,B,50.0,EU,posicion_rack,0.36,match_articulo; owner=prefijo_RESERVA
+161035,61,61,1,AV03504,1,B,1.0,EU,posicion_rack,1.0,match_articulo; owner=prefijo_RESERVA
+184224,71,71,1,BB09205,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+145064,64,64,2,BA11402,2,C,12.0,balda_9h,subhueco_balda,0.16666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+126061,61,61,75,AJ02201,75,B,1.0,balda_9h,subhueco_balda,75.0,match_articulo; owner=prefijo_RESERVA
+74019,34,34,366,BB07704,1,A,270.0,EU,posicion_rack,1.3555555555555556,match_articulo_propietario; owner=prefijo_RESERVA
+74036,60,60,192,BF14202,1,C,12.0,balda_9h,subhueco_balda,16.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+51094,32,32,1,BB06005,1,A,1.0,suelo_126,posicion_suelo,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+204000,32,32,14,BD09501,1,B,16.0,suelo_126,posicion_suelo,0.875,match_articulo; owner=prefijo_RESERVA
+14014,29,29,240,AZ10905,1,A,276.0,EU,posicion_rack,0.8695652173913043,match_articulo_propietario; owner=prefijo_RESERVA
+98013,14 VOLUNTARIA,14,1,BA02801,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BA02801,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+14012,61,61,96,TJ02903,1,B,144.0,EU,posicion_rack,0.6666666666666666,match_articulo; owner=prefijo_RESERVA
+42051,64,64,10,BA08705,10,A,11.0,EU,posicion_rack,0.9090909090909091,match_articulo_propietario; owner=prefijo_RESERVA
+16024,61,61,13,AJ06501,1,B,8.0,EU,posicion_rack,1.625,match_articulo; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AW11702,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98369,33,33,100,AV06607,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98602,61,61,5,AO13604,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+105103,29,29,17,AV13702,17,C,12.0,balda_9h,subhueco_balda,1.4166666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+148081,4,4,2,AL105,1,C,1.0,suelo_250,posicion_suelo,2.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+148026,37,37,1,AL105,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AV13006,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+32041,32,32,20,BB12903,1,C,2.0,suelo_126,posicion_suelo,10.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+102604,33,33,163,AV12902,1,C,12.0,balda_9h,subhueco_balda,13.583333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+121027,33,33,4,BA04603,4,C,12.0,balda_9h,subhueco_balda,0.3333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+22101,64,64,2,AZ04503,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+61012,77,77,510,AK11404,1,B,78.0,EU,posicion_rack,6.538461538461538,match_articulo; owner=prefijo_RESERVA
+192053,32,32,1,AK01803,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+11115,77,77,312,AV04109,1,B,48.0,EU,posicion_rack,6.5,match_articulo; owner=prefijo_RESERVA
+102621,33,33,45,BB09403,45,C,12.0,balda_9h,subhueco_balda,3.75,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+103189,29,29,30,AV13002,30,C,12.0,balda_9h,subhueco_balda,2.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+74036,60,60,378,BB05202,1,C,12.0,balda_9h,subhueco_balda,31.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+54060,64,64,3,AT10303,3,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+149047,64,64,16,AZ14902,1,C,2.0,suelo_126,posicion_suelo,8.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+11115,77,77,24,AK03806,1,B,48.0,EU,posicion_rack,0.5,match_articulo; owner=prefijo_RESERVA
+35010,64,64,1,BC08302,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+98542,61,61,7,AZ02300,7,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+174084,33,33,1,AX00202,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+181158,32,32,1,AV10906,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+143035,37,37,1,AL105,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+115108,33,33,1,BA04603,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+23102,64,64,1,TJ12003,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+98275,4   JUNTO98257,4,1,90,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BD04601,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98013,14 VOLUNTARIA,14,16,BA02801,16,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+54025,7,7,14,BF10603,1,C,2.0,suelo_126,posicion_suelo,7.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+148087,4,4,1,AL104,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+154021,64,64,1,TJ07701,1,C,1.0,suelo_250,posicion_suelo,1.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+107008,33,33,2,BB13701,2,C,16.0,AM,posicion_rack,0.125,dimensión compatible con AM; owner=prefijo_RESERVA
+51047,29,29,2,AI09902,2,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+172185,64,64,1,AV03804,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+83154,33,33,2,BB07302,2,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+91162,7,7,2,AZ00103,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+44023,32,32,6,BC13700,1,C,2.0,suelo_126,posicion_suelo,3.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+51146,29,29,1,AK14206,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+98068,77,77,3,AJ10203,3,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+154013,64,64,1,AJ09507,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+12072,77,77,17,AV07110,17,A,475.0,EU,posicion_rack,0.035789473684210524,match_articulo_propietario; owner=prefijo_RESERVA
+51326,7,7,1,AR07204,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+51166,7,7,1,AR07204,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+98616,61,61,5,AZ02300,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,TJ06102,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+148083,4,4,4,AL104,1,C,12.0,balda_9h,subhueco_balda,0.3333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+11017,77,77,35,AV07110,35,C,12.0,balda_9h,subhueco_balda,2.9166666666666665,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+103038,7,7,2,BB14402,2,B,173.0,EU,posicion_rack,0.011560693641618497,match_articulo; owner=prefijo_RESERVA
+148061,37,37,5,AL104,1,C,12.0,balda_9h,subhueco_balda,0.4166666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BB00804,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+91164,33,33,1,BA11004,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+14014,29,29,192,AZ13705,1,A,276.0,EU,posicion_rack,0.6956521739130435,match_articulo_propietario; owner=prefijo_RESERVA
+121027,33,33,10,BA04603,10,C,12.0,balda_9h,subhueco_balda,0.8333333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+121031,33,33,8,BA04603,8,C,12.0,balda_9h,subhueco_balda,0.6666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98264,61,61,168,TJ02201,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+61007,77,77,24,AV13508,2,B,782.0,EU,posicion_rack,0.030690537084398978,match_articulo; owner=prefijo_RESERVA
+98195,61,61,120,AZ06805,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+123037,32,32,121,AK01803,121,C,12.0,balda_9h,subhueco_balda,10.083333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+103228,33,33,75,AV02102,1,C,12.0,balda_9h,subhueco_balda,6.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+122066,32,32,61,AV08302,1,C,2.0,suelo_126,posicion_suelo,30.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+92051,71,71,1,AT14502,1,C,1.0,suelo_250,posicion_suelo,1.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+86053,33,33,232,BA04603,232,C,12.0,balda_9h,subhueco_balda,19.333333333333332,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+86006,7,7,244,AZ13003,1,C,12.0,balda_9h,subhueco_balda,20.333333333333332,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+36040,29,29,1,AV00808,1,B,1.0,EU,posicion_rack,1.0,match_articulo; owner=prefijo_RESERVA
+124116,33,33,29,BB01401,1,C,12.0,balda_9h,subhueco_balda,2.4166666666666665,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+71059,32,32,39,AV10906,39,C,12.0,balda_9h,subhueco_balda,3.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98757,64,64,1,BA07500,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+145109,33,33,140,AZ12802,1,C,12.0,balda_9h,subhueco_balda,11.666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+105104,29,29,12,AV13702,12,C,12.0,balda_9h,subhueco_balda,1.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+148027,37,37,2,AL106,1,A,1.0,suelo_250,posicion_suelo,2.0,match_articulo_propietario; owner=prefijo_RESERVA
+91031,33,33,1,AL04702,1,C,6.0,EU,posicion_rack,0.16666666666666666,dimensión compatible con EU; owner=prefijo_RESERVA
+31141,7,7,12,AZ06804,1,C,2.0,suelo_126,posicion_suelo,6.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+121032,33,33,13,BA04603,13,C,12.0,balda_9h,subhueco_balda,1.0833333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98893,64,64,12,AZ01902,12,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+1593V,61,61,3,AZ09605,3,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+42115,29,29,10,BC09603,1,C,2.0,suelo_126,posicion_suelo,5.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+71090,61,61,6,TJ13000,6,B,228.0,EU,posicion_rack,0.02631578947368421,match_articulo; owner=prefijo_RESERVA
+14012,29,29,1056,AZ10104,1,A,120.0,EU,posicion_rack,8.8,match_articulo_propietario; owner=prefijo_RESERVA
+192046,33,33,4000,AQ08102,1,C,12.0,balda_9h,subhueco_balda,333.3333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AU14604,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+202011,61,61,1,TJ02700,1,B,6.0,AM,posicion_rack,0.16666666666666666,match_articulo; owner=prefijo_RESERVA
+133094,32,32,252,AK01803,252,C,12.0,balda_9h,subhueco_balda,21.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+121059,4,4,99,AL102,99,C,12.0,balda_9h,subhueco_balda,8.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+11024,77 CANADAS,77,87,AO03604,87,A,72.0,EU,posicion_rack,1.2083333333333333,match_articulo_propietario; owner=prefijo_RESERVA
+152169,64,64,3,AV08309,3,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+71124,7,7,216,AV01204,1,C,12.0,balda_9h,subhueco_balda,18.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AK14206,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+11013,61 CAMION123,61,132,AH15003,1,A,48.0,balda_9h,subhueco_balda,2.75,match_articulo_propietario; owner=prefijo_RESERVA
+51216,29,29,3,AQ03504,1,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+102597,32,32,2,AV10906,2,C,12.0,balda_9h,subhueco_balda,0.16666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98273,4   JUNTO98257,4,1,90,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+109200,29,29,2,B03,2,C,16.0,AM,posicion_rack,0.125,dimensión compatible con AM; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AW10703,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+11014,61,61,144,AV10304,1,B,48.0,EU,posicion_rack,3.0,match_articulo; owner=prefijo_RESERVA
+142014,32,32,3,AQ14404,1,C,16.0,AM,posicion_rack,0.1875,dimensión compatible con AM; owner=prefijo_RESERVA
+43065,33,33,6,AQ04101,1,C,2.0,suelo_126,posicion_suelo,3.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BB14402,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+*MULTI*,,sin_asignacion_segura,1,AJ07506,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98641,61,61,3,AZ02300,3,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+152040,33,33,35,BA04603,35,C,12.0,balda_9h,subhueco_balda,2.9166666666666665,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+122013,32,32,17,AK01803,17,B,360.0,EU,posicion_rack,0.04722222222222222,match_articulo; owner=prefijo_RESERVA
+14000,32,32,816,AP07204,1,B,120.0,EU,posicion_rack,6.8,match_articulo; owner=prefijo_RESERVA
+102235,29,29,80,AJ09706,80,C,12.0,balda_9h,subhueco_balda,6.666666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+44023,32,32,2,AT15003,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+142015,32,32,2,AV10906,2,C,12.0,balda_9h,subhueco_balda,0.16666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+11124,29,29,26,TJ09101,1,C,2.0,suelo_126,posicion_suelo,13.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+133021,32,32,100,AZ08905,100,C,12.0,balda_9h,subhueco_balda,8.333333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+186055,61,61,167,AJ02201,167,C,12.0,balda_9h,subhueco_balda,13.916666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+12068,77,77,48,AV12006,1,B,192.0,EU,posicion_rack,0.25,match_articulo; owner=prefijo_RESERVA
+42067,64,64,1,BA08705,1,A,6.0,EU,posicion_rack,0.16666666666666666,match_articulo_propietario; owner=prefijo_RESERVA
+103988,33,33,1,BB07302,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+991133,29,29,39,TJ01403,1,C,2.0,suelo_126,posicion_suelo,19.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+121026,32,32,36,AZ08905,36,C,12.0,balda_9h,subhueco_balda,3.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+71009,77,77,1284,AM03803,1,B,328.0,EU,posicion_rack,3.9146341463414633,match_articulo; owner=prefijo_RESERVA
+12012,77,77,144,AV06806,1,B,72.0,EU,posicion_rack,2.0,match_articulo; owner=prefijo_RESERVA
+123069,29,29,1200,AW12301,1,A,254.0,EU,posicion_rack,4.724409448818897,match_articulo_propietario; owner=prefijo_RESERVA
+98623,61,61,5,AO14003,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98279,23,23,1,90,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+11115,33,33,24,AV04107,1,B,48.0,EU,posicion_rack,0.5,match_articulo; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AJ08001,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98767,64,64,1,BB06705,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+32091,7,7,2,AV10908,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AO14003,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98753,64,64,2,BB01505,2,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98012,14 VOLUNTARIA,14,16,BA02801,16,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+14012,77,77,24,AV13508,1,A,96.0,balda_9h,subhueco_balda,0.25,match_articulo_propietario; owner=prefijo_RESERVA
+132002,29,29,8,AJ09706,8,C,12.0,balda_9h,subhueco_balda,0.6666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+126120,61,61,1000,AK01105,1000,C,12.0,balda_9h,subhueco_balda,83.33333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+146018,33,33,18,AM09302,1,C,2.0,suelo_126,posicion_suelo,9.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+12016,77,77,144,TJ08802,1,B,60.0,EU,posicion_rack,2.4,match_articulo; owner=prefijo_RESERVA
+145105,64,64,1,BA11402,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AN13903,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+*MULTI*,,sin_asignacion_segura,1,AV09903,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98639,61,61,3,AZ02300,3,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+142051,60,60,2,BB12800,1,C,16.0,AM,posicion_rack,0.125,dimensión compatible con AM; owner=prefijo_RESERVA
+98509,61,61,168,TJ04202,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+192046,33,33,5713,BC13702,1,C,12.0,balda_9h,subhueco_balda,476.0833333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98734,61,61,10,AZ02300,10,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+65059,71,71,168,AZ01205,1,C,12.0,balda_9h,subhueco_balda,14.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+11030,77,77,168,TJ00203,1,B,48.0,balda_9h,subhueco_balda,3.5,match_articulo; owner=prefijo_RESERVA
+14014,29,29,72,AT07504,72,A,276.0,EU,posicion_rack,0.2608695652173913,match_articulo_propietario; owner=prefijo_RESERVA
+74036,60,60,378,BB01702,1,C,12.0,balda_9h,subhueco_balda,31.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+167016,71,71,3,BB04903,1,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+125001,33,33,463,BB13701,463,C,12.0,balda_9h,subhueco_balda,38.583333333333336,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+186078,61,61,210,AJ02201,210,C,12.0,balda_9h,subhueco_balda,17.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+148065,37,37,1,AL107,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+51077,71,71,1,BA11900,1,C,1.0,suelo_250,posicion_suelo,1.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+98752,64,64,2,BA03104,2,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+146098,71,71,3,BC13303,1,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+13088,29,29,24,TJ10702,1,B,864.0,EU,posicion_rack,0.027777777777777776,match_articulo; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AO12803,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98507,77,77,120,AO14704,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+161161,71,71,1,AN07001,1,C,1.0,suelo_250,posicion_suelo,1.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+123087,64,64,2122,BC08302,2122,C,2.0,suelo_126,posicion_suelo,1061.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+124001,29 BLOQUEADO SM,29,139,AM01003,1,C,12.0,balda_9h,subhueco_balda,11.583333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+14014,29,29,72,AZ01003,1,A,276.0,EU,posicion_rack,0.2608695652173913,match_articulo_propietario; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AO13604,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+123086,32,32,1300,AK01803,1300,B,892.0,EU,posicion_rack,1.4573991031390134,match_articulo; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AI10804,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+132076,33,33,8,BA04603,8,C,2.0,suelo_126,posicion_suelo,4.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+84445,64,64,1,AV03804,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98011,14 VOLUNTARIA,14,21,BA02801,21,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+83127,64,64,42,BA11402,42,C,12.0,balda_9h,subhueco_balda,3.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AO14002,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+43008,23,23,2,B03,1,A,2.0,AM,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+98590,61,61,8,AO12404,8,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98747,64,64,1,AZ01902,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+132021,64,64,2,BA11402,2,C,1.0,suelo_250,posicion_suelo,2.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BB09403,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+111012,33,33,32,BA04603,32,C,12.0,balda_9h,subhueco_balda,2.6666666666666665,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+102581,33,33,2,BA04603,2,C,12.0,balda_9h,subhueco_balda,0.16666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+121060,4,4,45,AL102,45,C,12.0,balda_9h,subhueco_balda,3.75,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BA11402,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+172057,7,7,73,BC11305,1,B,43.0,EU,posicion_rack,1.697674418604651,match_articulo; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AK04006,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+181060,32,32,1,AI10804,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+94020,4,4,1,99,1,C,2.0,suelo_300,posicion_suelo,0.5,dimensión >= 250 cm; owner=prefijo_RESERVA
+98748,64,64,6,AL03505,6,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98580,61,61,4,AZ02300,4,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+161000,32,32,2,AK01803,2,A,2.0,EU,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+111010,32,32,298,AI10804,298,C,12.0,balda_9h,subhueco_balda,24.833333333333332,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+91162,7,7,2,AZ00402,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AV07110,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+107159,29,29,1,AV13702,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+49013,64,64,1,AW03701,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AI09902,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+121027,32,32,32,AZ08905,32,C,12.0,balda_9h,subhueco_balda,2.6666666666666665,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+11114,29,29,72,TJ07601,1,B,768.0,EU,posicion_rack,0.09375,match_articulo; owner=prefijo_RESERVA
+148075,37,37,5,AL103,1,C,12.0,balda_9h,subhueco_balda,0.4166666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+122043,32,32,3,AK01803,3,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+12019,77,77,360,AV06508,1,B,228.0,EU,posicion_rack,1.5789473684210527,match_articulo; owner=prefijo_RESERVA
+124260,33,33,72,BC09805,1,C,12.0,balda_9h,subhueco_balda,6.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+21043,29,29,2,AK10105,1,A,5.0,EU,posicion_rack,0.4,match_articulo_propietario; owner=prefijo_RESERVA
+51248,7,7,1,AR07204,1,C,6.0,EU,posicion_rack,0.16666666666666666,dimensión compatible con EU; owner=prefijo_RESERVA
+102653,29,29,1,BF07103,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+106339,29,29,52,BF07103,52,C,12.0,balda_9h,subhueco_balda,4.333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+33000,32,32,10,BB03704,1,C,2.0,suelo_126,posicion_suelo,5.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+74036,60,60,378,BB05703,1,C,12.0,balda_9h,subhueco_balda,31.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98559,61,61,7,AP09401,7,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+121032,32,32,7,AZ08905,7,C,12.0,balda_9h,subhueco_balda,0.5833333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+65059,71,71,120,AQ15004,1,C,12.0,balda_9h,subhueco_balda,10.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98717,61,61,116,BD09602,116,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+84098,77,77,180,BC12701,1,A,4.0,EU,posicion_rack,45.0,match_articulo_propietario; owner=prefijo_RESERVA
+22105,64,64,1,AV03306,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+105093,29,29,9,BF07103,9,C,12.0,balda_9h,subhueco_balda,0.75,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AJ02201,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+144024,7,7,7,BB07901,1,B,5.0,EU,posicion_rack,1.4,match_articulo; owner=prefijo_RESERVA
+98719,61,61,104,BD09602,104,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98006,14 VOLUNTARIA,14,13,BA02801,13,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+16017,29,29,4,AU04604,1,C,2.0,suelo_126,posicion_suelo,2.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+148066,37,37,1,AL107,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+154022,64,64,2,AI05701,2,C,1.0,suelo_250,posicion_suelo,2.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+121034,32,32,28,AZ08905,28,C,12.0,balda_9h,subhueco_balda,2.3333333333333335,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+186079,61,61,48,AJ02201,48,C,12.0,balda_9h,subhueco_balda,4.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+133108,33,33,16791,AU09403,1,C,12.0,balda_9h,subhueco_balda,1399.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BA14303,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+128072,80,80,2,AI13003,1,A,3.0,AM,posicion_rack,0.6666666666666666,match_articulo_propietario; owner=prefijo_RESERVA
+86037,32,32,160,AK01803,160,C,12.0,balda_9h,subhueco_balda,13.333333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+105582,33,33,3,BA04603,3,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98897,64,64,51,AZ01902,51,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+64002,61,61,4,AK01105,4,C,12.0,balda_9h,subhueco_balda,0.3333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+61027,61,61,18,AK01105,18,A,24.0,balda_9h,subhueco_balda,0.75,match_articulo_propietario; owner=prefijo_RESERVA
+121035,33,33,59,BA04603,59,C,12.0,balda_9h,subhueco_balda,4.916666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+102568,29,29,3,AV13002,3,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+121030,32,32,29,AZ08905,29,C,12.0,balda_9h,subhueco_balda,2.4166666666666665,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+14026,64,64,288,AJ08805,1,B,24.0,balda_9h,subhueco_balda,12.0,match_articulo; owner=prefijo_RESERVA
+152178,64,64,2,AQ02003,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+991017,32,32,2,AK01803,2,C,12.0,balda_9h,subhueco_balda,0.16666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+74006,32,32,6,AK01803,6,C,12.0,balda_9h,subhueco_balda,0.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+53015,32,32,3,AV11503,1,B,1.5,EU,posicion_rack,2.0,match_articulo; owner=prefijo_RESERVA
+69004,33,33,5,BB07302,5,C,12.0,balda_9h,subhueco_balda,0.4166666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+174030,4,4,1,AL105,1,C,2.0,TR,posicion_rack,0.5,dimensión larga compatible con TR; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BC08302,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+18076,29,29,20,AK06906,1,C,12.0,balda_9h,subhueco_balda,1.6666666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98613,61,61,10,AO13903,10,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AZ11801,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+15178,61,61,112,AH01003,1,C,2.0,suelo_126,posicion_suelo,56.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+23008,32,32,3,AK09601,1,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+186020,33,33,102,BA04603,102,C,12.0,balda_9h,subhueco_balda,8.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98545,77,77,210,AZ02903,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+991061,33,33,976,AZ11005,1,C,12.0,balda_9h,subhueco_balda,81.33333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+154034,64,64,1,BA08705,1,A,1.0,EU,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+98611,61,61,10,AO13903,10,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+109093,32,32,500,AZ08905,500,C,2.0,suelo_126,posicion_suelo,250.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+98007,14 VOLUNTARIA,14,18,BA02801,18,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+167009,64,64,1,BF10303,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+23075,61,61,1,AZ12902,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+98377,33,33,1,AV08607,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98569,61,61,5,AZ02300,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+165013,3,3,4,AL102,4,C,12.0,balda_9h,subhueco_balda,0.3333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98015,14 VOLUNTARIA,14,20,BA02801,20,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+121033,33,33,9,BA04603,9,C,12.0,balda_9h,subhueco_balda,0.75,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+74019,34,34,306,AZ05403,1,A,270.0,EU,posicion_rack,1.1333333333333333,match_articulo_propietario; owner=prefijo_RESERVA
+206050,29,29,19,AR14801,1,A,19.5,AM,posicion_rack,0.9743589743589743,match_articulo_propietario; owner=prefijo_RESERVA
+152153,71,71,1,TJ03300,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+63015,77,77,384,AW06703,1,B,96.0,balda_9h,subhueco_balda,4.0,match_articulo; owner=prefijo_RESERVA
+154090,29,29,6,TJ11600,1,C,2.0,suelo_300,posicion_suelo,3.0,dimensión >= 250 cm; owner=prefijo_RESERVA
+145078,64,64,1,AT10303,1,B,10.5,EU,posicion_rack,0.09523809523809523,match_articulo; owner=prefijo_RESERVA
+11028,29,29,1080,BF13103,1,C,12.0,balda_9h,subhueco_balda,90.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+102232,32,32,3,AV10906,3,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+124249,33,33,252,AL00804,1,C,2.0,suelo_126,posicion_suelo,126.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+83121,77,77,2,AQ08403,2,C,12.0,balda_9h,subhueco_balda,0.16666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+128247,32,32,1,AZ02002,1,C,2.0,TR,posicion_rack,0.5,dimensión larga compatible con TR; owner=prefijo_RESERVA
+98767,64,64,2,BB06504,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+103573,29,29,3,AV13702,3,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+102582,33,33,1,BB13701,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,TJ13000,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+103591,29,29,1,AV13702,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+61002,61,61,12,AK01105,12,B,690.0,EU,posicion_rack,0.017391304347826087,match_articulo; owner=prefijo_RESERVA
+74036,60,60,480,BB00103,1,C,12.0,balda_9h,subhueco_balda,40.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+105091,29,29,17,BF07103,17,C,12.0,balda_9h,subhueco_balda,1.4166666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+103178,29,29,1,AV13002,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+36028,64,64,4,AV03306,4,B,40.0,EU,posicion_rack,0.1,match_articulo; owner=prefijo_RESERVA
+98599,61,61,5,AZ02300,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+22043,29,29,2,AJ08904,1,B,5.0,AM,posicion_rack,0.4,match_articulo; owner=prefijo_RESERVA
+179023,33,33,1,AU04301,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+105103,29,29,1,AV13702,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98692,61,61,156,BD09602,156,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+126061,61,61,14,AJ02201,14,B,1.0,balda_9h,subhueco_balda,14.0,match_articulo; owner=prefijo_RESERVA
+121029,33,33,10,BA04603,10,C,12.0,balda_9h,subhueco_balda,0.8333333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+31141,7,7,12,BA12403,1,C,2.0,suelo_126,posicion_suelo,6.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+121028,33,33,8,BA04603,8,C,12.0,balda_9h,subhueco_balda,0.6666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AJ07006,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+35015,64,64,3,AV02908,1,C,6.0,EU,posicion_rack,0.5,dimensión compatible con EU; owner=prefijo_RESERVA
+102561,29,29,3,AV13002,3,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98376,33,33,1,AW04904,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+61018,61,61,12,AK01105,12,C,12.0,balda_9h,subhueco_balda,1.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+154026,64,64,1,AJ09507,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,TJ10702,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98888,64,64,20,AZ01902,20,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+103034,14 VOLUNTARIA,14,25,BA02801,25,A,26.0,balda_9h,subhueco_balda,0.9615384615384616,match_articulo_propietario; owner=prefijo_RESERVA
+51061,71,71,1,BA11900,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+16024,29,29,3,AV08503,3,A,8.5,suelo_126,posicion_suelo,0.35294117647058826,match_articulo_propietario; owner=prefijo_RESERVA
+148076,37,37,3,AL107,1,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+207021,29,29,2,AJ09706,2,C,2.0,suelo_300,posicion_suelo,1.0,dimensión >= 250 cm; owner=prefijo_RESERVA
+98643,61,61,3,AZ02300,3,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98561,61,61,5,AP09401,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+205212,23,23,1,99,1,C,1.0,suelo_250,posicion_suelo,1.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+205024,37,37,2,AL104,1,C,1.0,suelo_250,posicion_suelo,2.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+18089,77,77,6,AV07110,6,B,648.0,EU,posicion_rack,0.009259259259259259,match_articulo; owner=prefijo_RESERVA
+16010,77,77,2,AV13902,1,B,12.0,EU,posicion_rack,0.16666666666666666,match_articulo; owner=prefijo_RESERVA
+43037,64,64,1,AN09406,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+98012,14 VOLUNTARIA,14,17,BA02801,17,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98612,61,61,9,AO13903,9,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+51213,29,29,3,AJ09603,1,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+147025,64,64,2,AL03505,2,C,12.0,balda_9h,subhueco_balda,0.16666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+31141,7,7,11,BA11805,1,C,2.0,suelo_126,posicion_suelo,5.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+102143,29,29,15,AW09301,15,C,12.0,balda_9h,subhueco_balda,1.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+14012,29,29,96,BB00804,96,A,120.0,EU,posicion_rack,0.8,match_articulo_propietario; owner=prefijo_RESERVA
+98552,61,61,2,AZ09501,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+172034,32,32,13,AI10804,13,C,2.0,suelo_126,posicion_suelo,6.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+44088,29,29,7,AN14604,1,A,7.0,EU,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+133033,32,32,178,AK01803,178,C,12.0,balda_9h,subhueco_balda,14.833333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+103337,29,29,7,AV13702,7,C,12.0,balda_9h,subhueco_balda,0.5833333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+91155,77,77,1,BA00603,1,C,6.0,EU,posicion_rack,0.16666666666666666,dimensión compatible con EU; owner=prefijo_RESERVA
+174112,64,64,1,BD04402,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+184143,61,61,2,AJ02201,2,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AV10906,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+*MULTI*,,sin_asignacion_segura,1,AI05701,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+18002,77,77,12,AV13708,1,B,324.0,EU,posicion_rack,0.037037037037037035,match_articulo; owner=prefijo_RESERVA
+121035,33,33,55,BA04603,55,C,12.0,balda_9h,subhueco_balda,4.583333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+172034,32,32,12,AI10804,12,C,2.0,suelo_126,posicion_suelo,6.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+132020,64,64,12,AP08402,1,C,1.0,suelo_250,posicion_suelo,12.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+14014,77,77,24,AQ08403,1,B,360.0,EU,posicion_rack,0.06666666666666667,match_articulo; owner=prefijo_RESERVA
+148017,37,37,1,C10,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+143084,71,71,5,BB09205,5,C,2.0,suelo_126,posicion_suelo,2.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+12071,77,77,10,AV07110,10,C,12.0,balda_9h,subhueco_balda,0.8333333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+121030,33,33,8,BA04603,8,C,12.0,balda_9h,subhueco_balda,0.6666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+13014,77 CANADAS,77,5,AO03604,5,C,12.0,balda_9h,subhueco_balda,0.4166666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+154089,64,64,1,AW08904,1,C,2.0,suelo_300,posicion_suelo,0.5,dimensión >= 250 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AL03505,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+74036,60,60,120,AV07808,1,C,12.0,balda_9h,subhueco_balda,10.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+32051,71,71,6,AV03110,1,C,2.0,suelo_126,posicion_suelo,3.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+14015,29,29,1392,AP06604,1,A,24.0,balda_9h,subhueco_balda,58.0,match_articulo_propietario; owner=prefijo_RESERVA
+186055,61,61,253,AJ02201,253,C,12.0,balda_9h,subhueco_balda,21.083333333333332,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+142013,64,64,1,AZ11801,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+124260,33,33,72,AZ08001,1,C,12.0,balda_9h,subhueco_balda,6.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+125135,29,29,1400,AV13702,1400,C,12.0,balda_9h,subhueco_balda,116.66666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+42056,64,64,1,BA08705,1,A,1.0,EU,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+127036,71,71,19,BB09205,19,C,2.0,suelo_126,posicion_suelo,9.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+61050,61,61,30,TJ06400,5,C,12.0,balda_9h,subhueco_balda,2.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+11127,29,29,216,AZ11204,1,A,692.0,EU,posicion_rack,0.31213872832369943,match_articulo_propietario; owner=prefijo_RESERVA
+111009,32,32,249,AI10804,249,C,12.0,balda_9h,subhueco_balda,20.75,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+11014,61,61,1080,AZ12904,1,B,48.0,EU,posicion_rack,22.5,match_articulo; owner=prefijo_RESERVA
+888888,29,29,1,AZ07603,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+991061,33,33,4170,AI13201,1,C,12.0,balda_9h,subhueco_balda,347.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+11105,61,61,48,AJ08001,2,B,72.0,EU,posicion_rack,0.6666666666666666,match_articulo; owner=prefijo_RESERVA
+86006,7,7,300,BA13202,1,C,12.0,balda_9h,subhueco_balda,25.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+148008,3,3,1,AL103,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+11112,61,61,192,TJ02503,1,C,12.0,balda_9h,subhueco_balda,16.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98558,61,61,2,AZ02300,2,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+91055,32,32,1,BB13202,1,C,6.0,EU,posicion_rack,0.16666666666666666,dimensión compatible con EU; owner=prefijo_RESERVA
+98603,61,61,5,AZ02300,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+53015,32,32,4,AV10906,4,B,1.5,EU,posicion_rack,2.6666666666666665,match_articulo; owner=prefijo_RESERVA
+83043,7,7,2147,BD09304,1,C,12.0,balda_9h,subhueco_balda,178.91666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98587,61,61,10,AO07002,10,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+161035,61,61,1,BD09402,1,B,1.0,EU,posicion_rack,1.0,match_articulo; owner=prefijo_RESERVA
+109321,29,29,5,AV13702,5,C,12.0,balda_9h,subhueco_balda,0.4166666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98500,61,61,1,AV12505,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+1593V,29,29,6,AV09202,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+192045,33,33,2517,AI14301,1,C,12.0,balda_9h,subhueco_balda,209.75,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+123097,33,33,16,BA04603,16,C,2.0,suelo_126,posicion_suelo,8.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+98895,64,64,42,AZ01902,42,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+61050,61,61,24,AV13205,1,C,12.0,balda_9h,subhueco_balda,2.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+167010,71,71,2,BC03001,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+98883,64,64,5,AZ01902,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+14014,29,29,96,AV11602,1,A,276.0,EU,posicion_rack,0.34782608695652173,match_articulo_propietario; owner=prefijo_RESERVA
+43025,7,7,1,AZ03102,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+102580,33,33,1,BA04603,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98757,64,64,1,AN02402,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+62001,77,77,1068,BB02204,1,B,30.0,balda_9h,subhueco_balda,35.6,match_articulo; owner=prefijo_RESERVA
+44023,32,32,8,AW04702,1,C,2.0,suelo_126,posicion_suelo,4.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+14012,61,61,1032,AM03304,1,B,144.0,EU,posicion_rack,7.166666666666667,match_articulo; owner=prefijo_RESERVA
+22157,64,64,2,AW10703,2,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+11121,29 ATLETICO,29,22,AH10403,1,C,2.0,suelo_126,posicion_suelo,11.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AV08607,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+*MULTI*,,sin_asignacion_segura,1,AV13702,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98755,64,64,3,AN02002,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+74019,34,34,720,AQ06602,1,A,270.0,EU,posicion_rack,2.6666666666666665,match_articulo_propietario; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AW04904,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98507,61,61,72,AZ00604,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+74036,60,60,450,BB09903,1,C,12.0,balda_9h,subhueco_balda,37.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98574,61,61,5,AR04504,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+71118,71,71,198,AV10902,1,B,194.0,EU,posicion_rack,1.0206185567010309,match_articulo; owner=prefijo_RESERVA
+172078,64,64,25,AH00804,1,C,12.0,balda_9h,subhueco_balda,2.0833333333333335,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+888888,29,29,1,BA08105,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+152182,61,61,3,AJ07006,3,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+181201,32,32,1,AV01108,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+98729,61,61,2,AZ02300,2,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+13046,77,77,192,TJ07801,1,C,12.0,balda_9h,subhueco_balda,16.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98620,61,61,2,AO14003,2,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+91197,23,23,1,B03,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+102252,29,29,3,AV13702,3,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+84103,33,33,1,AH10006,1,B,1.0,EU,posicion_rack,1.0,match_articulo; owner=prefijo_RESERVA
+51218,61,61,1,AJ02201,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+65072,82,82,90,B03,1,C,12.0,balda_9h,subhueco_balda,7.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+74019,34,34,270,AJ09003,1,A,270.0,EU,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AR07204,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+15010,29,29,480,TJ01002,1,C,12.0,balda_9h,subhueco_balda,40.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+54096,64,64,1,BA11402,1,C,2.0,suelo_300,posicion_suelo,0.5,dimensión >= 250 cm; owner=prefijo_RESERVA
+22206,29,29,2,AU01504,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+98887,64,64,53,AZ01902,53,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+139004,64,64,30,AZ02402,1,A,28.0,EU,posicion_rack,1.0714285714285714,match_articulo_propietario; owner=prefijo_RESERVA
+103338,29,29,3,AV13702,3,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+106308,33,33,186,AV07306,1,C,12.0,balda_9h,subhueco_balda,15.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+186078,61,61,33,AJ02201,33,C,12.0,balda_9h,subhueco_balda,2.75,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+102137,32,32,2,AV10906,2,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+21017,71,71,5,BA14004,1,C,2.0,suelo_126,posicion_suelo,2.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+148022,37 7BULTOS,37,7,AL105,1,C,12.0,balda_9h,subhueco_balda,0.5833333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+204091,33,33,3,BB13701,3,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+16005,77,77,4,AJ13006,4,B,10.5,EU,posicion_rack,0.38095238095238093,match_articulo; owner=prefijo_RESERVA
+108040,71,71,1,BB09205,1,C,1.0,suelo_250,posicion_suelo,1.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+54063,32,32,1,AK01803,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AO13004,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98501,61,61,1,AV12403,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98614,61,61,10,AO13903,10,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+74036,60,60,330,BA05001,1,C,12.0,balda_9h,subhueco_balda,27.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+151030,29,29,2,AJ09706,2,C,12.0,balda_9h,subhueco_balda,0.16666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+33049,64,64,2,BE09401,1,A,3.0,EU,posicion_rack,0.6666666666666666,match_articulo_propietario; owner=prefijo_RESERVA
+204025,64,64,21,AK08806,1,B,17.5,suelo_126,posicion_suelo,1.2,match_articulo; owner=prefijo_RESERVA
+16022,77,77,6,AQ07604,1,B,6.0,EU,posicion_rack,1.0,match_articulo; owner=prefijo_RESERVA
+109314,29,29,6,BF07103,6,C,16.0,AM,posicion_rack,0.375,dimensión compatible con AM; owner=prefijo_RESERVA
+991006,32,32,1,AV10906,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+105098,33,33,18,BB13701,18,C,12.0,balda_9h,subhueco_balda,1.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+43046,7,7,1,AZ00903,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+98563,61,61,8,AR09401,8,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AV13002,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+147040,64,64,4,AV08309,4,C,2.0,suelo_126,posicion_suelo,2.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+23001,23,23,4,97,1,C,1.0,suelo_250,posicion_suelo,4.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+109044,32,32,7,AV10906,7,C,12.0,balda_9h,subhueco_balda,0.5833333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98016,14 VOLUNTARIA,14,18,BA02801,18,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+22054,32,32,2,AU05001,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+98615,61,61,5,AO14002,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98641,61,61,8,AV10306,8,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+61016,61,61,77,BD04601,77,B,252.0,EU,posicion_rack,0.3055555555555556,match_articulo; owner=prefijo_RESERVA
+98507,61,61,240,AV10203,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+12070,77,77,163,AV07110,163,B,209.0,EU,posicion_rack,0.7799043062200957,match_articulo; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AV10306,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98581,61,61,4,AZ02300,4,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+83022,7,7,2680,AV08807,1,C,12.0,balda_9h,subhueco_balda,223.33333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+91152,71,71,1,AZ01304,1,B,1.0,EU,posicion_rack,1.0,match_articulo; owner=prefijo_RESERVA
+98069,77,77,3,AJ10203,3,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+86013,7,7,360,BC11902,1,B,284.0,EU,posicion_rack,1.267605633802817,match_articulo; owner=prefijo_RESERVA
+186018,33,33,192,BB13701,192,C,12.0,balda_9h,subhueco_balda,16.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+124264,29,29,30,AJ08801,1,C,12.0,balda_9h,subhueco_balda,2.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+14026,64,64,24,AV007A0,1,B,24.0,balda_9h,subhueco_balda,1.0,match_articulo; owner=prefijo_RESERVA
+98014,14 VOLUNTARIA,14,18,BA02801,18,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+51087,23 KIT,23,1,B03,1,A,1.0,suelo_estandar,posicion_suelo,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+132059,29,29,4,AK14206,4,C,12.0,balda_9h,subhueco_balda,0.3333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+91100,71,71,1,AZ07601,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+114021,32,32,747,BF09405,1,C,12.0,balda_9h,subhueco_balda,62.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+103034,14 VOLUNTARIA,14,17,BA02801,17,A,26.0,balda_9h,subhueco_balda,0.6538461538461539,match_articulo_propietario; owner=prefijo_RESERVA
+98213,64,64,420,AZ08105,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+991073,23,23,1194,98,1,C,12.0,balda_9h,subhueco_balda,99.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+161101,29,29,2,AJ13602,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+42069,64,64,1,AJ09507,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+11024,61,61,72,AJ07506,3,B,599.0,EU,posicion_rack,0.12020033388981637,match_articulo; owner=prefijo_RESERVA
+91138,64,64,1,BA12203,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+42065,64,64,9,AZ11801,9,B,1.0,EU,posicion_rack,9.0,match_articulo; owner=prefijo_RESERVA
+22150,7  CAMION119,7,1,AV11801,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+126004,33,33,354,BB13701,354,C,12.0,balda_9h,subhueco_balda,29.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+32099,7,7,16,BB00801,1,B,2.0,EU,posicion_rack,8.0,match_articulo; owner=prefijo_RESERVA
+991124,33,33,102,TJ07501,1,C,12.0,balda_9h,subhueco_balda,8.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+18059,77,77,264,AJ10004,1,B,12.0,EU,posicion_rack,22.0,match_articulo; owner=prefijo_RESERVA
+98758,64,64,6,BA02103,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+63001,77,77,36,AV10303,1,B,744.0,EU,posicion_rack,0.04838709677419355,match_articulo; owner=prefijo_RESERVA
+23030,32,32,4,BB03702,1,C,2.0,suelo_126,posicion_suelo,2.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+34050,64,64,1,BC08302,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+31003,29,29,24,BB00902,1,B,24.0,AM,posicion_rack,1.0,match_articulo; owner=prefijo_RESERVA
+98349,29,29,20,TJ07503,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+121033,32,32,27,AZ08905,27,C,12.0,balda_9h,subhueco_balda,2.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+34066,29 BLOQUEADO SM,29,1,BB03304,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+81155,64,64,1,AZ11801,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98582,61,61,5,AT14704,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+51231,71,71,1,AQ06404,1,C,1.0,suelo_250,posicion_suelo,1.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+23030,32,32,2,AV04803,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+11127,33,33,864,AZ03504,1,B,192.0,EU,posicion_rack,4.5,match_articulo; owner=prefijo_RESERVA
+102185,14 VOLUNTARIA,14,13,BA02801,13,A,80.0,balda_9h,subhueco_balda,0.1625,match_articulo_propietario; owner=prefijo_RESERVA
+124259,33,33,16,AZ09205,1,C,12.0,balda_9h,subhueco_balda,1.3333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+172057,7,7,56,BA00204,1,B,43.0,EU,posicion_rack,1.302325581395349,match_articulo; owner=prefijo_RESERVA
+133034,32,32,638,AI10804,638,C,12.0,balda_9h,subhueco_balda,53.166666666666664,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+51187,71,71,2,AZ11603,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+161112,7,7,1,AX01601,1,C,2.0,TR,posicion_rack,0.5,dimensión larga compatible con TR; owner=prefijo_RESERVA
+11125,29,29,323,BA13602,323,A,327.0,EU,posicion_rack,0.9877675840978594,match_articulo_propietario; owner=prefijo_RESERVA
+184229,71,71,1,AZ11603,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+103589,29,29,1,AV13702,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+186026,61,61,246,AJ02201,246,C,12.0,balda_9h,subhueco_balda,20.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+202010,32,32,5,TJ01500,1,A,3.0,EU,posicion_rack,1.6666666666666667,match_articulo_propietario; owner=prefijo_RESERVA
+42054,64,64,1,BA08705,1,A,1.0,EU,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+148052,37,37,3,AL107,1,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+51230,71 CAMION120,71,1,AN13903,1,C,1.0,suelo_250,posicion_suelo,1.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+11104,61,61,48,AJ08001,2,B,48.0,balda_9h,subhueco_balda,1.0,match_articulo; owner=prefijo_RESERVA
+64002,61,61,15,AK01105,15,C,12.0,balda_9h,subhueco_balda,1.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+149040,71,71,2,AZ11603,2,C,16.0,AM,posicion_rack,0.125,dimensión compatible con AM; owner=prefijo_RESERVA
+71074,61,61,12,TJ13000,12,B,59.5,EU,posicion_rack,0.20168067226890757,match_articulo; owner=prefijo_RESERVA
+148072,3,3,1,AL107,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+18000,71,71,20,AO03802,20,C,12.0,balda_9h,subhueco_balda,1.6666666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98724,61,61,3,AZ02300,3,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98345,61,61,18,AV06307,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98589,61,61,7,AO12404,7,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+51046,29,29,3,AJ09104,1,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+98757,64,64,1,AY00300,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+149048,33,33,1,TJ00701,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+61016,33,33,144,AV09006,1,B,252.0,EU,posicion_rack,0.5714285714285714,match_articulo; owner=prefijo_RESERVA
+115107,33,33,144,BA04603,144,C,2.0,suelo_126,posicion_suelo,72.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+102573,29,29,30,B03,30,C,12.0,balda_9h,subhueco_balda,2.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98773,71,71,2,AW02004,2,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AO03802,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+33000,32,32,12,AN09904,1,C,2.0,suelo_126,posicion_suelo,6.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+145063,64,64,2,BA11402,2,C,12.0,balda_9h,subhueco_balda,0.16666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+103039,7,7,87,BB14402,87,B,141.0,EU,posicion_rack,0.6170212765957447,match_articulo; owner=prefijo_RESERVA
+124147,29,29,46,AN14601,1,C,2.0,suelo_126,posicion_suelo,23.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+161046,29,29,1,AJ09505,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BB00703,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98182,61,61,1,TJ13000,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+21032,64,64,2,AW10703,2,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+109093,32,32,3,AZ08905,3,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+51246,71,71,1,AW02004,1,B,1.0,balda_9h,subhueco_balda,1.0,match_articulo; owner=prefijo_RESERVA
+148011,3,3,4,AL103,1,C,12.0,balda_9h,subhueco_balda,0.3333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+148012,37,37,1,C09,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+149023,29,29,1,AK14206,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+42072,64,64,1,BA08705,1,A,5.0,EU,posicion_rack,0.2,match_articulo_propietario; owner=prefijo_RESERVA
+84098,77 CAMION121,77,20,AR14404,1,A,4.0,EU,posicion_rack,5.0,match_articulo_propietario; owner=prefijo_RESERVA
+133021,33,33,70,BA04603,70,C,12.0,balda_9h,subhueco_balda,5.833333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+109210,29,29,30,BF07103,30,C,12.0,balda_9h,subhueco_balda,2.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+146023,3,3,2720,99,1,B,24.0,EU,posicion_rack,113.33333333333333,match_articulo; owner=prefijo_RESERVA
+98553,61,61,20,AV11505,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98378,33,33,1,AV09402,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+148004,3,3,2,AL103,1,C,12.0,balda_9h,subhueco_balda,0.16666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+61006,77,77,12,17,1,B,78.0,EU,posicion_rack,0.15384615384615385,match_articulo; owner=prefijo_RESERVA
+186025,61,61,269,AJ02201,269,C,12.0,balda_9h,subhueco_balda,22.416666666666668,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+128015,33,33,19,BA04603,19,C,12.0,balda_9h,subhueco_balda,1.5833333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+186026,61,61,305,AJ02201,305,C,12.0,balda_9h,subhueco_balda,25.416666666666668,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+31019,24,24,20,BB05501,1,A,20.0,AM,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+71118,71 CAMION120,71,360,AL13205,1,B,194.0,EU,posicion_rack,1.8556701030927836,match_articulo; owner=prefijo_RESERVA
+121035,33,33,2,BA04603,2,C,12.0,balda_9h,subhueco_balda,0.16666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+18002,77,77,60,AR14304,1,B,324.0,EU,posicion_rack,0.18518518518518517,match_articulo; owner=prefijo_RESERVA
+98575,61,61,5,AR04804,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AV08503,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+*MULTI*,,sin_asignacion_segura,1,TJ06400,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+124139,33,33,14,AH09406,1,C,2.0,suelo_126,posicion_suelo,7.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+98728,61,61,2,AZ02300,2,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+161056,64,64,1,AM13801,1,B,1.0,EU,posicion_rack,1.0,match_articulo; owner=prefijo_RESERVA
+44085,32,32,3,AQ07004,1,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+98257,4  TEJADO,4,1,90,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+11127,61,61,1176,BI14701,1,A,168.0,EU,posicion_rack,7.0,match_articulo_propietario; owner=prefijo_RESERVA
+61011,61,61,43,AK01105,43,B,203.5,EU,posicion_rack,0.2113022113022113,match_articulo; owner=prefijo_RESERVA
+124138,29,29,29,BA13602,29,C,2.0,suelo_126,posicion_suelo,14.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+203035,71 CAMION122,71,2,AZ13102,1,C,1.0,suelo_250,posicion_suelo,2.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+143039,33,33,3,BB09403,3,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98748,64,64,3,BA03104,3,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98394,37,37,1,AL102,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+91162,7,7,2,AZ03904,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+22098,7 BLOQUEADO SM,7,2,AZ04301,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+14014,29,29,1080,BA12003,1,A,276.0,EU,posicion_rack,3.9130434782608696,match_articulo_propietario; owner=prefijo_RESERVA
+143010,32,32,4,AI10804,2,B,5.0,EU,posicion_rack,0.8,match_articulo; owner=prefijo_RESERVA
+71118,71,71,54,AH02006,1,B,194.0,EU,posicion_rack,0.27835051546391754,match_articulo; owner=prefijo_RESERVA
+1593V,29,29,1,AK07006,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+991061,33,33,5640,AZ13702,1,C,12.0,balda_9h,subhueco_balda,470.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+148013,37,37,1,C08,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+102647,33,33,3,BA04603,3,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98591,61,61,8,AO12404,8,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+186025,61,61,130,AJ02201,130,C,12.0,balda_9h,subhueco_balda,10.833333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AO13903,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98259,77,77,24,AV13305,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98264,61 CAMION123,61,24,AI09804,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+51100,32,32,1,TJ07901,1,A,1.0,EU,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+143050,5,5,182,97,1,A,60.5,EU,posicion_rack,3.0082644628099175,match_articulo_propietario; owner=prefijo_RESERVA
+41096,77,77,1,BD10100,1,A,1.0,suelo_estandar,posicion_suelo,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+109314,29,29,5,AV13702,5,C,16.0,AM,posicion_rack,0.3125,dimensión compatible con AM; owner=prefijo_RESERVA
+32051,71 CAMION120,71,8,AI04403,4,C,2.0,suelo_126,posicion_suelo,4.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+148039,71,71,1,AL102,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+121026,33,33,7,BA04603,7,C,12.0,balda_9h,subhueco_balda,0.5833333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+128016,33,33,830,BB13701,830,C,12.0,balda_9h,subhueco_balda,69.16666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+5696,61,61,552,AP09404,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+102603,33,33,332,AV02902,1,C,12.0,balda_9h,subhueco_balda,27.666666666666668,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+12036,77,77,144,AN03605,1,A,24.0,balda_9h,subhueco_balda,6.0,match_articulo_propietario; owner=prefijo_RESERVA
+888888,29,29,1,AN06303,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+83133,64,64,1,BA11402,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+61050,61,61,558,BA02204,1,C,12.0,balda_9h,subhueco_balda,46.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AH13801,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+*MULTI*,,sin_asignacion_segura,1,AH10006,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+33037,64,64,1,AQ06904,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+121019,33,33,60,BB13701,60,C,12.0,balda_9h,subhueco_balda,5.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98259,77 CANADAS,77,103,AO03604,103,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+169014,71,71,1,AQ01802,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+84052,64,64,75,TJ03201,1,A,6.0,EU,posicion_rack,12.5,match_articulo_propietario; owner=prefijo_RESERVA
+162009,32,32,14,AV10906,14,C,12.0,balda_9h,subhueco_balda,1.1666666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+154024,64,64,8,AT09401,1,C,1.0,suelo_250,posicion_suelo,8.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+98732,61,61,5,AZ02300,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+106338,29,29,56,AV11403,56,C,12.0,balda_9h,subhueco_balda,4.666666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+109099,77,77,7,AV12909,1,C,12.0,balda_9h,subhueco_balda,0.5833333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+126118,61 CAMION123,61,9,AK01105,9,C,12.0,balda_9h,subhueco_balda,0.75,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+162030,29,29,160,BC00102,1,C,12.0,balda_9h,subhueco_balda,13.333333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+121029,33,33,7,BA04603,7,C,12.0,balda_9h,subhueco_balda,0.5833333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+161024,61,61,13,AP03804,1,C,2.0,suelo_126,posicion_suelo,6.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+102155,14 VOLUNTARIA,14,5,BA02801,5,A,38.0,balda_9h,subhueco_balda,0.13157894736842105,match_articulo_propietario; owner=prefijo_RESERVA
+144009,29,29,8,AN02604,1,C,12.0,balda_9h,subhueco_balda,0.6666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+109199,61,61,12,AJ02201,12,C,2.0,suelo_126,posicion_suelo,6.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,TJ07701,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+91151,71,71,1,AX04000,1,B,1.0,EU,posicion_rack,1.0,match_articulo; owner=prefijo_RESERVA
+98597,61,61,5,AO13004,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+36028,64,64,2,AJ05206,1,B,40.0,EU,posicion_rack,0.05,match_articulo; owner=prefijo_RESERVA
+98644,61,61,3,AZ02300,3,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+61050,61 CAMION123,61,516,AN10703,1,C,12.0,balda_9h,subhueco_balda,43.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+142020,29,29,6,AM02804,1,C,1.0,suelo_250,posicion_suelo,6.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+11030,77 CANADAS,77,59,AO03604,59,B,48.0,balda_9h,subhueco_balda,1.2291666666666667,match_articulo; owner=prefijo_RESERVA
+91155,77,77,2,BC06800,1,C,6.0,EU,posicion_rack,0.3333333333333333,dimensión compatible con EU; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AT14704,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+111010,32,32,694,AI10804,694,C,12.0,balda_9h,subhueco_balda,57.833333333333336,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+36032,64,64,6,AQ04603,1,C,2.0,suelo_126,posicion_suelo,3.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+202044,77,77,5,TJ02100,1,B,5.5,EU,posicion_rack,0.9090909090909091,match_articulo; owner=prefijo_RESERVA
+98774,71,71,2,AW02004,2,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98234,29,29,18,AV08201,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+12025,77,77,384,AK11206,1,C,12.0,balda_9h,subhueco_balda,32.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+32051,71,71,7,AU14403,1,C,2.0,suelo_126,posicion_suelo,3.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+15017,61,61,2184,AL00802,1,A,48.0,balda_9h,subhueco_balda,45.5,match_articulo_propietario; owner=prefijo_RESERVA
+98768,64,64,1,BB06705,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+63001,96,96,168,B03,1,B,744.0,EU,posicion_rack,0.22580645161290322,match_articulo; owner=prefijo_RESERVA
+154021,64 CAMION120,64,1,AI05701,1,C,1.0,suelo_250,posicion_suelo,1.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+16045V,77,77,1,BD14903,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AV11403,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+148007,37,37,1,AL102,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+148045,37,37,1,AL102,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+991088,64,64,3,AZ11801,3,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+51045,29,29,3,AT08503,1,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+146057,3  PICO,3,1214,98,1,C,12.0,balda_9h,subhueco_balda,101.16666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+11009,61,61,1080,AZ12903,1,B,120.0,EU,posicion_rack,9.0,match_articulo; owner=prefijo_RESERVA
+51370,32,32,2,AH01005,1,C,16.0,AM,posicion_rack,0.125,dimensión compatible con AM; owner=prefijo_RESERVA
+184216,64,64,6,BC08302,6,C,2.0,suelo_126,posicion_suelo,3.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+144007,29,29,4,AJ08905,1,C,2.0,suelo_126,posicion_suelo,2.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+12019,29,29,984,AZ06603,1,B,228.0,EU,posicion_rack,4.315789473684211,match_articulo; owner=prefijo_RESERVA
+103590,29,29,1,AV13702,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98609,61,61,10,AO13804,10,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+74036,60,60,336,BA06102,1,C,12.0,balda_9h,subhueco_balda,28.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+148086,4,4,1,AL102,1,C,6.0,EU,posicion_rack,0.16666666666666666,dimensión compatible con EU; owner=prefijo_RESERVA
+102622,33,33,16,BB09403,16,C,12.0,balda_9h,subhueco_balda,1.3333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+61041,33,33,167,TJ13203,1,C,12.0,balda_9h,subhueco_balda,13.916666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+102639,29,29,9,AU14604,9,C,12.0,balda_9h,subhueco_balda,0.75,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+174123,29,29,1,AZ13001,1,C,2.0,TR,posicion_rack,0.5,dimensión larga compatible con TR; owner=prefijo_RESERVA
+98731,61,61,3,AZ02300,3,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+51187,71,71,1,AW02004,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+91032,33,33,1,AZ08403,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+61012,61,61,101,AK01105,101,B,78.0,EU,posicion_rack,1.294871794871795,match_articulo; owner=prefijo_RESERVA
+98592,61,61,3,AO12803,3,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+91199,64,64,1,BA10403,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+206050,29,29,23,AH06404,1,A,19.5,AM,posicion_rack,1.1794871794871795,match_articulo_propietario; owner=prefijo_RESERVA
+132002,29,29,1,AV13702,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98749,64,64,4,AL03505,4,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+51313,71,71,1,BA11900,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+61004,32,32,18,TJ13603,1,B,300.0,EU,posicion_rack,0.06,match_articulo; owner=prefijo_RESERVA
+121028,32,32,35,AZ08905,35,C,12.0,balda_9h,subhueco_balda,2.9166666666666665,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+103188,29,29,30,AV13002,30,C,12.0,balda_9h,subhueco_balda,2.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+123083,32,32,2,AK01803,2,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+132053,29,29,13,AV13702,13,C,12.0,balda_9h,subhueco_balda,1.0833333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98601,61,61,5,AO13004,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+14012,33,33,240,AT10004,1,B,144.0,EU,posicion_rack,1.6666666666666667,match_articulo; owner=prefijo_RESERVA
+14015,29,29,936,AO03102,1,A,24.0,balda_9h,subhueco_balda,39.0,match_articulo_propietario; owner=prefijo_RESERVA
+131060,33,33,1,BA04603,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+102615,29,29,1,B03,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98747,64,64,1,AL03505,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+124136,30,30,360,B03,1,C,12.0,balda_9h,subhueco_balda,30.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+103174,29,29,8,AV13002,8,C,12.0,balda_9h,subhueco_balda,0.6666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+11013,29,29,264,AJ08807,1,A,36.0,balda_9h,subhueco_balda,7.333333333333333,match_articulo_propietario; owner=prefijo_RESERVA
+61039,61,61,23,AJ07006,23,C,12.0,balda_9h,subhueco_balda,1.9166666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+23061,7,7,1,AZ09301,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+102154,14 VOLUNTARIA,14,21,BA02801,21,A,228.0,balda_9h,subhueco_balda,0.09210526315789473,match_articulo_propietario; owner=prefijo_RESERVA
+98896,64,64,31,AZ01902,31,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+159008,64,64,2,TJ08202,1,C,16.0,AM,posicion_rack,0.125,dimensión compatible con AM; owner=prefijo_RESERVA
+11014,61,61,48,AV02803,1,B,48.0,EU,posicion_rack,1.0,match_articulo; owner=prefijo_RESERVA
+22054,32,32,3,BC02403,1,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+14014,29,29,24,AV14002,1,A,276.0,EU,posicion_rack,0.08695652173913043,match_articulo_propietario; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,B03,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+106001,32,32,55,AZ08905,55,C,12.0,balda_9h,subhueco_balda,4.583333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+22113,7,7,4,BF07503,1,C,2.0,suelo_126,posicion_suelo,2.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+148088,4,4,1,AL107,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+148082,4,4,3,AL107,1,C,12.0,balda_9h,subhueco_balda,0.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+102617,29,29,1,B03,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+102253,29,29,9,AV13702,9,C,12.0,balda_9h,subhueco_balda,0.75,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+11009,61,61,24,AJ07506,2,B,120.0,EU,posicion_rack,0.2,match_articulo; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AJ10203,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+*MULTI*,,sin_asignacion_segura,1,BD14903,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+65048,29,29,48,AZ10005,1,C,12.0,balda_9h,subhueco_balda,4.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+205023,37,37,1,C09,1,C,1.0,suelo_250,posicion_suelo,1.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+74036,60,60,264,AM08102,1,C,12.0,balda_9h,subhueco_balda,22.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AO13804,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+123018,32,32,308,AK01803,308,C,12.0,balda_9h,subhueco_balda,25.666666666666668,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+152170,64,64,2,AT10303,2,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+121032,33,33,7,BA04603,7,C,12.0,balda_9h,subhueco_balda,0.5833333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98757,64,64,1,AZ00401,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+161106,71,71,1,BD13701,1,C,1.0,suelo_250,posicion_suelo,1.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+61028,61,61,12,AK01105,12,C,12.0,balda_9h,subhueco_balda,1.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+126118,61,61,10,AV13006,10,C,12.0,balda_9h,subhueco_balda,0.8333333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98730,61,61,4,AZ02300,4,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+129117,29,29,4,BF07103,4,C,2.0,suelo_126,posicion_suelo,2.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+192046,33,33,4000,BB11703,1,C,12.0,balda_9h,subhueco_balda,333.3333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98608,61,61,8,AO13804,8,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BF07103,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+205230,5,5,3,98,1,C,1.0,suelo_250,posicion_suelo,3.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AN09406,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98642,61,61,3,AZ02300,3,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+43011,32,32,1,AZ02802,1,C,2.0,TR,posicion_rack,0.5,dimensión larga compatible con TR; owner=prefijo_RESERVA
+161108,61,61,1,AJ02201,1,B,1.0,EU,posicion_rack,1.0,match_articulo; owner=prefijo_RESERVA
+184162,71,71,2,BB09205,2,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+154033,64,64,1,BA08705,1,A,1.0,EU,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+65049,32,32,48,AI10804,48,C,12.0,balda_9h,subhueco_balda,4.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+16024V,61,61,2,AV00709,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+74036,60,60,288,AO06603,1,C,12.0,balda_9h,subhueco_balda,24.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AP09401,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+145065,64,64,1,BA11402,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98579,61,61,5,AT14704,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+181155,32,32,1,AV10906,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+13006,77,77,192,AV09007,1,C,12.0,balda_9h,subhueco_balda,16.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+125053,33,33,250,BB13701,250,C,12.0,balda_9h,subhueco_balda,20.833333333333332,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+44047,3,3,1,97,1,C,2.0,suelo_300,posicion_suelo,0.5,dimensión >= 250 cm; owner=prefijo_RESERVA
+15003,29,29,672,AS01303,1,B,48.0,balda_9h,subhueco_balda,14.0,match_articulo; owner=prefijo_RESERVA
+147026,64,64,2,AL03505,2,C,12.0,balda_9h,subhueco_balda,0.16666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+161685,74,74,1,B03,1,B,2.0,suelo_250,posicion_suelo,0.5,match_articulo; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BA13602,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+103258,33,33,7,BA04603,7,C,12.0,balda_9h,subhueco_balda,0.5833333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+143037,33,33,23,BB09403,23,C,2.0,suelo_126,posicion_suelo,11.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+98553,61,61,22,AZ09501,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BB07302,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+102651,29,29,11,BF07103,11,C,12.0,balda_9h,subhueco_balda,0.9166666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+146042,3,3,19278,98,1,B,113.5,EU,posicion_rack,169.8502202643172,match_articulo; owner=prefijo_RESERVA
+172057,7,7,72,AZ08303,1,B,43.0,EU,posicion_rack,1.6744186046511629,match_articulo; owner=prefijo_RESERVA
+31096,64,64,10,AJ06401,1,C,2.0,suelo_126,posicion_suelo,5.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+132075,71,71,1,BB09205,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+61050,61,61,240,AV12405,1,C,12.0,balda_9h,subhueco_balda,20.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+51237,32 APT.NO TRANS,32,1,TJ06102,1,B,1.0,balda_9h,subhueco_balda,1.0,match_articulo; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AV13508,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+21033,64,64,4,AW08303,1,C,2.0,suelo_126,posicion_suelo,2.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BB09205,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+84052,64,64,71,BE09501,1,A,6.0,EU,posicion_rack,11.833333333333334,match_articulo_propietario; owner=prefijo_RESERVA
+51230,71,71,1,TJ05701,1,C,1.0,suelo_250,posicion_suelo,1.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+103188,29,29,1,AV13002,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+143037,33,33,1,BB09403,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+16045,77,77,5,BC12400,1,B,4.0,suelo_126,posicion_suelo,1.25,match_articulo; owner=prefijo_RESERVA
+107075,33,33,4,BB07302,4,C,12.0,balda_9h,subhueco_balda,0.3333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+43048,7,7,1,BA11905,1,B,1.0,EU,posicion_rack,1.0,match_articulo; owner=prefijo_RESERVA
+91249,77,77,1,BB08404,1,A,1.0,EU,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+154016,64,64,1,TJ09000,1,A,1.0,EU,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+126117,61,61,9,AV13006,9,C,12.0,balda_9h,subhueco_balda,0.75,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+124271,29,29,6,TJ12600,1,C,12.0,balda_9h,subhueco_balda,0.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98772,71,71,270,AZ13504,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98577,61,61,4,AZ02300,4,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98600,61,61,5,AO13004,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+31094,64,64,4,AW10703,4,C,2.0,suelo_126,posicion_suelo,2.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+144005,29,29,2,AJ14202,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+11000,61,61,240,AV08406,1,A,24.0,balda_9h,subhueco_balda,10.0,match_articulo_propietario; owner=prefijo_RESERVA
+161110,71,71,1,BC08102,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+186079,61,61,273,AJ02201,273,C,12.0,balda_9h,subhueco_balda,22.75,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98166,29,29,1,BE12500,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+172148,61,61,3,AJ07006,3,B,10.0,EU,posicion_rack,0.3,match_articulo; owner=prefijo_RESERVA
+98584,61,61,10,AO07002,10,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+22114,24,24,4,B03,1,C,2.0,suelo_126,posicion_suelo,2.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+131021,32,32,130,AK01803,130,C,12.0,balda_9h,subhueco_balda,10.833333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+148073,3,3,1,AL104,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+98562,61,61,7,AP09401,7,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+132083,29,29,900,AV13702,900,C,12.0,balda_9h,subhueco_balda,75.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+129073,61,61,2,AJ02201,2,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+133033,32,32,660,AK01803,660,C,12.0,balda_9h,subhueco_balda,55.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+91243,71,71,1,BB12801,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+11009,29,29,36,AJ07407,36,B,120.0,EU,posicion_rack,0.3,match_articulo; owner=prefijo_RESERVA
+11127,33,33,288,AV13709,1,B,192.0,EU,posicion_rack,1.5,match_articulo; owner=prefijo_RESERVA
+206050,64,64,45,AU08001,1,B,19.5,AM,posicion_rack,2.3076923076923075,match_articulo; owner=prefijo_RESERVA
+206050,29,29,15,BA08101,1,A,19.5,AM,posicion_rack,0.7692307692307693,match_articulo_propietario; owner=prefijo_RESERVA
+85035,33,33,600,BB13701,600,C,12.0,balda_9h,subhueco_balda,50.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AQ06404,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+14015,29,29,456,AV06904,1,A,24.0,balda_9h,subhueco_balda,19.0,match_articulo_propietario; owner=prefijo_RESERVA
+74004,61,61,14,AK01105,14,C,12.0,balda_9h,subhueco_balda,1.1666666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+31003,29,29,18,BD02001,1,B,24.0,AM,posicion_rack,0.75,match_articulo; owner=prefijo_RESERVA
+43047,7,7,1,BC08403,1,B,1.0,EU,posicion_rack,1.0,match_articulo; owner=prefijo_RESERVA
+143044,32,32,4,AN09501,4,C,2.0,suelo_126,posicion_suelo,2.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+16010,29,29,2,AK02405,1,A,9.0,EU,posicion_rack,0.2222222222222222,match_articulo_propietario; owner=prefijo_RESERVA
+141149,61,61,1,AJ02201,1,B,1.0,EU,posicion_rack,1.0,match_articulo; owner=prefijo_RESERVA
+103236,29,29,9,TJ04103,9,C,12.0,balda_9h,subhueco_balda,0.75,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+102185,14 VOLUNTARIA,14,23,BA02801,23,A,80.0,balda_9h,subhueco_balda,0.2875,match_articulo_propietario; owner=prefijo_RESERVA
+11104,77,77,144,AV09005,1,A,24.0,balda_9h,subhueco_balda,6.0,match_articulo_propietario; owner=prefijo_RESERVA
+98008,14 VOLUNTARIA,14,25,BA02801,25,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+31097,64,64,11,AU09406,1,C,2.0,suelo_126,posicion_suelo,5.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+109197,32,32,5,AV10906,5,C,12.0,balda_9h,subhueco_balda,0.4166666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AJ13006,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+162006,32,32,20,AI10804,20,C,12.0,balda_9h,subhueco_balda,1.6666666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98006,14 VOLUNTARIA,14,22,BA02801,22,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+148014,37,37,1,AL105,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+51204,32,32,2,AW01302,1,C,16.0,AM,posicion_rack,0.125,dimensión compatible con AM; owner=prefijo_RESERVA
+126003,61,61,262,AJ02201,262,C,12.0,balda_9h,subhueco_balda,21.833333333333332,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+102154,14 VOLUNTARIA,14,9,BA02801,9,A,228.0,balda_9h,subhueco_balda,0.039473684210526314,match_articulo_propietario; owner=prefijo_RESERVA
+106338,29,29,120,BF07103,120,C,12.0,balda_9h,subhueco_balda,10.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+152160,32,32,1,AV10906,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+103283,29,29,143,AK04006,143,C,12.0,balda_9h,subhueco_balda,11.916666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+65035,71,71,420,BA14503,1,C,12.0,balda_9h,subhueco_balda,35.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+42070,64,64,2,AJ09507,2,C,12.0,balda_9h,subhueco_balda,0.16666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+146018,33,33,14,BF07102,1,C,2.0,suelo_126,posicion_suelo,7.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+102683,29,29,90,BF07103,90,C,12.0,balda_9h,subhueco_balda,7.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+145089,29,29,10,AZ00803,1,C,2.0,suelo_126,posicion_suelo,5.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+132053,29,29,1,AV13702,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+74019,34,34,84,AZ03304,1,A,270.0,EU,posicion_rack,0.3111111111111111,match_articulo_propietario; owner=prefijo_RESERVA
+105057,29,29,20,AV13002,20,C,12.0,balda_9h,subhueco_balda,1.6666666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+34067,32,32,4,BA07001,1,C,16.0,AM,posicion_rack,0.25,dimensión compatible con AM; owner=prefijo_RESERVA
+49042,29,29,1,BA06405,1,A,1.0,EU,posicion_rack,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+161137,64,64,3,AZ11000,1,C,2.0,TR,posicion_rack,1.5,dimensión larga compatible con TR; owner=prefijo_RESERVA
+102155,14 VOLUNTARIA,14,21,BA02801,21,A,38.0,balda_9h,subhueco_balda,0.5526315789473685,match_articulo_propietario; owner=prefijo_RESERVA
+122008,32,32,100,AI10804,100,C,12.0,balda_9h,subhueco_balda,8.333333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BB11404,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+98586,61,61,10,AO07002,10,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+167010,71,71,2,BC01900,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+98142,32,32,1,AV01108,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+16008,77,77,2,AJ13006,2,B,9.0,EU,posicion_rack,0.2222222222222222,match_articulo; owner=prefijo_RESERVA
+12064,77,77,1392,BA11703,1,C,12.0,balda_9h,subhueco_balda,116.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98232,29,29,12,AV11708,12,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+143050,77,77,60,BA06001,1,B,60.5,EU,posicion_rack,0.9917355371900827,match_articulo; owner=prefijo_RESERVA
+125052,33,33,900,BB13701,900,C,12.0,balda_9h,subhueco_balda,75.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+16041,77,77,6,AV10801,1,C,2.0,suelo_126,posicion_suelo,3.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+147038,64,64,1,AV03804,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+98560,61,61,3,AP09401,3,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98462,77 CANADAS,77,122,AO03604,122,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98761,64,64,1,BB11404,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+991061,33,33,5640,AO07401,1,C,12.0,balda_9h,subhueco_balda,470.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+11013,61 CAMION123,61,1080,AK09803,1,A,48.0,balda_9h,subhueco_balda,22.5,match_articulo_propietario; owner=prefijo_RESERVA
+126023,32,32,168,AK01803,168,C,12.0,balda_9h,subhueco_balda,14.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+203035,71,71,2,BE11401,1,C,1.0,suelo_250,posicion_suelo,2.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+98377,33,33,1,AV02303,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+11009,61,61,60,TJ03503,1,B,120.0,EU,posicion_rack,0.5,match_articulo; owner=prefijo_RESERVA
+98010,14 VOLUNTARIA,14,4,BA02801,4,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+105056,29,29,20,AV13002,20,C,12.0,balda_9h,subhueco_balda,1.6666666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98891,64,64,12,AZ01902,12,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98573,61,61,5,AR04504,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98660,61,61,1,BA14303,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+12019,29,29,984,AT08705,1,B,228.0,EU,posicion_rack,4.315789473684211,match_articulo; owner=prefijo_RESERVA
+98570,61,61,7,AR04304,7,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+14014,61,61,72,AJ07506,3,B,360.0,EU,posicion_rack,0.2,match_articulo; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AZ01902,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+61006,77,77,36,AQ08403,3,B,78.0,EU,posicion_rack,0.46153846153846156,match_articulo; owner=prefijo_RESERVA
+103036,14 VOLUNTARIA,14,4,BA02801,4,A,29.0,balda_9h,subhueco_balda,0.13793103448275862,match_articulo_propietario; owner=prefijo_RESERVA
+991061,33,33,5640,AZ13602,1,C,12.0,balda_9h,subhueco_balda,470.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+105104,29,29,1,AV13702,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+13005,29,29,24,TJ10702,1,B,120.0,EU,posicion_rack,0.2,match_articulo; owner=prefijo_RESERVA
+154020,64,64,2,BA08705,2,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+154008,37,37,1,C10,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+49036,29,29,1,AZ00902,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+32041,32,32,30,AZ03700,1,C,2.0,suelo_126,posicion_suelo,15.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+43065,33,33,6,BC03802,1,C,2.0,suelo_126,posicion_suelo,3.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+98594,61,61,5,AO12803,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+54089,64,64,1,BA11402,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+11117,33,33,2100,BB08001,1,C,12.0,balda_9h,subhueco_balda,175.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+35009,64,64,11,AW12502,1,C,2.0,suelo_126,posicion_suelo,5.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AJ09706,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+12036,77,77,192,AV11107,1,A,24.0,balda_9h,subhueco_balda,8.0,match_articulo_propietario; owner=prefijo_RESERVA
+98775,71,71,2,AW02004,2,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98551,61,61,5,AZ02300,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+121031,32,32,24,AZ08905,24,C,12.0,balda_9h,subhueco_balda,2.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+109209,29,29,73,BF07103,73,C,12.0,balda_9h,subhueco_balda,6.083333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+15176,61,61,1944,BF06404,1,C,2.0,suelo_126,posicion_suelo,972.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+106339,29,29,19,TJ13601,1,C,12.0,balda_9h,subhueco_balda,1.5833333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AZ09605,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+148085,4,4,1,AL104,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+154027,64,64,1,AI05701,1,C,1.0,suelo_250,posicion_suelo,1.0,dimensión >= 190 cm o categoría exterior; owner=prefijo_RESERVA
+44046,3,3,2,97,1,C,16.0,AM,posicion_rack,0.125,dimensión compatible con AM; owner=prefijo_RESERVA
+129126,32,32,235,AK01803,235,C,12.0,balda_9h,subhueco_balda,19.583333333333332,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+83121,61,61,6,AJ02201,6,C,12.0,balda_9h,subhueco_balda,0.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98771,71,71,288,AZ12103,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+95013,32,32,2,AP08302,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+149047,64,64,14,AZ00705,1,C,2.0,suelo_126,posicion_suelo,7.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+51339,7,7,1,AR07204,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+184222,71,71,1,BB09205,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AV11708,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+*MULTI*,,sin_asignacion_segura,1,AV03306,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+186025,61,61,219,AJ02201,219,C,12.0,balda_9h,subhueco_balda,18.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+148001,3,3,1,AL103,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+61016,29,29,76,AZ12503,1,A,901.0,EU,posicion_rack,0.08435072142064373,match_articulo_propietario; owner=prefijo_RESERVA
+61015,61,61,24,AV13109,1,C,12.0,balda_9h,subhueco_balda,2.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98588,61,61,8,AO12404,8,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98508,77,77,84,AV05002,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+15178,29,29,240,AN03902,1,C,2.0,suelo_126,posicion_suelo,120.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+98462,29,29,72,AJ04107,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+133109,33,33,10686,AW09304,1,C,12.0,balda_9h,subhueco_balda,890.5,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+176022,3,3,1,99,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+186147,32,32,17,AK01803,17,C,12.0,balda_9h,subhueco_balda,1.4166666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+61016,61,61,24,AZ01105,1,B,252.0,EU,posicion_rack,0.09523809523809523,match_articulo; owner=prefijo_RESERVA
+14014,29,29,1080,AM11304,1,A,276.0,EU,posicion_rack,3.9130434782608696,match_articulo_propietario; owner=prefijo_RESERVA
+103134,33,33,3,BB07302,3,C,2.0,suelo_126,posicion_suelo,1.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AL102,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+184144,61,61,2,AJ02201,1,C,12.0,balda_9h,subhueco_balda,0.16666666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+126007,33,33,64,BA04603,64,B,127.0,EU,posicion_rack,0.5039370078740157,match_articulo; owner=prefijo_RESERVA
+12019,29,29,264,AT09606,1,B,228.0,EU,posicion_rack,1.1578947368421053,match_articulo; owner=prefijo_RESERVA
+71090,61,61,3,AV05405,1,B,228.0,EU,posicion_rack,0.013157894736842105,match_articulo; owner=prefijo_RESERVA
+85032,33,33,2,AQ08403,2,B,13.5,EU,posicion_rack,0.14814814814814814,match_articulo; owner=prefijo_RESERVA
+103175,29,29,10,AV13002,10,C,12.0,balda_9h,subhueco_balda,0.8333333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+152100,64,64,2,BC08302,2,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+167015,71,71,1,AJ07207,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+98009,14 VOLUNTARIA,14,16,BA02801,16,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+103308,29,29,1,BF07103,1,C,12.0,balda_9h,subhueco_balda,0.08333333333333333,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98640,61,61,8,AV10306,8,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+98593,61,61,1,AO12803,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+151030,29,29,7,AJ09706,7,C,12.0,balda_9h,subhueco_balda,0.5833333333333334,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+98767,64,64,1,AW11702,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA
+126003,61,61,68,AJ02201,68,C,12.0,balda_9h,subhueco_balda,5.666666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+146065,71,71,2,AK01506,1,A,1.0,EU,posicion_rack,2.0,match_articulo_propietario; owner=prefijo_RESERVA
+23101,64,64,4,BA01703,1,C,2.0,suelo_126,posicion_suelo,2.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+144006,29,29,2,AJ02702,1,C,2.0,suelo_126,posicion_suelo,1.0,dimensión <= 126 cm; owner=prefijo_RESERVA
+65036,71,71,402,AU04904,1,B,54.0,balda_9h,subhueco_balda,7.444444444444445,match_articulo; owner=prefijo_RESERVA
+148064,61,61,3,F01,1,C,2.0,suelo_300,posicion_suelo,1.5,dimensión >= 250 cm; owner=prefijo_RESERVA
+146038,33,33,12,AT11903,1,C,12.0,balda_9h,subhueco_balda,1.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+124224,33,33,23,BB07302,23,C,12.0,balda_9h,subhueco_balda,1.9166666666666667,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,BB01505,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+51094,32,32,1,AQ02005,1,A,1.0,suelo_126,posicion_suelo,1.0,match_articulo_propietario; owner=prefijo_RESERVA
+148033,37,37,1,AL107,1,C,16.0,AM,posicion_rack,0.0625,dimensión compatible con AM; owner=prefijo_RESERVA
+186026,61,61,219,AJ02201,219,C,12.0,balda_9h,subhueco_balda,18.25,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+43047,7,7,1,BB02402,1,B,1.0,EU,posicion_rack,1.0,match_articulo; owner=prefijo_RESERVA
+85019,71,71,211,AI03805,1,C,12.0,balda_9h,subhueco_balda,17.583333333333332,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+11013,29,29,1080,AQ04401,1,A,36.0,balda_9h,subhueco_balda,30.0,match_articulo_propietario; owner=prefijo_RESERVA
+144024,23,23,1,98,1,A,5.0,EU,posicion_rack,0.2,match_articulo_propietario; owner=prefijo_RESERVA
+51076,71,71,1,AQ06404,1,C,2.0,suelo_300,posicion_suelo,0.5,dimensión >= 250 cm; owner=prefijo_RESERVA
+*MULTI*,,sin_asignacion_segura,1,AO12404,1,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=sin_match
+91016,23,23,1,B03,1,A,1.5,AM,posicion_rack,0.6666666666666666,match_articulo_propietario; owner=prefijo_RESERVA
+71040,33,33,12,BB13701,12,C,12.0,balda_9h,subhueco_balda,1.0,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+191066,64,64,9,AI05701,9,C,2.0,suelo_300,posicion_suelo,4.5,dimensión >= 250 cm; owner=prefijo_RESERVA
+171000,7,7,2201,BB14402,2201,C,12.0,balda_9h,subhueco_balda,183.41666666666666,dimensión pequeña con bajo volumen; owner=prefijo_RESERVA
+44024,32,32,1,AZ10401,1,A,3.0,EU,posicion_rack,0.3333333333333333,match_articulo_propietario; owner=prefijo_RESERVA
+51206,71,71,1,AI05701,1,C,2.0,suelo_126,posicion_suelo,0.5,dimensión <= 126 cm; owner=prefijo_RESERVA
+98619,61,61,5,AO14002,5,C,,revision_manual,revision_manual,,revision_manual_sin_dimensiones; owner=prefijo_RESERVA

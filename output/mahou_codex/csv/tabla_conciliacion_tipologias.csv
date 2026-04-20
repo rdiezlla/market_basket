@@ -1,0 +1,41 @@
+tipologia,study_previo_valor,study_previo_unidad,investigacion_avanzada_valor,investigacion_avanzada_unidad,codex_recalculado_valor,codex_recalculado_unidad,comentario_diferencia
+AM_modulos_3eu,,,,,266.0,modulo_3eu,recalculado desde slot físico consolidado
+AM_valor_raw,,,,,532.0,posicion_rack,recalculado desde slot físico consolidado
+EU_modulos_3eu,,,,,873.0,modulo_3eu,recalculado desde slot físico consolidado
+EU_valor_raw,,,,,2619.0,posicion_rack,recalculado desde slot físico consolidado
+TR_modulos_3eu,,,,,177.0,modulo_3eu,recalculado desde slot físico consolidado
+TR_valor_raw,,,,,177.0,posicion_rack,recalculado desde slot físico consolidado
+balda 9 huecos_modulos_3eu,40,modulo_3eu,,,,,recalculado desde slot físico consolidado
+balda 9 huecos_tabla_modulos_3eu,,,180 modulos aprox.,modulo_3eu,,,recalculado desde slot físico consolidado
+balda 9 huecos_tabla_valor_raw,,,540 subhuecos,valor_raw_documento,,,recalculado desde slot físico consolidado
+balda 9 huecos_valor_raw,119 posiciones base,valor_raw_documento,,,,,recalculado desde slot físico consolidado
+balda_9h_modulos_3eu,,,,,19.85185185185185,modulo_3eu,1 módulo 3EU equivale a 27 subhuecos; los valores 180/557 mezclan unidades.
+balda_9h_parrafo_modulos_equivalentes,,,557,modulo_equivalente,,,1 módulo 3EU equivale a 27 subhuecos; los valores 180/557 mezclan unidades.
+balda_9h_valor_raw,,,,,536.0,subhueco_balda,1 módulo 3EU equivale a 27 subhuecos; los valores 180/557 mezclan unidades.
+otros_modulos_3eu,,,,,0.3333333333333333,modulo_3eu,recalculado desde slot físico consolidado
+otros_valor_raw,,,,,1.0,posicion_rack,recalculado desde slot físico consolidado
+"suelo 1,26 + balda_modulos_3eu",94,modulo_3eu,,,,,recalculado desde slot físico consolidado
+"suelo 1,26 + balda_tabla_modulos_3eu",,,34,modulo_3eu,,,recalculado desde slot físico consolidado
+"suelo 1,26 + balda_tabla_valor_raw",,,101,valor_raw_documento,,,recalculado desde slot físico consolidado
+"suelo 1,26 + balda_valor_raw",282,valor_raw_documento,,,,,recalculado desde slot físico consolidado
+"suelo 2,50 m_modulos_3eu",71,modulo_3eu,,,,,recalculado desde slot físico consolidado
+"suelo 2,50 m_tabla_modulos_3eu",,,84,modulo_3eu,,,recalculado desde slot físico consolidado
+"suelo 2,50 m_tabla_valor_raw",,,252,valor_raw_documento,,,recalculado desde slot físico consolidado
+"suelo 2,50 m_valor_raw",209,valor_raw_documento,,,,,recalculado desde slot físico consolidado
+"suelo 3,00 m_modulos_3eu",33,modulo_3eu,,,,,recalculado desde slot físico consolidado
+"suelo 3,00 m_tabla_modulos_3eu",,,40,modulo_3eu,,,recalculado desde slot físico consolidado
+"suelo 3,00 m_tabla_valor_raw",,,120,valor_raw_documento,,,recalculado desde slot físico consolidado
+"suelo 3,00 m_valor_raw",97,valor_raw_documento,,,,,recalculado desde slot físico consolidado
+suelo estandar_modulos_3eu,53,modulo_3eu,,,,,recalculado desde slot físico consolidado
+suelo estandar_valor_raw,153,valor_raw_documento,,,,,recalculado desde slot físico consolidado
+suelo_126_modulos_3eu,,,,,33.666666666666664,modulo_3eu,el documento avanzado mezcla posiciones y módulos; Codex mantiene posición_suelo separada.
+suelo_126_parrafo_modulos_3eu,,,40,modulo_3eu,,,el documento avanzado mezcla posiciones y módulos; Codex mantiene posición_suelo separada.
+suelo_126_valor_raw,,,,,101.0,posicion_suelo,el documento avanzado mezcla posiciones y módulos; Codex mantiene posición_suelo separada.
+suelo_250_modulos_3eu,,,,,83.16666666666667,modulo_3eu,252 sale a nivel fila; Codex usa unidad física consolidada y convierte con ancho observado.
+suelo_250_parrafo_modulos_3eu,,,121,modulo_3eu,,,252 sale a nivel fila; Codex usa unidad física consolidada y convierte con ancho observado.
+suelo_250_valor_raw,,,,,246.0,posicion_suelo,252 sale a nivel fila; Codex usa unidad física consolidada y convierte con ancho observado.
+suelo_300_modulos_3eu,,,,,40.666666666666664,modulo_3eu,recalculado desde slot físico consolidado
+suelo_300_parrafo_modulos_3eu,,,40,modulo_3eu,,,recalculado desde slot físico consolidado
+suelo_300_valor_raw,,,,,120.0,posicion_suelo,recalculado desde slot físico consolidado
+suelo_estandar_modulos_3eu,,,,,32.0,modulo_3eu,recalculado desde slot físico consolidado
+suelo_estandar_valor_raw,,,,,96.0,posicion_suelo,recalculado desde slot físico consolidado

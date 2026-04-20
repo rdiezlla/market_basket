@@ -1,0 +1,7 @@
+validacion,resultado,detalle
+granularidad_stock_externo,granularidad heterogénea,ADR repetido=62.97%; QCNT=UDS=63.98%
+conciliacion_entre_estudios,ok,40 filas de conciliación con diferencias comentadas
+unidades_tipologias_especiales,ok,"posicion_suelo, subhueco_balda, modulo_3eu y eu_equivalente separados"
+penalizacion_altura_10,ok,solo penalizan suelo_250 y suelo_300; slots afectados=366
+doble_conteo_stock_actual_vs_externo,riesgo_bajo_medio,sin clave física común; solape físico directo no demostrado; ratio dummy=0.00%
+propietarios_que_cambian_de_bloque,35,propietarios con cambio de pasillo principal al incluir inferido=35
