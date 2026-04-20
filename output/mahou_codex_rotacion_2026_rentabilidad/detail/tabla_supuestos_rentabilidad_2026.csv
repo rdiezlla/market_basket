@@ -1,0 +1,11 @@
+﻿supuesto,valor,unidad,fuente,comentario
+periodo_analizado,2026-01-01 a 2026-04-20,fecha,movimientos.xlsx,Rotación 2026 usada como necesidad más representativa.
+coste_personal,22.0,EUR/h,usuario,Coste horario aportado por negocio.
+ancho_pasillo_retractil,3.0,m,usuario,Escenario todo retráctil.
+ancho_pasillo_articulada,2.0,m,usuario,Escenario pasillo estrecho.
+profundidad_rack_modelada,1.1,m,proxy geométrico,Usada para convertir ahorro de ancho en posiciones equivalentes.
+velocidad_retractil_modelada,11.0,km/h,Crown ESR 1000,Velocidad de desplazamiento de referencia.
+penalizacion_productividad_articulada,0.12,ratio,supuesto operativo,Penalización deliberadamente conservadora aplicada solo a líneas en pasillos articulados.
+ciclo_pick_tipico,255.0,seg/linea,mediana movimientos 2026,Usada para penalizar articulada por menor productividad.
+tarifa_externa_euro_palet,6.2,EUR/palet/mes,FEPOPA,Valor de capacidad solo si la nueva posición realmente sustituye externo.
+fx_eur_gbp,0.86993,GBP por EUR,ECB,Cambio usado para homogeneizar costes de equipo publicados en GBP.

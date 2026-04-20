@@ -1,0 +1,5 @@
+﻿articulated_count,pasillos_articulados,picking_lineas_en_pasillos_articulados_2026,am_tr_incompatible_en_altura,capacidad_extra_posiciones_equivalentes,valor_capacidad_si_se_ocupa_100_pct_eur_anual,penalizacion_laboral_eur_anual,prima_equipo_eur_anual_por_maquina,neto_antes_de_amtr_eur_anual,flexibilidad_neta_posiciones_equivalentes
+1,12,0.0,21.0,34.84,2592.0,0.0,6869.52,-4277.52,13.84
+2,"11,12",11.91,93.91,69.68,5184.0,7.39,6869.52,-1692.91,-24.23
+3,"10,11,12",17.78,283.56,104.52,7776.0,11.03,6869.52,895.45,-179.04
+4,"9,10,11,12",72.17,338.39,139.35,10368.0,44.78,6869.52,3453.7,-199.04
