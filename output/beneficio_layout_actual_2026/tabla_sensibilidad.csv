@@ -1,0 +1,4 @@
+﻿escenario,criterio_distancia,velocidad,coste_personal,coste_carretilla_mensual,ahorro_metros,ahorro_horas,ahorro_eur
+A_conservador,observed_order,1.5,22.0,1100.0,215513.6,39.9099,1152.4
+B_base_recomendado,observed_order,1.2,22.0,1100.0,255179.4,59.0693,1705.63
+C_agresivo,spatial_sweep,0.9,22.0,1100.0,265187.2,81.8479,2363.36

@@ -1,0 +1,10 @@
+﻿escenario,unidad,valor_medio_ahorro_metros,robustez,comentario
+A_conservador,linea,55.7603,media,"Útil para granularidad fina, pero muy sensible al orden operativo de cada transacción."
+A_conservador,transaccion,191.7381,alta,Es la unidad recomendada porque la preparación se lanza por pedido externo + propietario.
+A_conservador,propietario,7981.9852,media,"Buena para priorizar dueños, pero oculta la variabilidad entre pedidos."
+B_base_recomendado,linea,66.0231,media,"Útil para granularidad fina, pero muy sensible al orden operativo de cada transacción."
+B_base_recomendado,transaccion,227.0279,alta,Es la unidad recomendada porque la preparación se lanza por pedido externo + propietario.
+B_base_recomendado,propietario,9451.0889,media,"Buena para priorizar dueños, pero oculta la variabilidad entre pedidos."
+C_agresivo,linea,68.6125,media,"Útil para granularidad fina, pero muy sensible al orden operativo de cada transacción."
+C_agresivo,transaccion,235.9317,alta,Es la unidad recomendada porque la preparación se lanza por pedido externo + propietario.
+C_agresivo,propietario,9821.7481,media,"Buena para priorizar dueños, pero oculta la variabilidad entre pedidos."

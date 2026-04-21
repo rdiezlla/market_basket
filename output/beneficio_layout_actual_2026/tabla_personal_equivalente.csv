@@ -1,0 +1,4 @@
+﻿escenario,horas_ahorradas_totales,jornada_anual_horas,personas_equivalentes,carretillas_equivalentes,carretillas_actuales,ahorro_carretilla_realizable
+A_conservador,39.9099,1760.0,0.0227,0.0208,3,0.0
+B_base_recomendado,59.0693,1760.0,0.0336,0.0308,3,0.0
+C_agresivo,81.8479,1760.0,0.0465,0.0426,3,0.0
