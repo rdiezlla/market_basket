@@ -1,0 +1,4 @@
+﻿escenario,transacciones_2026,lineas_2026,horas_actuales,horas_contrafactuales,horas_evitable_productividad,transacciones_h_actual,transacciones_h_contrafactual,lineas_h_actual,lineas_h_contrafactual,uplift_productividad_tx_pct,uplift_productividad_lineas_pct
+A_conservador,1124,3865,397.2173,174.3984,222.8189,2.8297,6.445,9.7302,22.1619,1.277643,1.277643
+B_base_recomendado,1124,3865,397.2173,146.2832,250.9341,2.8297,7.6837,9.7302,26.4214,1.7154,1.7154
+C_agresivo,1124,3865,397.2173,134.9899,262.2274,2.8297,8.3265,9.7302,28.6318,1.94257,1.94257

@@ -1,0 +1,4 @@
+﻿escenario,horas_actuales,horas_contrafactuales,horas_liberadas,capacidad_adicional_pedidos,capacidad_adicional_lineas,capacidad_adicional_pct,lineas_h_actual,lineas_h_contrafactual
+A_conservador,397.2173,174.3984,222.8189,1436.07,4938.09,1.277643,9.7302,22.1619
+B_base_recomendado,397.2173,146.2832,250.9341,1928.11,6630.02,1.7154,9.7302,26.4214
+C_agresivo,397.2173,134.9899,262.2274,2183.45,7508.03,1.94257,9.7302,28.6318

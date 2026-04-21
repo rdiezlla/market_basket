@@ -1,0 +1,4 @@
+﻿escenario,horas_evitable_sin_baja,use_variable_hour_savings,variable_hour_rate_source,variable_hour_rate_eur_h,coste_variable_evitable_eur
+A_conservador,222.8189,True,temp_labour,24.0,5347.65
+B_base_recomendado,250.9341,True,temp_labour,24.0,6022.42
+C_agresivo,262.2274,True,temp_labour,24.0,6293.46

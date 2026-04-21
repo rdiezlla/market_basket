@@ -1,0 +1,4 @@
+﻿escenario,criterio_distancia,seconds_per_meter,seconds_per_aisle_change,seconds_per_stop,seconds_per_owner_fragment,seconds_per_discontinuous_block,seconds_per_search_event,seconds_per_maneuver,seconds_per_return_to_route,calibration_factor,ahorro_metros,ahorro_horas,ahorro_equivalente_eur,ahorro_realizable_eur,coste_variable_evitable_eur,uplift_productividad_lineas_pct,capacidad_adicional_pct
+A_conservador,observed_order,1.05,20.0,6.5,12.0,16.0,9.0,11.0,12.0,2.709069,215513.6,222.8189,6433.9,0.0,5347.65,1.277643,1.277643
+B_base_recomendado,observed_order,1.15,34.0,8.5,22.0,30.0,14.0,18.0,22.0,2.237042,255179.4,250.9341,7245.72,0.0,6022.42,1.7154,1.7154
+C_agresivo,spatial_sweep,1.25,42.0,10.0,28.0,38.0,18.0,22.0,28.0,1.978633,265194.4,262.2274,7571.82,0.0,6293.46,1.94257,1.94257

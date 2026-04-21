@@ -1,0 +1,34 @@
+﻿escenario,grupo,parametro,valor,unidad,descripcion
+global,geometria,lateral_metros_por_pasillo,5.5,m,Coste lateral entre pasillos contiguos del almacen actual.
+global,geometria,longitudinal_metros_por_posicion,1.2,m,Modulo longitudinal por posicion.
+global,coste,coste_personal,22.0,eur_h,Coste de personal aportado por negocio.
+global,coste,coste_carretilla_mensual,1100.0,eur_mes,Alquiler mensual por carretilla actual.
+global,coste,carretillas_actuales,3,uds,Dotacion actual de carretillas.
+global,observado,duration_clip_low_sec,6.0,s,Cota inferior usada para winsorizar duraciones reales de linea.
+global,observado,duration_clip_high_sec,1230.8,s,Cota superior usada para winsorizar duraciones reales de linea.
+global,variable,use_variable_hour_savings,True,bool,Activa la lectura de ahorro variable evitable cuando no se elimina una persona completa.
+global,variable,variable_hour_rate_eur_h,24.0,eur_h,Tarifa variable usada (temp_labour).
+A_conservador,drivers_operativos,seconds_per_meter,1.05,s,"Agrupa por propietario con una mejora prudente: menos dispersion, pero sin asumir una secuenciacion especialmente afinada."
+A_conservador,drivers_operativos,seconds_per_aisle_change,20.0,s,"Agrupa por propietario con una mejora prudente: menos dispersion, pero sin asumir una secuenciacion especialmente afinada."
+A_conservador,drivers_operativos,seconds_per_stop,6.5,s,"Agrupa por propietario con una mejora prudente: menos dispersion, pero sin asumir una secuenciacion especialmente afinada."
+A_conservador,drivers_operativos,seconds_per_owner_fragment,12.0,s,"Agrupa por propietario con una mejora prudente: menos dispersion, pero sin asumir una secuenciacion especialmente afinada."
+A_conservador,drivers_operativos,seconds_per_discontinuous_block,16.0,s,"Agrupa por propietario con una mejora prudente: menos dispersion, pero sin asumir una secuenciacion especialmente afinada."
+A_conservador,drivers_operativos,seconds_per_search_event,9.0,s,"Agrupa por propietario con una mejora prudente: menos dispersion, pero sin asumir una secuenciacion especialmente afinada."
+A_conservador,drivers_operativos,seconds_per_maneuver,11.0,s,"Agrupa por propietario con una mejora prudente: menos dispersion, pero sin asumir una secuenciacion especialmente afinada."
+A_conservador,drivers_operativos,seconds_per_return_to_route,12.0,s,"Agrupa por propietario con una mejora prudente: menos dispersion, pero sin asumir una secuenciacion especialmente afinada."
+B_base_recomendado,drivers_operativos,seconds_per_meter,1.15,s,"Agrupa por propietario, acerca los mas rotadores a expedicion y captura el beneficio operativo de reducir cambios, maniobras y reorientaciones."
+B_base_recomendado,drivers_operativos,seconds_per_aisle_change,34.0,s,"Agrupa por propietario, acerca los mas rotadores a expedicion y captura el beneficio operativo de reducir cambios, maniobras y reorientaciones."
+B_base_recomendado,drivers_operativos,seconds_per_stop,8.5,s,"Agrupa por propietario, acerca los mas rotadores a expedicion y captura el beneficio operativo de reducir cambios, maniobras y reorientaciones."
+B_base_recomendado,drivers_operativos,seconds_per_owner_fragment,22.0,s,"Agrupa por propietario, acerca los mas rotadores a expedicion y captura el beneficio operativo de reducir cambios, maniobras y reorientaciones."
+B_base_recomendado,drivers_operativos,seconds_per_discontinuous_block,30.0,s,"Agrupa por propietario, acerca los mas rotadores a expedicion y captura el beneficio operativo de reducir cambios, maniobras y reorientaciones."
+B_base_recomendado,drivers_operativos,seconds_per_search_event,14.0,s,"Agrupa por propietario, acerca los mas rotadores a expedicion y captura el beneficio operativo de reducir cambios, maniobras y reorientaciones."
+B_base_recomendado,drivers_operativos,seconds_per_maneuver,18.0,s,"Agrupa por propietario, acerca los mas rotadores a expedicion y captura el beneficio operativo de reducir cambios, maniobras y reorientaciones."
+B_base_recomendado,drivers_operativos,seconds_per_return_to_route,22.0,s,"Agrupa por propietario, acerca los mas rotadores a expedicion y captura el beneficio operativo de reducir cambios, maniobras y reorientaciones."
+C_agresivo,drivers_operativos,seconds_per_meter,1.25,s,"Agrupa por propietario y asume un aprovechamiento alto del bloque: mejor secuenciacion, menos retrocesos y menos reenganche de ruta."
+C_agresivo,drivers_operativos,seconds_per_aisle_change,42.0,s,"Agrupa por propietario y asume un aprovechamiento alto del bloque: mejor secuenciacion, menos retrocesos y menos reenganche de ruta."
+C_agresivo,drivers_operativos,seconds_per_stop,10.0,s,"Agrupa por propietario y asume un aprovechamiento alto del bloque: mejor secuenciacion, menos retrocesos y menos reenganche de ruta."
+C_agresivo,drivers_operativos,seconds_per_owner_fragment,28.0,s,"Agrupa por propietario y asume un aprovechamiento alto del bloque: mejor secuenciacion, menos retrocesos y menos reenganche de ruta."
+C_agresivo,drivers_operativos,seconds_per_discontinuous_block,38.0,s,"Agrupa por propietario y asume un aprovechamiento alto del bloque: mejor secuenciacion, menos retrocesos y menos reenganche de ruta."
+C_agresivo,drivers_operativos,seconds_per_search_event,18.0,s,"Agrupa por propietario y asume un aprovechamiento alto del bloque: mejor secuenciacion, menos retrocesos y menos reenganche de ruta."
+C_agresivo,drivers_operativos,seconds_per_maneuver,22.0,s,"Agrupa por propietario y asume un aprovechamiento alto del bloque: mejor secuenciacion, menos retrocesos y menos reenganche de ruta."
+C_agresivo,drivers_operativos,seconds_per_return_to_route,28.0,s,"Agrupa por propietario y asume un aprovechamiento alto del bloque: mejor secuenciacion, menos retrocesos y menos reenganche de ruta."
