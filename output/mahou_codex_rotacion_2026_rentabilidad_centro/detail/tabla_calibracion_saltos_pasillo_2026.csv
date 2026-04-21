@@ -1,7 +1,0 @@
-﻿metrica,valor,unidad,comentario
-transiciones_mismo_pasillo,1716.0,transiciones,Consecutivas mismo operario/día/propietario
-transiciones_cambio_pasillo,759.0,transiciones,Consecutivas mismo operario/día/propietario
-mediana_duracion_mismo_pasillo,209.0,seg,Base sin salto de pasillo
-mediana_duracion_cambio_pasillo,310.0,seg,Incluye coste de salto de pasillo
-delta_mediana_cambio_vs_mismo,101.0,seg,Sobreprecio observado de cambiar de pasillo
-sec_por_salto_base_modelado,60.0,seg/rank,Supuesto base usado en el escenario

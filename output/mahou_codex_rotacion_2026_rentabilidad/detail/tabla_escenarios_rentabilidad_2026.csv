@@ -1,4 +1,0 @@
-﻿escenario,pasillos_articulados,horas_paseo_proxy_anual,coste_paseo_proxy_anual_eur,coste_equipo_anual_eur_por_maquina,capacidad_extra_posiciones_equivalentes,valor_capacidad_si_se_ocupa_100_pct_eur_anual,am_tr_incompatible_en_altura,neto_vs_retractil_antes_de_amtr_eur_anual,flexibilidad_neta_posiciones_equivalentes,comentario
-actual_2026_origen,,65.74,1446.33,0.0,0.0,0.0,0.0,0.0,0.0,Base observada 2026; sin hipótesis nueva de carretilla.
-destino_12_pasillos_retractil,,38.37,844.1,7173.0,0.0,0.0,0.0,0.0,0.0,Escenario recomendado base: toda la nave servida con reach/retráctil.
-destino_mixto_compromiso_11_12_articulada,"11,12",38.7,851.49,14042.52,69.68,5184.0,93.91,-1692.91,-24.23,"Compromiso razonable si se quiere probar articulada atrás, pero ya pierde flexibilidad por AM/TR."
